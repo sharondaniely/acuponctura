@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פרוטוקולי דיקור ראשונים - מדריך מעשי
 
 ## First Needling Protocols - Practical Guide

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # נקודות נוספות חשובות — ג'ינג וואי צ'י שיואה (经外奇穴)
 
 ## Important Extra-Meridian Points

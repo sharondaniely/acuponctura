@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מיפוי דפוסים לנקודות דיקור
 
 ## Pattern to Acupoint Mapping (辨证取穴 Bian Zheng Qu Xue)

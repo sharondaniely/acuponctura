@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # יחסים בין איברים
 
 ## Inter-Organ Relationships in TCM

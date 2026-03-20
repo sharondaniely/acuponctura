@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פורמולות מחזקות (补益剂)
 
 ## Tonifying Formulas (Bu Yi Ji)

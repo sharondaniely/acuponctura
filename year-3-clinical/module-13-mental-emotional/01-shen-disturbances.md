@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # הפרעות שן - רוח (神志病)
 
 ## Shen Disturbances - Spirit Disorders

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרשים זרימה — בעיות נשימה
 
 ## Respiratory Disorders Flowchart (呼吸系统辨证流程 Hu Xi Xi Tong Bian Zheng Liu Cheng)

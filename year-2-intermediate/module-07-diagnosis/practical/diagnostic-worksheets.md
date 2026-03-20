@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דפי עבודה אבחוניים
 
 ## Diagnostic Worksheets for Clinical Practice

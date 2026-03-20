@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # התבוננות - וואנג (望诊)
 
 ## Inspection - Wang Zhen

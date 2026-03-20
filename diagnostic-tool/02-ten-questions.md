@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # עשר השאלות - שי וון (十问)
 
 ## Ten Questions (Shi Wen)

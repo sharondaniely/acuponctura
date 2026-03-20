@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # גורמי מחלה ברפואה הסינית
 
 ## Causes of Disease in Chinese Medicine
@@ -433,3 +435,11 @@
 ---
 
 > **נקודה למחשבה**: הרפואה הסינית אינה מסתכלת רק על "מה הגורם?" אלא גם "מדוע דווקא עכשיו?" ו"מדוע דווקא אצל אדם זה?". אותו גורם פתוגני יכול להשפיע באופן שונה על אנשים שונים, בהתאם לחוקתם, לאורח חייהם ולמצבם הרגשי. זוהי מהות הטיפול האישי ברפואה הסינית.
+
+---
+
+## ניווט
+
+- **הקודם**: [חומרים חיוניים](04-vital-substances.md)
+- **חזרה למודול**: [מודול 1 — פילוסופיה](README.md)
+- **ראה גם**: [סינדרומים של פתוגנים חיצוניים](../../year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/01-wind-cold.md) — רוח-קור כדוגמא לששת העודפים | [אגירת צ'י כבד](../../year-2-intermediate/module-06b-syndromes/liver-syndromes/01-liver-qi-stagnation.md) — דוגמא לנזק רגשי (שבעת הרגשות) | [שמונת העקרונות](../../year-2-intermediate/module-06-pathology/02-eight-principles.md) — סיווג הגורמים לדפוסים

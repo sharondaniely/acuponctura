@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רשימת תיוג להתבוננות
 
 ## Inspection Checklist (望诊 Wang Zhen)

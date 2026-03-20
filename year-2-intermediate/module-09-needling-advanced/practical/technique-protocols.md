@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פרוטוקולי טכניקות — מדריך מעשי
 
 ## Technique Protocols — Practical Guide

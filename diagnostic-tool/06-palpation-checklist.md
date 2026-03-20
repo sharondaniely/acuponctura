@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רשימת תיוג למישוש
 
 ## Palpation Checklist (切诊 Qie Zhen)

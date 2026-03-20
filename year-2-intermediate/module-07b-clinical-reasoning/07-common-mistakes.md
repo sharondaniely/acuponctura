@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טעויות אבחון נפוצות וכיצד להימנע מהן
 
 ## Common Diagnostic Mistakes and How to Avoid Them

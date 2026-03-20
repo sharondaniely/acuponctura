@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אטלס לשון - מדריך ויזואלי
 
 ## Tongue Atlas - Visual Reference Guide

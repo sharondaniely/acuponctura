@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תמיכה אונקולוגית
 
 ## Oncology Acupuncture Support (肿瘤辅助针灸)

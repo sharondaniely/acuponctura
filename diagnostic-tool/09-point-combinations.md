@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שילובי נקודות קלאסיים
 
 ## Classic Point Combinations (经典配穴 Jing Dian Pei Xue)

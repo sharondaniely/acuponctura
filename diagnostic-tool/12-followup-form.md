@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טופס מעקב
 
 ## Follow-up Assessment Form (随访表 Sui Fang Biao)

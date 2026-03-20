@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דפוסי שלוש המבערות (三焦辨证 San Jiao Bian Zheng)
 
 ## San Jiao Pattern Identification

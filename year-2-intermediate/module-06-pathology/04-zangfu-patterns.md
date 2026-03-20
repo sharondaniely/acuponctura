@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דפוסי זאנג-פו — סקירה כללית
 
 ## Zang-Fu Patterns — Overview

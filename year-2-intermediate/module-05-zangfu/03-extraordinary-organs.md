@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # איברים יוצאי דופן (奇恒之腑 Qi Heng Zhi Fu)
 
 ## Extraordinary Organs

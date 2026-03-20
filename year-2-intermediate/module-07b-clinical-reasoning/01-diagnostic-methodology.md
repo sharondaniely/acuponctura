@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מתודולוגיית אבחון - גישה שיטתית
 
 ## Diagnostic Methodology - Systematic Approach

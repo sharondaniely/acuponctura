@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אקופונקטורה על פי חמשת האלמנטים
 
 ## Five Element Acupuncture (五行针灸)

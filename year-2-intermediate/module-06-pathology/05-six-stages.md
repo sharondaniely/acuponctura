@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שש השלבים — שאנג האן לון (伤寒论)
 
 ## Six Stages — Shang Han Lun

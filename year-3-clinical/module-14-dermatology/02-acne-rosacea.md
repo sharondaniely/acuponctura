@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אקנה ורוזציאה
 
 ## Acne and Rosacea in TCM

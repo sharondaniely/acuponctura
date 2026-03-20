@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדפוס לעקרון טיפולי
 
 ## From Pattern to Treatment Principle

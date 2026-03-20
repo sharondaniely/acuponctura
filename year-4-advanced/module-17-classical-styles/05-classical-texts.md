@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טקסטים קלאסיים (经典研读)
 
 ## Classical Texts of Chinese Medicine (Jing Dian Yan Du)

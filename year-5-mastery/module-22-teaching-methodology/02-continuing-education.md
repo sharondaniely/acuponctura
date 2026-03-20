@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # השתלמויות והתפתחות מקצועית
 
 ## Continuing Education and Professional Development (继续教育)

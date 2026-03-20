@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # איברי זאנג — האיברים המלאים (脏)
 
 ## Zang Organs — The Solid (Yin) Organs

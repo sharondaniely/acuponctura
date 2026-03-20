@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # כוסות רוח (拔罐)
 
 ## Cupping Therapy (Ba Guan)

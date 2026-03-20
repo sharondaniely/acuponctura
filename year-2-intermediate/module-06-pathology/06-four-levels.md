@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ארבע הרמות — וון בינג (温病)
 
 ## Four Levels — Wen Bing (Warm Disease Theory)

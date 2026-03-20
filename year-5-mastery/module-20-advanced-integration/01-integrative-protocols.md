@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פרוטוקולים אינטגרטיביים
 
 ## Integrative Protocols (综合治疗方案)

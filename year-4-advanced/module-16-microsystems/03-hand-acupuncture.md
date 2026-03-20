@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דיקור כף יד (手针)
 
 ## Hand Acupuncture (Shou Zhen)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # חיזוק וניקוז — בו שיה (补泻)
 
 ## Reinforcing and Reducing Techniques (Bu Xie)

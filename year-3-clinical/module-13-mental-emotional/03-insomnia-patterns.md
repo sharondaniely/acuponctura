@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דפוסי נדודי שינה (失眠)
 
 ## Insomnia Patterns (Shi Mian)

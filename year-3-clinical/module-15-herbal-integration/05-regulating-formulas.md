@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פורמולות מווסתות (理气剂, 理血剂)
 
 ## Regulating Formulas - Qi and Blood (Li Qi Ji, Li Xue Ji)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ניתוח דפוסים מורכבים
 
 ## Complex Pattern Analysis

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדריך שילוב פורמולות צמחים לפי דפוס
 
 ## Herbal Formula Integration Guide (方剂配合指南 Fang Ji Pei He Zhi Nan)

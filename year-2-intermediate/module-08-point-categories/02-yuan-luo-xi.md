@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # נקודות יואן, לואו ושי (原穴, 络穴, 郄穴)
 
 ## Yuan (Source), Luo (Connecting), and Xi (Cleft) Points

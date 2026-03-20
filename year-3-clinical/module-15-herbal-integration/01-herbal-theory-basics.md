@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # יסודות תורת הצמחים (中药学基础)
 
 ## Herbal Theory Basics (Zhong Yao Xue Ji Chu)

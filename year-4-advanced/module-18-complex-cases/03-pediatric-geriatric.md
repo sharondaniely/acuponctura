@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ילדים וקשישים
 
 ## Pediatric and Geriatric Acupuncture (小儿与老年针灸)

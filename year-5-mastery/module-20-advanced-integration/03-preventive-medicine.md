@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רפואה מונעת - יאנג שנג (养生)
 
 ## Preventive Medicine - Yang Sheng (Nourishing Life)

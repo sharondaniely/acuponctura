@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # יובש ריאות (Zao Xie Fan Fei, 燥邪犯肺)
 
 ## תיאור כללי

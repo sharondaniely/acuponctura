@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ליחה מעממת את הלב (Tan Meng Xin Qiao, 痰蒙心窍)
 
 ## תיאור כללי

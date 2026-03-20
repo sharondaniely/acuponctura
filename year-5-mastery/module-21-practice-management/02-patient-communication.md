@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תקשורת עם מטופלים
 
 ## Patient Communication (医患沟通)

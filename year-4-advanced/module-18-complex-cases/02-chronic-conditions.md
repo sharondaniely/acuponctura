@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מצבים כרוניים
 
 ## Chronic Conditions (慢性病治疗)

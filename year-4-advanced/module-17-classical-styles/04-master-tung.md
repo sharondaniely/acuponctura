@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אקופונקטורת מאסטר טונג (董氏奇穴)
 
 ## Master Tung's Acupuncture (Dong Shi Qi Xue)

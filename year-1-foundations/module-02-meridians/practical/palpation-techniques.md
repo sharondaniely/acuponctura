@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טכניקות מישוש למציאת נקודות
 
 ## Palpation Techniques for Point Location

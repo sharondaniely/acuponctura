@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אבחון בטני (腹诊)
 
 ## Abdominal Diagnosis - Fu Zhen

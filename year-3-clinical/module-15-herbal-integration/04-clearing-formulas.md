@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פורמולות מנקות (清热剂)
 
 ## Clearing Formulas (Qing Re Ji)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שמונה נקודות ההשפעה — הוי (八会穴)
 
 ## The Eight Influential (Hui/Meeting) Points

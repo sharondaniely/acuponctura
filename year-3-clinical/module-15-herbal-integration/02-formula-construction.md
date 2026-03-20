@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # בניית פורמולה - ג'ון צ'ן צואו שי (君臣佐使)
 
 ## Formula Construction - Jun Chen Zuo Shi

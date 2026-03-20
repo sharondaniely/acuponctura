@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ערוץ הריאות - שו טאי ין פיי (手太阴肺经)
 
 ## Hand Tai Yin Lung Channel (Shou Tai Yin Fei Jing)
@@ -477,3 +479,12 @@
 ---
 
 > **נקודה למחשבה**: ערוץ הריאות הוא הערוץ הראשון במחזור הצ'י ומסמל את תחילת החיים (הנשימה הראשונה). למרות שיש בו רק 11 נקודות, הוא כולל נקודות בעלות חשיבות קלינית עצומה — במיוחד LU7 (אחת מ-4 נקודות הפיקוד) ו-LU9 (נקודת מפגש כלי הדם). הכרת ערוץ זה היא הבסיס ללימוד שאר הערוצים.
+
+---
+
+## ניווט
+
+- **הקודם**: [סקירת מערכת המרידיאנים](01-meridian-system.md) | **הבא**: [ערוץ המעי הגס (LI)](03-large-intestine.md)
+- **זוג פנים-חוץ**: [ערוץ המעי הגס (LI)](03-large-intestine.md) — ערוץ היאנג הזוגי (אלמנט מתכת)
+- **חזרה למודול**: [מודול 2 — מרידיאנים](README.md)
+- **ראה גם**: [סינדרומי ריאות](../../year-2-intermediate/module-06b-syndromes/lung-syndromes/01-lung-qi-deficiency.md) — חוסר צ'י ריאות | [רוח-קור בריאות](../../year-2-intermediate/module-06b-syndromes/lung-syndromes/03-wind-cold-lung.md) — פלישת רוח-קור | [חמש נקודות שו](../../year-2-intermediate/module-08-point-categories/01-five-shu-points.md) — סיווג LU5, LU8, LU9, LU10, LU11

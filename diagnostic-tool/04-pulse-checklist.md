@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רשימת תיוג לאבחון דופק
 
 ## Pulse Diagnosis Checklist (脉诊 Mai Zhen)

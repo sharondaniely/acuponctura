@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דיקור אוזן - אוריקולותרפיה (耳针)
 
 ## Ear Acupuncture - Auriculotherapy (Er Zhen)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # הקמת קליניקה
 
 ## Practice Setup (诊所建设)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שיטת האיזון - ד"ר טאן (平衡针法)
 
 ## Dr. Tan's Balance Method (Ping Heng Zhen Fa)

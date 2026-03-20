@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טופס קליטה ראשוני
 
 ## Initial Intake Form

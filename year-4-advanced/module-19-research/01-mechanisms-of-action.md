@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מנגנוני פעולה של אקופונקטורה
 
 ## Mechanisms of Action (针灸作用机制)

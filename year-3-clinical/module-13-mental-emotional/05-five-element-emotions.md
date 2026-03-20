@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רגשות וחמשת האלמנטים
 
 ## Five Element Emotions

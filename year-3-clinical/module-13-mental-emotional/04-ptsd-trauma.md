@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # PTSD וטראומה
 
 ## PTSD and Trauma in TCM

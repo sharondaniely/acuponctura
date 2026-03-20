@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרשים זרימה — גינקולוגיה
 
 ## Gynecology Flowchart (妇科辨证流程 Fu Ke Bian Zheng Liu Cheng)

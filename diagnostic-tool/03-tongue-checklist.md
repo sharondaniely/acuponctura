@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # רשימת תיוג לאבחון לשון
 
 ## Tongue Diagnosis Checklist (舌诊 She Zhen)

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אש לב (Xin Huo Kang Sheng, 心火亢盛)
 
 ## תיאור כללי

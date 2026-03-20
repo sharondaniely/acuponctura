@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # טיפול חוקתי - שורש מול ענף (本标)
 
 ## Constitutional Treatment - Ben vs Biao (本标治疗)

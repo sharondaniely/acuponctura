@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרגילים - פילוסופיית הרפואה הסינית
 
 ## Module 01 - Philosophy of TCM - Exercises & Review

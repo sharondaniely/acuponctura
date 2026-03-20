@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # גואה שא — גירוד טיפולי (刮痧)
 
 ## Gua Sha — Scraping Therapy

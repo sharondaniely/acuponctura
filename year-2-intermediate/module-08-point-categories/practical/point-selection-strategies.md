@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אסטרטגיות בחירת נקודות — מדריך מעשי
 
 ## Point Selection Strategies — Practical Guide

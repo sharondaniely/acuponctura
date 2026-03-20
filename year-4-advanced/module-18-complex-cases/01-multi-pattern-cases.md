@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מקרים רב-דפוסיים
 
 ## Multi-Pattern Cases (复杂辨证)

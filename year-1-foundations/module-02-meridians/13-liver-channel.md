@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ערוץ הכבד - צו ג'יואה ין גאן (足厥阴肝经)
 
 ## Liver Channel - Zú Jué Yīn Gān Jīng
@@ -605,3 +607,12 @@
 3. הסבירו את ההבדל בין סטגנציית צ'י הכבד, עליית יאנג הכבד ואש הכבד — ואילו נקודות תבחרו לכל דפוס.
 4. כתבו מרשם נקודות לטיפול ב: (א) כאב ראש צידי עם עצבנות, (ב) כאבי מחזור עם נפיחות, (ג) לחות-חום באזור המין.
 5. הסבירו מדוע LR3 + LI4 נקראים "ארבעת השערים" ומהן ההתוויות העיקריות לשימוש בשילוב זה.
+
+---
+
+## ניווט
+
+- **הקודם**: [ערוץ כיס המרה (GB)](12-gallbladder.md) | **הבא**: [כלים יוצאי דופן](14-extraordinary-vessels.md)
+- **זוג פנים-חוץ**: [ערוץ כיס המרה (GB)](12-gallbladder.md) — ערוץ היאנג הזוגי (אלמנט עץ)
+- **חזרה למודול**: [מודול 2 — מרידיאנים](README.md)
+- **ראה גם**: [אגירת צ'י כבד](../../year-2-intermediate/module-06b-syndromes/liver-syndromes/01-liver-qi-stagnation.md) — הסינדרום הנפוץ ביותר | [אש כבד](../../year-2-intermediate/module-06b-syndromes/liver-syndromes/02-liver-fire.md) | [עליית יאנג כבד](../../year-2-intermediate/module-06b-syndromes/liver-syndromes/06-liver-yang-rising.md) | [לחות-חום כבד-מרה](../../year-2-intermediate/module-06b-syndromes/liver-syndromes/08-liver-gallbladder-damp-heat.md)

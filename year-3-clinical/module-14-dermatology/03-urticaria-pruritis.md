@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אורטיקריה וגרד
 
 ## Urticaria and Pruritus in TCM

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שאלון אבחון מקיף למטפל - הוראות שימוש
 
 ## Comprehensive Diagnostic Questionnaire - User Guide

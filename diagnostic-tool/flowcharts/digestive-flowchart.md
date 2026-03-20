@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרשים זרימה — בעיות עיכול
 
 ## Digestive Disorders Flowchart (消化系统辨证流程 Xiao Hua Xi Tong Bian Zheng Liu Cheng)

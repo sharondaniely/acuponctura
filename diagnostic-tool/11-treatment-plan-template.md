@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תבנית תוכנית טיפול
 
 ## Treatment Plan Template (治疗计划 Zhi Liao Ji Hua)

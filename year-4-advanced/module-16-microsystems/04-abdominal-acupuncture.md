@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דיקור בטני - שיטת בו (腹针)
 
 ## Abdominal Acupuncture (Fu Zhen)

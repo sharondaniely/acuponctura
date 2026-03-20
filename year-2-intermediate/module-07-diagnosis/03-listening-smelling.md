@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # האזנה והרחה - וון (闻诊)
 
 ## Listening and Smelling - Wen Zhen

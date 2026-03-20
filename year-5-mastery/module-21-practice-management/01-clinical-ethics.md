@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אתיקה קלינית
 
 ## Clinical Ethics (临床伦理)

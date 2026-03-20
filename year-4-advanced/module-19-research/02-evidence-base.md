@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # בסיס הראיות - מחקרים מרכזיים
 
 ## Evidence Base - Key Studies (循证针灸)

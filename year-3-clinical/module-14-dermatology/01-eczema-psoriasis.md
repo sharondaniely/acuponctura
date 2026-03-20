@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אקזמה ופסוריאזיס
 
 ## Eczema and Psoriasis in TCM

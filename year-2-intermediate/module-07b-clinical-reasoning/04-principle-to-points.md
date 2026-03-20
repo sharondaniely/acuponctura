@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מעקרון טיפולי לבחירת נקודות
 
 ## From Treatment Principle to Point Selection
@@ -224,3 +226,11 @@
 ---
 
 > **הערה**: בחירת נקודות היא אומנות. כמו ציור — יש כללים טכניים, אבל גם אינטואיציה שמתפתחת עם ניסיון. למדו את הכללים היטב, ואז תנו למהם להפוך לטבע שני. אל תפחדו לטעות — כל טיפול הוא הזדמנות ללמוד.
+
+---
+
+## ניווט
+
+- **הקודם**: [מדפוס לעקרון](03-pattern-to-principle.md) | **הבא**: [דפוסים מורכבים](05-complex-pattern-analysis.md)
+- **חזרה למודול**: [מודול 7ב — חשיבה קלינית](README.md)
+- **ראה גם**: [קטגוריות נקודות](../module-08-point-categories/README.md) — בסיס לבחירת נקודות | [אסטרטגיות בחירת נקודות](../module-08-point-categories/practical/point-selection-strategies.md) | [מרידיאנים](../../year-1-foundations/module-02-meridians/README.md) — כל הנקודות לפי ערוץ

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אש כבד עולה (Gan Huo Shang Yan, 肝火上炎)
 
 ## תיאור כללי

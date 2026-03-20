@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שמונה נקודות המפגש של הכלים יוצאי הדופן (八脉交会穴)
 
 ## The Eight Confluent Points of the Extraordinary Vessels

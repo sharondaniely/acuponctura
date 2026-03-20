@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מים שוטפים (Shen Xu Shui Fan, 肾虚水泛)
 
 ## תיאור כללי

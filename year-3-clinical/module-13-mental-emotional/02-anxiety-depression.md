@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # חרדה ודיכאון
 
 ## Anxiety and Depression in TCM

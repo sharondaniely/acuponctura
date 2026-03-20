@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדריך רישום פורמולות — מעשי
 
 ## Formula Prescription Guide - Practical

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרשים זרימה — כאב
 
 ## Pain Diagnostic Flowchart (疼痛辨证流程 Teng Tong Bian Zheng Liu Cheng)

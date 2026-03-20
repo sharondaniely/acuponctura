@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # עשר דוגמאות מפורטות — מתחילה ועד סוף
 
 ## Ten Complete Worked Examples — From Start to Finish

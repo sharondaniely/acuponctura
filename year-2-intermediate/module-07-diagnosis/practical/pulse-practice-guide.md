@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדריך תרגול דופק
 
 ## Pulse Practice Guide

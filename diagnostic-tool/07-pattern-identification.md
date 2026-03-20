@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדריך זיהוי דפוסים — מממצאים לאבחנה
 
 ## Pattern Identification Guide (辨证 Bian Zheng)

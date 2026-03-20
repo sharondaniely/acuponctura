@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שקיעת צ'י טחול (Zhong Qi Xia Xian, 中气下陷)
 
 ## תיאור כללי

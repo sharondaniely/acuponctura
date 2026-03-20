@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מדריך מיקום נקודות - עקרונות כלליים
 
 ## Point Location Guide - General Principles

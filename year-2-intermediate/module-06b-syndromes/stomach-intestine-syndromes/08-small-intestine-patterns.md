@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דפוסי מעי דק (Xiao Chang Bing Zheng, 小肠病证)
 
 ## תיאור כללי

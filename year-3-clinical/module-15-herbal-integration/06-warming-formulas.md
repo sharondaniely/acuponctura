@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # פורמולות מחממות (温里剂)
 
 ## Warming Formulas (Wen Li Ji)

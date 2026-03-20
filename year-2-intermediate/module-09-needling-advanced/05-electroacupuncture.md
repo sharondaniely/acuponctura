@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # אלקטרואקופונקטורה (电针)
 
 ## Electroacupuncture (Dian Zhen)

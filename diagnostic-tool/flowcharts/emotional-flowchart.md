@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # תרשים זרימה — מצבים רגשיים
 
 ## Emotional Disorders Flowchart (情志病辨证流程 Qing Zhi Bing Bian Zheng Liu Cheng)

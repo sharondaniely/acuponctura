@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # סגנון יפני (日本鍼灸)
 
 ## Japanese Acupuncture (Nihon Shinkyū)

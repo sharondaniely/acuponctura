@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # סינרגיה דיקור-צמחים — שילוב שתי השיטות
 
 ## Acupuncture-Herbs Synergy

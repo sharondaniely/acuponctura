@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מתודולוגיית מחקר באקופונקטורה
 
 ## Research Methodology in Acupuncture (针灸研究方法)

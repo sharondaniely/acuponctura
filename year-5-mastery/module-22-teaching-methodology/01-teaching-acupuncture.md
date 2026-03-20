@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # הוראת אקופונקטורה
 
 ## Teaching Acupuncture (针灸教学)

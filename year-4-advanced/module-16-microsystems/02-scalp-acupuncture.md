@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דיקור קרקפת (头针)
 
 ## Scalp Acupuncture (Tou Zhen)

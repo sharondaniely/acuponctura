@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # מוקסיבוסציה — ג'יו (灸法)
 
 ## Moxibustion (Jiu Fa)

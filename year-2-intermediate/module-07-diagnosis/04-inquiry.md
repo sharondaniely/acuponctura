@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # שאילה - וון (问诊) - עשר השאלות
 
 ## Inquiry - Wen Zhen - The Ten Questions

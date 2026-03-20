@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # דיקור שורש כף יד וקרסול (腕踝针)
 
 ## Wrist-Ankle Acupuncture (Wan Huai Zhen)
