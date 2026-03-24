@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # לחות-חום במעי הגס (Da Chang Shi Re, 大肠湿热)
 

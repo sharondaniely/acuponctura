@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # אגירת צ'י הכבד (Gan Qi Yu Jie, 肝气郁结)
 

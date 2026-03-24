@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # ליחה-לחות בריאות (Tan Shi Zu Fei, 痰湿阻肺)
 

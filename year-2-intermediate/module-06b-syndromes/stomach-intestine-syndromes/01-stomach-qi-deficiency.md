@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר צ'י קיבה (Wei Qi Xu, 胃气虚)
 

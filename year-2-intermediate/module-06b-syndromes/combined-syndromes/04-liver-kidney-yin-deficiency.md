@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין כבד וכליות (Gan Shen Yin Xu, 肝肾阴虚)
 

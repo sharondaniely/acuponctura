@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # אגירת מזון (Shi Zhi Wei Wan, 食滞胃脘)
 

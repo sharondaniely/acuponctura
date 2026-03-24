@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין לב (Xin Yin Xu, 心阴虚)
 

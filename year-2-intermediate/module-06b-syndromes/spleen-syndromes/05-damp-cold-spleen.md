@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # לחות-קור בטחול (Han Shi Kun Pi, 寒湿困脾)
 

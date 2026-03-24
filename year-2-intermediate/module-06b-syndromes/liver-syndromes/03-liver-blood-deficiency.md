@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר דם כבד (Gan Xue Xu, 肝血虚)
 

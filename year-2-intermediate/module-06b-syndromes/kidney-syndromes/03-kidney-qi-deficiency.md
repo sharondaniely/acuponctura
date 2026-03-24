@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר צ'י כליות (Shen Qi Bu Gu, 肾气不固)
 

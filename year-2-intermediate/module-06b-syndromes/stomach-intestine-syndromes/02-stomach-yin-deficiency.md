@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין קיבה (Wei Yin Xu, 胃阴虚)
 

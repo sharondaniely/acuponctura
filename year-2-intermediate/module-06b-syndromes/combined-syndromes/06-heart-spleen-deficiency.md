@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר לב וטחול (Xin Pi Liang Xu, 心脾两虚)
 

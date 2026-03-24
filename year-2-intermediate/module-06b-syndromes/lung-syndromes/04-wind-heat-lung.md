@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח-חום תוקפת ריאות (Feng Re Fan Fei, 风热犯肺)
 

@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # עליית יאנג כבד (Gan Yang Shang Kang, 肝阳上亢)
 

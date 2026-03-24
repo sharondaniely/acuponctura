@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח-קור (Feng Han, 风寒)
 

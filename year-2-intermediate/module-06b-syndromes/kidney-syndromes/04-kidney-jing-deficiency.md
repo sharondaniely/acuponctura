@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ג'ינג כליות (Shen Jing Bu Zu, 肾精不足)
 

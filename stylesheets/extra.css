@@ -1,0 +1,80 @@
+body, .md-typeset {
+  direction: rtl;
+  text-align: right;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  direction: rtl;
+  text-align: right;
+}
+
+.md-typeset ul,
+.md-typeset ol {
+  direction: rtl;
+  padding-right: 0.6rem;
+  padding-left: 0;
+}
+
+.md-typeset li {
+  direction: rtl;
+  text-align: right;
+}
+
+.md-nav {
+  direction: rtl;
+  text-align: right;
+}
+
+.md-header__title {
+  direction: rtl;
+}
+
+.md-footer-meta {
+  direction: rtl;
+}
+
+.md-typeset code,
+.md-typeset pre {
+  direction: ltr;
+  text-align: left;
+}
+
+.md-typeset table {
+  direction: rtl;
+}
+
+.md-typeset table th,
+.md-typeset table td {
+  text-align: right;
+}
+
+.md-sidebar--primary .md-nav {
+  direction: rtl;
+}
+
+.md-search__input {
+  direction: rtl;
+}
+
+.md-content {
+  direction: rtl;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  direction: rtl;
+  text-align: right;
+}
+
+.md-typeset blockquote {
+  direction: rtl;
+  border-right: 0.2rem solid var(--md-default-fg-color--lighter);
+  border-left: none;
+  padding-right: 0.6rem;
+  padding-left: 0;
+}

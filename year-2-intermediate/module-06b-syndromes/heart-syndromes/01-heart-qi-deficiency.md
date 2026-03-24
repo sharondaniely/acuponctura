@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר צ'י לב (Xin Qi Xu, 心气虚)
 

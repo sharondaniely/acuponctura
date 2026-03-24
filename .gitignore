@@ -4,5 +4,8 @@ Thumbs.db
 *.bak
 .cursor/
 
-# AI-generated point illustrations (too large for GitBook sync)
+# AI-generated point illustrations (large)
 images/points/
+
+# MkDocs build output
+site/

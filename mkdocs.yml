@@ -1,0 +1,363 @@
+site_name: קורס אקופונקטורה
+site_description: קורס מקיף בן 5 שנים באקופונקטורה ורפואה סינית מסורתית
+site_url: https://sharondaniely.github.io/acuponctura/
+
+docs_dir: .
+
+theme:
+  name: material
+  direction: rtl
+  language: he
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: מצב לילה
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: מצב יום
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - toc.integrate
+  font:
+    text: Noto Sans Hebrew
+    code: Roboto Mono
+
+plugins:
+  - search:
+      lang: he
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+
+extra_css:
+  - stylesheets/extra.css
+
+exclude_docs: |
+  export-for-ai/
+  bin/
+  scripts/
+  .github/
+  .cursor/
+  site/
+
+nav:
+  - דף הבית: README.md
+  - מפת הקורס: CURRICULUM.md
+  - שנה 1 - יסודות:
+    - year-1-foundations/README.md
+    - פילוסופיה:
+      - year-1-foundations/module-01-philosophy/README.md
+      - מבוא לרפואה סינית: year-1-foundations/module-01-philosophy/01-intro-to-tcm.md
+      - תורת ין-יאנג: year-1-foundations/module-01-philosophy/02-yin-yang-theory.md
+      - חמשת האלמנטים: year-1-foundations/module-01-philosophy/03-five-elements.md
+      - חומרים חיוניים: year-1-foundations/module-01-philosophy/04-vital-substances.md
+      - גורמי מחלה: year-1-foundations/module-01-philosophy/05-causes-of-disease.md
+      - תרגילים: year-1-foundations/module-01-philosophy/exercises/01-philosophy-exercises.md
+    - מרידיאנים:
+      - year-1-foundations/module-02-meridians/README.md
+      - מערכת המרידיאנים: year-1-foundations/module-02-meridians/01-meridian-system.md
+      - ערוץ הריאות (LU): year-1-foundations/module-02-meridians/02-lung-channel.md
+      - מעי גס (LI): year-1-foundations/module-02-meridians/03-large-intestine.md
+      - קיבה (ST): year-1-foundations/module-02-meridians/04-stomach-channel.md
+      - טחול (SP): year-1-foundations/module-02-meridians/05-spleen-channel.md
+      - לב (HT): year-1-foundations/module-02-meridians/06-heart-channel.md
+      - מעי דק (SI): year-1-foundations/module-02-meridians/07-small-intestine.md
+      - שלפוחית (BL): year-1-foundations/module-02-meridians/08-bladder-channel.md
+      - כליות (KI): year-1-foundations/module-02-meridians/09-kidney-channel.md
+      - קרום הלב (PC): year-1-foundations/module-02-meridians/10-pericardium.md
+      - שלוש מבערות (TE): year-1-foundations/module-02-meridians/11-triple-energizer.md
+      - כיס מרה (GB): year-1-foundations/module-02-meridians/12-gallbladder.md
+      - כבד (LR): year-1-foundations/module-02-meridians/13-liver-channel.md
+      - כלים יוצאי דופן: year-1-foundations/module-02-meridians/14-extraordinary-vessels.md
+      - מעשי:
+        - year-1-foundations/module-02-meridians/practical/README.md
+        - טכניקות מישוש: year-1-foundations/module-02-meridians/practical/palpation-techniques.md
+        - מדריך מיקום נקודות: year-1-foundations/module-02-meridians/practical/point-location-guide.md
+    - אנטומיה:
+      - year-1-foundations/module-03-anatomy/README.md
+      - שרירים ושלד: year-1-foundations/module-03-anatomy/01-musculoskeletal.md
+      - מערכת העצבים: year-1-foundations/module-03-anatomy/02-nervous-system.md
+      - מערכות איברים: year-1-foundations/module-03-anatomy/03-organ-systems.md
+      - אנטומיה של פני השטח: year-1-foundations/module-03-anatomy/04-surface-anatomy.md
+    - יסודות הדיקור:
+      - year-1-foundations/module-04-intro-needling/README.md
+      - סוגי מחטים וציוד: year-1-foundations/module-04-intro-needling/01-needle-types-equipment.md
+      - טכניקת מחט נקייה: year-1-foundations/module-04-intro-needling/02-clean-needle-technique.md
+      - הכנסה בסיסית: year-1-foundations/module-04-intro-needling/03-basic-insertion.md
+      - תחושת דה-צ'י: year-1-foundations/module-04-intro-needling/04-deqi-sensation.md
+      - פרוטוקולים: year-1-foundations/module-04-intro-needling/practical/first-needling-protocols.md
+  - שנה 2 - רמת ביניים:
+    - year-2-intermediate/README.md
+    - זאנג-פו:
+      - year-2-intermediate/module-05-zangfu/README.md
+      - איברי זאנג: year-2-intermediate/module-05-zangfu/01-zang-organs.md
+      - איברי פו: year-2-intermediate/module-05-zangfu/02-fu-organs.md
+      - איברים יוצאי דופן: year-2-intermediate/module-05-zangfu/03-extraordinary-organs.md
+      - יחסי איברים: year-2-intermediate/module-05-zangfu/04-organ-relationships.md
+      - שעון האיברים: year-2-intermediate/module-05-zangfu/05-organ-clock.md
+    - פתולוגיה:
+      - year-2-intermediate/module-06-pathology/README.md
+      - זיהוי דפוסים: year-2-intermediate/module-06-pathology/01-pattern-identification.md
+      - שמונה עקרונות: year-2-intermediate/module-06-pathology/02-eight-principles.md
+      - דפוסי צ'י ודם: year-2-intermediate/module-06-pathology/03-qi-blood-patterns.md
+      - דפוסי זאנג-פו: year-2-intermediate/module-06-pathology/04-zangfu-patterns.md
+      - שש השלבים: year-2-intermediate/module-06-pathology/05-six-stages.md
+      - ארבע הרמות: year-2-intermediate/module-06-pathology/06-four-levels.md
+      - דפוסי סאן ג'יאו: year-2-intermediate/module-06-pathology/07-san-jiao-patterns.md
+      - דפוסי ערוצים: year-2-intermediate/module-06-pathology/08-channel-patterns.md
+    - קומפנדיום סינדרומים:
+      - year-2-intermediate/module-06b-syndromes/README.md
+      - סינדרומי ריאות:
+        - חסר צ'י ריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/01-lung-qi-deficiency.md
+        - חסר ין ריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/02-lung-yin-deficiency.md
+        - רוח-קור בריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/03-wind-cold-lung.md
+        - רוח-חום בריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/04-wind-heat-lung.md
+        - ליחה-לחות בריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/05-phlegm-damp-lung.md
+        - ליחה-חום בריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/06-phlegm-heat-lung.md
+        - יובש ריאות: year-2-intermediate/module-06b-syndromes/lung-syndromes/07-lung-dryness.md
+      - סינדרומי לב:
+        - חסר צ'י לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/01-heart-qi-deficiency.md
+        - חסר יאנג לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/02-heart-yang-deficiency.md
+        - חסר ין לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/03-heart-yin-deficiency.md
+        - חסר דם לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/04-heart-blood-deficiency.md
+        - אש לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/05-heart-fire.md
+        - קיפאון דם לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/06-heart-blood-stasis.md
+        - ליחה מעלפלת לב: year-2-intermediate/module-06b-syndromes/heart-syndromes/07-phlegm-misting-heart.md
+      - סינדרומי טחול:
+        - חסר צ'י טחול: year-2-intermediate/module-06b-syndromes/spleen-syndromes/01-spleen-qi-deficiency.md
+        - חסר יאנג טחול: year-2-intermediate/module-06b-syndromes/spleen-syndromes/02-spleen-yang-deficiency.md
+        - טחול לא מחזיק דם: year-2-intermediate/module-06b-syndromes/spleen-syndromes/03-spleen-not-holding-blood.md
+        - שקיעת צ'י טחול: year-2-intermediate/module-06b-syndromes/spleen-syndromes/04-spleen-qi-sinking.md
+        - קור-לחות בטחול: year-2-intermediate/module-06b-syndromes/spleen-syndromes/05-damp-cold-spleen.md
+        - חום-לחות בטחול: year-2-intermediate/module-06b-syndromes/spleen-syndromes/06-damp-heat-spleen.md
+      - סינדרומי כבד:
+        - קיפאון צ'י כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/01-liver-qi-stagnation.md
+        - אש כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/02-liver-fire.md
+        - חסר דם כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/03-liver-blood-deficiency.md
+        - חסר ין כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/04-liver-yin-deficiency.md
+        - רוח כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/05-liver-wind.md
+        - עליית יאנג כבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/06-liver-yang-rising.md
+        - קור קפוא בכבד: year-2-intermediate/module-06b-syndromes/liver-syndromes/07-cold-stagnation-liver.md
+        - חום-לחות כבד וכיס מרה: year-2-intermediate/module-06b-syndromes/liver-syndromes/08-liver-gallbladder-damp-heat.md
+      - סינדרומי כליות:
+        - חסר יאנג כליות: year-2-intermediate/module-06b-syndromes/kidney-syndromes/01-kidney-yang-deficiency.md
+        - חסר ין כליות: year-2-intermediate/module-06b-syndromes/kidney-syndromes/02-kidney-yin-deficiency.md
+        - חסר צ'י כליות: year-2-intermediate/module-06b-syndromes/kidney-syndromes/03-kidney-qi-deficiency.md
+        - חסר ג'ינג כליות: year-2-intermediate/module-06b-syndromes/kidney-syndromes/04-kidney-jing-deficiency.md
+        - הצפת יאנג כליות: year-2-intermediate/module-06b-syndromes/kidney-syndromes/05-kidney-yang-flooding.md
+      - סינדרומי קיבה ומעיים:
+        - חסר צ'י קיבה: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/01-stomach-qi-deficiency.md
+        - חסר ין קיבה: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/02-stomach-yin-deficiency.md
+        - אש קיבה: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/03-stomach-fire.md
+        - קיפאון מזון: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/04-food-stagnation.md
+        - קור קיבה: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/05-stomach-cold.md
+        - חום-לחות מעי גס: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/06-large-intestine-damp-heat.md
+        - יובש מעי גס: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/07-large-intestine-dryness.md
+        - דפוסי מעי דק: year-2-intermediate/module-06b-syndromes/stomach-intestine-syndromes/08-small-intestine-patterns.md
+      - פתוגנים חיצוניים:
+        - רוח-קור: year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/01-wind-cold.md
+        - רוח-חום: year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/02-wind-heat.md
+        - רוח-לחות: year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/03-wind-damp.md
+        - חום קיץ: year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/04-summer-heat.md
+        - חום-לחות: year-2-intermediate/module-06b-syndromes/external-pathogen-syndromes/05-damp-heat.md
+      - סינדרומים משולבים:
+        - חוסר הרמוניה כבד-טחול: year-2-intermediate/module-06b-syndromes/combined-syndromes/01-liver-spleen-disharmony.md
+        - ניתוק לב-כליות: year-2-intermediate/module-06b-syndromes/combined-syndromes/02-heart-kidney-disconnect.md
+        - חסר צ'י ריאות-טחול: year-2-intermediate/module-06b-syndromes/combined-syndromes/03-lung-spleen-qi-deficiency.md
+        - חסר ין כבד-כליות: year-2-intermediate/module-06b-syndromes/combined-syndromes/04-liver-kidney-yin-deficiency.md
+        - חסר יאנג טחול-כליות: year-2-intermediate/module-06b-syndromes/combined-syndromes/05-spleen-kidney-yang-deficiency.md
+        - חסר לב-טחול: year-2-intermediate/module-06b-syndromes/combined-syndromes/06-heart-spleen-deficiency.md
+      - תרגילים: year-2-intermediate/module-06b-syndromes/exercises/01-syndrome-exercises.md
+    - אבחון:
+      - year-2-intermediate/module-07-diagnosis/README.md
+      - התבוננות: year-2-intermediate/module-07-diagnosis/01-inspection.md
+      - אבחון לשון: year-2-intermediate/module-07-diagnosis/02-tongue-diagnosis.md
+      - הקשבה והרחה: year-2-intermediate/module-07-diagnosis/03-listening-smelling.md
+      - שאילה: year-2-intermediate/module-07-diagnosis/04-inquiry.md
+      - אבחון דופק: year-2-intermediate/module-07-diagnosis/05-pulse-diagnosis.md
+      - אבחון בטני: year-2-intermediate/module-07-diagnosis/06-abdominal-diagnosis.md
+      - מעשי:
+        - אטלס לשון: year-2-intermediate/module-07-diagnosis/practical/tongue-atlas.md
+        - מדריך תרגול דופק: year-2-intermediate/module-07-diagnosis/practical/pulse-practice-guide.md
+        - דפי עבודה אבחוניים: year-2-intermediate/module-07-diagnosis/practical/diagnostic-worksheets.md
+    - חשיבה קלינית:
+      - year-2-intermediate/module-07b-clinical-reasoning/README.md
+      - מתודולוגיית אבחון: year-2-intermediate/module-07b-clinical-reasoning/01-diagnostic-methodology.md
+      - מסימפטום לדפוס: year-2-intermediate/module-07b-clinical-reasoning/02-symptom-to-pattern.md
+      - מדפוס לעקרון: year-2-intermediate/module-07b-clinical-reasoning/03-pattern-to-principle.md
+      - מעקרון לנקודות: year-2-intermediate/module-07b-clinical-reasoning/04-principle-to-points.md
+      - ניתוח דפוסים מורכבים: year-2-intermediate/module-07b-clinical-reasoning/05-complex-pattern-analysis.md
+      - דוגמאות מעובדות: year-2-intermediate/module-07b-clinical-reasoning/06-worked-examples.md
+      - טעויות נפוצות: year-2-intermediate/module-07b-clinical-reasoning/07-common-mistakes.md
+    - קטגוריות נקודות:
+      - year-2-intermediate/module-08-point-categories/README.md
+      - חמש נקודות שו: year-2-intermediate/module-08-point-categories/01-five-shu-points.md
+      - יואן, לואו, שי: year-2-intermediate/module-08-point-categories/02-yuan-luo-xi.md
+      - שו-גב ומו-חזה: year-2-intermediate/module-08-point-categories/03-back-shu-front-mu.md
+      - שמונה נקודות מפגש: year-2-intermediate/module-08-point-categories/04-eight-confluent.md
+      - נקודות הוי: year-2-intermediate/module-08-point-categories/05-hui-meeting-points.md
+      - נקודות חוץ: year-2-intermediate/module-08-point-categories/06-extra-points.md
+      - אסטרטגיות בחירת נקודות: year-2-intermediate/module-08-point-categories/practical/point-selection-strategies.md
+    - טכניקות מתקדמות:
+      - year-2-intermediate/module-09-needling-advanced/README.md
+      - חיזוק והפחתה: year-2-intermediate/module-09-needling-advanced/01-reinforcing-reducing.md
+      - מוקסה: year-2-intermediate/module-09-needling-advanced/02-moxibustion.md
+      - כוסות רוח: year-2-intermediate/module-09-needling-advanced/03-cupping.md
+      - גואה שא: year-2-intermediate/module-09-needling-advanced/04-gua-sha.md
+      - אלקטרואקופונקטורה: year-2-intermediate/module-09-needling-advanced/05-electroacupuncture.md
+      - פרוטוקולי טכניקות: year-2-intermediate/module-09-needling-advanced/practical/technique-protocols.md
+  - שנה 3 - יישום קליני:
+    - year-3-clinical/README.md
+    - רפואה פנימית:
+      - נשימתי: year-3-clinical/module-10-internal-medicine/01-respiratory.md
+      - עיכולי: year-3-clinical/module-10-internal-medicine/02-digestive.md
+      - לב וכלי דם: year-3-clinical/module-10-internal-medicine/03-cardiovascular.md
+      - אורוגניטלי: year-3-clinical/module-10-internal-medicine/04-urogenital.md
+      - נוירולוגי: year-3-clinical/module-10-internal-medicine/05-neurological.md
+      - חיסוני ואוטואימוני: year-3-clinical/module-10-internal-medicine/06-immune-autoimmune.md
+    - שריר-שלד:
+      - תסמונת בי: year-3-clinical/module-11-musculoskeletal/01-bi-syndrome.md
+      - כאב גב תחתון: year-3-clinical/module-11-musculoskeletal/02-low-back-pain.md
+      - צוואר וכתף: year-3-clinical/module-11-musculoskeletal/03-neck-shoulder.md
+      - ברך וירך: year-3-clinical/module-11-musculoskeletal/04-knee-hip.md
+      - פציעות ספורט: year-3-clinical/module-11-musculoskeletal/05-sports-injuries.md
+      - פיברומיאלגיה: year-3-clinical/module-11-musculoskeletal/06-fibromyalgia.md
+    - גינקולוגיה:
+      - הפרעות מחזור: year-3-clinical/module-12-gynecology/01-menstrual-disorders.md
+      - פוריות: year-3-clinical/module-12-gynecology/02-fertility.md
+      - תמיכה בהריון: year-3-clinical/module-12-gynecology/03-pregnancy-support.md
+      - לאחר לידה: year-3-clinical/module-12-gynecology/04-postpartum.md
+      - גיל המעבר: year-3-clinical/module-12-gynecology/05-menopause.md
+      - PCOS ואנדומטריוזיס: year-3-clinical/module-12-gynecology/06-pcos-endometriosis.md
+    - נפשי-רגשי:
+      - הפרעות שן: year-3-clinical/module-13-mental-emotional/01-shen-disturbances.md
+      - חרדה ודיכאון: year-3-clinical/module-13-mental-emotional/02-anxiety-depression.md
+      - דפוסי נדודי שינה: year-3-clinical/module-13-mental-emotional/03-insomnia-patterns.md
+      - PTSD וטראומה: year-3-clinical/module-13-mental-emotional/04-ptsd-trauma.md
+      - רגשות וחמשת האלמנטים: year-3-clinical/module-13-mental-emotional/05-five-element-emotions.md
+    - דרמטולוגיה:
+      - אקזמה ופסוריאזיס: year-3-clinical/module-14-dermatology/01-eczema-psoriasis.md
+      - אקנה ורוזציאה: year-3-clinical/module-14-dermatology/02-acne-rosacea.md
+      - אורטיקריה וגרד: year-3-clinical/module-14-dermatology/03-urticaria-pruritis.md
+      - אקופונקטורה קוסמטית: year-3-clinical/module-14-dermatology/04-cosmetic-acupuncture.md
+    - שילוב צמחי מרפא:
+      - יסודות תורת הצמחים: year-3-clinical/module-15-herbal-integration/01-herbal-theory-basics.md
+      - בניית פורמולה: year-3-clinical/module-15-herbal-integration/02-formula-construction.md
+      - פורמולות מחזקות: year-3-clinical/module-15-herbal-integration/03-tonifying-formulas.md
+      - פורמולות מנקות: year-3-clinical/module-15-herbal-integration/04-clearing-formulas.md
+      - פורמולות מווסתות: year-3-clinical/module-15-herbal-integration/05-regulating-formulas.md
+      - פורמולות מחממות: year-3-clinical/module-15-herbal-integration/06-warming-formulas.md
+      - סינרגיה דיקור-צמחים: year-3-clinical/module-15-herbal-integration/07-acupuncture-herbs-synergy.md
+      - מדריך רישום פורמולות: year-3-clinical/module-15-herbal-integration/practical/formula-prescription-guide.md
+  - שנה 4 - מתקדם:
+    - year-4-advanced/README.md
+    - מיקרוסיסטמס:
+      - אוזן: year-4-advanced/module-16-microsystems/01-ear-acupuncture.md
+      - קרקפת: year-4-advanced/module-16-microsystems/02-scalp-acupuncture.md
+      - כף יד: year-4-advanced/module-16-microsystems/03-hand-acupuncture.md
+      - בטן: year-4-advanced/module-16-microsystems/04-abdominal-acupuncture.md
+      - שורש כף יד-קרסול: year-4-advanced/module-16-microsystems/05-wrist-ankle.md
+    - סגנונות קלאסיים:
+      - חמשת האלמנטים: year-4-advanced/module-17-classical-styles/01-five-element-style.md
+      - סגנון יפני: year-4-advanced/module-17-classical-styles/02-japanese-style.md
+      - שיטת האיזון: year-4-advanced/module-17-classical-styles/03-balance-method.md
+      - מאסטר טונג: year-4-advanced/module-17-classical-styles/04-master-tung.md
+      - טקסטים קלאסיים: year-4-advanced/module-17-classical-styles/05-classical-texts.md
+    - מקרים מורכבים:
+      - דפוסים מרובים: year-4-advanced/module-18-complex-cases/01-multi-pattern-cases.md
+      - מצבים כרוניים: year-4-advanced/module-18-complex-cases/02-chronic-conditions.md
+      - ילדים וקשישים: year-4-advanced/module-18-complex-cases/03-pediatric-geriatric.md
+      - תמיכה אונקולוגית: year-4-advanced/module-18-complex-cases/04-oncology-support.md
+    - מחקר:
+      - מנגנוני פעולה: year-4-advanced/module-19-research/01-mechanisms-of-action.md
+      - בסיס ראייתי: year-4-advanced/module-19-research/02-evidence-base.md
+      - מתודולוגיית מחקר: year-4-advanced/module-19-research/03-research-methodology.md
+  - שנה 5 - מומחיות:
+    - year-5-mastery/README.md
+    - אינטגרציה מתקדמת:
+      - פרוטוקולים אינטגרטיביים: year-5-mastery/module-20-advanced-integration/01-integrative-protocols.md
+      - טיפול חוקתי: year-5-mastery/module-20-advanced-integration/02-constitutional-treatment.md
+      - רפואה מונעת: year-5-mastery/module-20-advanced-integration/03-preventive-medicine.md
+    - ניהול קליניקה:
+      - אתיקה קלינית: year-5-mastery/module-21-practice-management/01-clinical-ethics.md
+      - תקשורת עם מטופלים: year-5-mastery/module-21-practice-management/02-patient-communication.md
+      - הקמת קליניקה: year-5-mastery/module-21-practice-management/03-practice-setup.md
+    - מתודולוגיית הוראה:
+      - הוראת אקופונקטורה: year-5-mastery/module-22-teaching-methodology/01-teaching-acupuncture.md
+      - השתלמויות: year-5-mastery/module-22-teaching-methodology/02-continuing-education.md
+  - תיאורי מקרה:
+    - case-studies/README.md
+    - רפואה פנימית:
+      - שיעול כרוני: case-studies/booklet-01-internal-medicine/case-01-chronic-cough.md
+      - תסמונת מעי רגיש: case-studies/booklet-01-internal-medicine/case-02-ibs.md
+      - יתר לחץ דם: case-studies/booklet-01-internal-medicine/case-03-hypertension.md
+      - עייפות כרונית: case-studies/booklet-01-internal-medicine/case-04-chronic-fatigue.md
+      - סוכרת: case-studies/booklet-01-internal-medicine/case-05-diabetes.md
+    - כאב:
+      - כאב גב תחתון: case-studies/booklet-02-pain/case-01-low-back.md
+      - מיגרנה: case-studies/booklet-02-pain/case-02-migraine.md
+      - כתף קפואה: case-studies/booklet-02-pain/case-03-frozen-shoulder.md
+      - סיאטיקה: case-studies/booklet-02-pain/case-04-sciatica.md
+      - כאב ברכיים: case-studies/booklet-02-pain/case-05-knee-pain.md
+    - גינקולוגיה:
+      - דיסמנוריאה: case-studies/booklet-03-gynecology/case-01-dysmenorrhea.md
+      - אי-פוריות: case-studies/booklet-03-gynecology/case-02-infertility.md
+      - גיל המעבר: case-studies/booklet-03-gynecology/case-03-menopause.md
+      - PCOS: case-studies/booklet-03-gynecology/case-04-pcos.md
+      - בחילות הריון: case-studies/booklet-03-gynecology/case-05-morning-sickness.md
+    - נפשי-רגשי:
+      - חרדה: case-studies/booklet-04-mental-emotional/case-01-anxiety.md
+      - דיכאון: case-studies/booklet-04-mental-emotional/case-02-depression.md
+      - נדודי שינה: case-studies/booklet-04-mental-emotional/case-03-insomnia.md
+      - סטרס: case-studies/booklet-04-mental-emotional/case-04-stress.md
+      - PTSD: case-studies/booklet-04-mental-emotional/case-05-ptsd.md
+    - דרמטולוגיה:
+      - אקזמה: case-studies/booklet-05-dermatology/case-01-eczema.md
+      - פסוריאזיס: case-studies/booklet-05-dermatology/case-02-psoriasis.md
+      - אקנה: case-studies/booklet-05-dermatology/case-03-acne.md
+      - אורטיקריה: case-studies/booklet-05-dermatology/case-04-urticaria.md
+    - מקרים מורכבים:
+      - אוטואימוני: case-studies/booklet-06-complex-cases/case-01-autoimmune.md
+      - מרובה-דפוסים כרוני: case-studies/booklet-06-complex-cases/case-02-chronic-multi-pattern.md
+      - ילדים: case-studies/booklet-06-complex-cases/case-03-pediatric.md
+      - קשישים: case-studies/booklet-06-complex-cases/case-04-geriatric.md
+      - תמיכה אונקולוגית: case-studies/booklet-06-complex-cases/case-05-oncology-support.md
+  - כלי אבחון:
+    - diagnostic-tool/README.md
+    - טופס קליטה: diagnostic-tool/01-intake-form.md
+    - עשר השאלות: diagnostic-tool/02-ten-questions.md
+    - רשימת בדיקת לשון: diagnostic-tool/03-tongue-checklist.md
+    - רשימת בדיקת דופק: diagnostic-tool/04-pulse-checklist.md
+    - רשימת התבוננות: diagnostic-tool/05-inspection-checklist.md
+    - רשימת מישוש: diagnostic-tool/06-palpation-checklist.md
+    - זיהוי דפוסים: diagnostic-tool/07-pattern-identification.md
+    - מדפוס לנקודות: diagnostic-tool/08-pattern-to-points.md
+    - שילובי נקודות: diagnostic-tool/09-point-combinations.md
+    - שילוב צמחי מרפא: diagnostic-tool/10-herbal-integration-guide.md
+    - תבנית תוכנית טיפול: diagnostic-tool/11-treatment-plan-template.md
+    - טופס מעקב: diagnostic-tool/12-followup-form.md
+    - תרשימי זרימה:
+      - עיכולי: diagnostic-tool/flowcharts/digestive-flowchart.md
+      - רגשי: diagnostic-tool/flowcharts/emotional-flowchart.md
+      - גינקולוגי: diagnostic-tool/flowcharts/gynecology-flowchart.md
+      - כאב: diagnostic-tool/flowcharts/pain-flowchart.md
+      - נשימתי: diagnostic-tool/flowcharts/respiratory-flowchart.md

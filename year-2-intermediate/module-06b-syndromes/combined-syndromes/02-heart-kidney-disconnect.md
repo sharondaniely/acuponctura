@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # ניתוק לב-כליות (Xin Shen Bu Jiao, 心肾不交)
 

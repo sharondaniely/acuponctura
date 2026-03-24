@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # יובש במעי הגס (Da Chang Ye Kui, 大肠液亏)
 

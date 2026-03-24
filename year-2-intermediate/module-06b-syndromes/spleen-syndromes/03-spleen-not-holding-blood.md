@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # טחול לא מחזיק דם (Pi Bu Tong Xue, 脾不统血)
 

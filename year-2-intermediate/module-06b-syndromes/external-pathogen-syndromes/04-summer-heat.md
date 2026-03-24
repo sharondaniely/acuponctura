@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חום קיץ (Shu Re, 暑热)
 

@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר יאנג טחול (Pi Yang Xu, 脾阳虚)
 

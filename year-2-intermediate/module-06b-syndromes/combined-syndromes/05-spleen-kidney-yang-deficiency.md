@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר יאנג טחול וכליות (Pi Shen Yang Xu, 脾肾阳虚)
 

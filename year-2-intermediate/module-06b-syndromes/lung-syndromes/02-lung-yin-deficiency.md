@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין ריאות (Fei Yin Xu, 肺阴虚)
 

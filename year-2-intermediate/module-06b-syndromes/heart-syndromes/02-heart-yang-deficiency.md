@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר יאנג לב (Xin Yang Xu, 心阳虚)
 

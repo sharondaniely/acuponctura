@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # פתולוגיות ערוצים (经络辨证 Jing Luo Bian Zheng)
 

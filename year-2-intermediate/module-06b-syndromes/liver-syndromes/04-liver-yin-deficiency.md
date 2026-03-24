@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין כבד (Gan Yin Xu, 肝阴虚)
 

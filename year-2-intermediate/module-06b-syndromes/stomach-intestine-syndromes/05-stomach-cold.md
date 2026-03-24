@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # קור בקיבה (Wei Han, 胃寒)
 

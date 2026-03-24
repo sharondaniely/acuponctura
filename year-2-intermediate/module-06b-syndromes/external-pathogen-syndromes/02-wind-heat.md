@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח-חום (Feng Re, 风热)
 

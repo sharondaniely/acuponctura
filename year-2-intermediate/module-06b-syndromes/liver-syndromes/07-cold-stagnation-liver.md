@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # קיפאון קור בערוץ הכבד (Han Zhi Gan Mai, 寒滞肝脉)
 

@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # לחות-חום בטחול (Pi Wei Shi Re, 脾胃湿热)
 

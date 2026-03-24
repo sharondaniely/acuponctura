@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # תרגילי אבחון סינדרומים — מסימפטומים לטיפול
 
@@ -1113,5 +1112,3 @@
 - **חשיבה קלינית**: [מודול 7ב — חשיבה קלינית](../../module-07b-clinical-reasoning/README.md)
 - **דוגמאות מפורטות**: [10 דוגמאות מלאות](../../module-07b-clinical-reasoning/06-worked-examples.md)
 - **מסימפטומים לדפוס**: [שלבי ניתוח](../../module-07b-clinical-reasoning/02-symptom-to-pattern.md)
-
-</div>

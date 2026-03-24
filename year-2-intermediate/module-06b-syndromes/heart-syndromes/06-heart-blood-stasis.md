@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # קיפאון דם לב (Xin Xue Yu Zu, 心血瘀阻)
 

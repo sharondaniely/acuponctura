@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # אש קיבה (Wei Huo Chi Sheng, 胃火炽盛)
 

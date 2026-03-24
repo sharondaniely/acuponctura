@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח-קור תוקפת ריאות (Feng Han Fan Fei, 风寒犯肺)
 

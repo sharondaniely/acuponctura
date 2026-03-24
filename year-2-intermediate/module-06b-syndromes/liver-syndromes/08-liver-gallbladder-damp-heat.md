@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # לחות-חום בכבד ומרה (Gan Dan Shi Re, 肝胆湿热)
 

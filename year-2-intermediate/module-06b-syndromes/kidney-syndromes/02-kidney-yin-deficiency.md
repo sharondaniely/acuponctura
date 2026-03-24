@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר ין כליות (Shen Yin Xu, 肾阴虚)
 

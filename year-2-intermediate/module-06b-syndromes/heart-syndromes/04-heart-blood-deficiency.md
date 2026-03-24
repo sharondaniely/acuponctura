@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר דם לב (Xin Xue Xu, 心血虚)
 

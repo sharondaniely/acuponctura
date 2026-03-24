@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח-לחות (Feng Shi, 风湿)
 

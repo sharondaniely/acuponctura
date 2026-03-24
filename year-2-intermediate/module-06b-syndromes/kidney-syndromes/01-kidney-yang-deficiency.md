@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # חוסר יאנג כליות (Shen Yang Xu, 肾阳虚)
 

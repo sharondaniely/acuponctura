@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # ליחה-חום בריאות (Tan Re Yong Fei, 痰热壅肺)
 

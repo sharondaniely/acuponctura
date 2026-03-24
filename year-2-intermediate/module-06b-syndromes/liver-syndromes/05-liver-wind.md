@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # רוח כבד פנימית (Gan Feng Nei Dong, 肝风内动)
 
