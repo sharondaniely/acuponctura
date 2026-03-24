@@ -27,6 +27,8 @@
 
 ### 1.2 שלוש שיטות מדידה
 
+![Cun Fingers](../../images/foundations/cun-fingers.png)
+
 #### א. מדידה באצבע אגודל (拇指同身寸 Mu Zhi Tong Shen Cun)
 
 **1 צון** = רוחב המפרק הבין-גלילי של אגודל המטופל
@@ -60,6 +62,8 @@
 
 ### 2.1 הראש (Head)
 
+![Cun Head](../../images/foundations/cun-head.png)
+
 | מ- | עד | מרחק |
 |---|---|---|
 | קו השיער הקדמי (前发际) | קו השיער האחורי (后发际) | 12 צון |
@@ -71,6 +75,8 @@
 
 ### 2.2 החזה והבטן (Chest & Abdomen)
 
+![Cun Chest and Abdomen](../../images/foundations/cun-chest-abdomen.png)
+
 | מ- | עד | מרחק |
 |---|---|---|
 | שני הפטמות (אצל גברים) | — | 8 צון |
@@ -81,6 +87,8 @@
 
 ### 2.3 הגב (Back)
 
+![Cun Back](../../images/foundations/cun-back.png)
+
 | מ- | עד | מרחק |
 |---|---|---|
 | קו אמצע (תוצאים שיכיים) → שורת BL הפנימית | — | 1.5 צון |
@@ -89,12 +97,16 @@
 
 ### 2.4 הגפה העליונה (Upper Limb)
 
+![Cun Upper Limb](../../images/foundations/cun-arm.png)
+
 | מ- | עד | מרחק |
 |---|---|---|
 | קפל בית השחי הקדמי | קפל המרפק | 9 צון |
 | קפל המרפק | קפל שורש כף היד | 12 צון |
 
 ### 2.5 הגפה התחתונה (Lower Limb)
+
+![Cun Lower Limb](../../images/foundations/cun-leg.png)
 
 | מ- | עד | מרחק |
 |---|---|---|

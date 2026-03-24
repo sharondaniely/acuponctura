@@ -81,9 +81,17 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO TE Meridian Chart](../../images/references/who/TE-triple-energizer-meridian-who.png)
+
 #### TE1 — גואן צ'ונג (关冲) — Guān Chōng — "מעבר פגיעה"
 
 ![TE1](../../.gitbook/assets/TE1.png)
+
+![TE1 - WHO](../../images/points-who/TE/TE1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te1-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-באר (井穴), נקודת מתכת (金)
 
@@ -120,6 +128,10 @@
 
 ![TE2](../../.gitbook/assets/TE2.png)
 
+![TE2 - WHO](../../images/points-who/TE/TE2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te2-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יינג-מעיין (荥穴), נקודת מים (水)
 
 **מיקום אנטומי:** בשקע הפרוקסימלי לקצה הקרום שבין האצבע הטבעתית לאצבע הקטנה, בגב היד.
@@ -153,6 +165,10 @@
 #### TE3 — ג'ונג ג'ו (中渚) — Zhōng Zhǔ — "אי מרכזי"
 
 ![TE3](../../.gitbook/assets/TE3.png)
+
+![TE3 - WHO](../../images/points-who/TE/TE3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te3-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת שו-זרם (输穴), נקודת עץ (木)
 
@@ -190,6 +206,10 @@
 
 ![TE4](../../.gitbook/assets/TE4.png)
 
+![TE4 - WHO](../../images/points-who/TE/TE4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te4-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יואן-מקור (原穴)
 
 **מיקום אנטומי:** בגב שורש כף היד (דורסלי), בשקע שעל קפל שורש כף היד, בצד האולנרי לגיד שריר האקסטנסור דיגיטורום קומוניס.
@@ -225,6 +245,10 @@
 #### TE5 — וואי גואן (外关) — Wài Guān — "מעבר חיצוני"
 
 ![TE5](../../.gitbook/assets/TE5.png)
+
+![TE5 - WHO](../../images/points-who/TE/TE5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te5-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת לואו-מחברת (络穴), אחת מ-8 נקודות המפגש (八脉交会穴) — מחוברת ליאנג ווי מאי (阳维脉)
 
@@ -265,6 +289,10 @@
 
 ![TE6](../../.gitbook/assets/TE6.png)
 
+![TE6 - WHO](../../images/points-who/TE/TE6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te6-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת ג'ינג-נהר (经穴), נקודת אש (火)
 
 **מיקום אנטומי:** 3 צון מעל קפל שורש כף היד הדורסלי, בין עצם הרדיוס לאולנה.
@@ -302,6 +330,10 @@
 
 ![TE7](../../.gitbook/assets/TE7.png)
 
+![TE7 - WHO](../../images/points-who/TE/TE7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te7-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי-צבירה (郄穴)
 
 **מיקום אנטומי:** 3 צון מעל קפל שורש כף היד הדורסלי, על הצד האולנרי של עצם האולנה (1 צון אולנרית ל-TE6).
@@ -336,6 +368,10 @@
 
 ![TE8](../../.gitbook/assets/TE8.png)
 
+![TE8 - WHO](../../images/points-who/TE/TE8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te8-acupuncture-point/)
+
 **מיקום אנטומי:** 4 צון מעל קפל שורש כף היד הדורסלי, בין עצם הרדיוס לאולנה.
 
 **איך למצוא את הנקודה:**
@@ -368,6 +404,10 @@
 
 ![TE9](../../.gitbook/assets/TE9.png)
 
+![TE9 - WHO](../../images/points-who/TE/TE9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te9-acupuncture-point/)
+
 **מיקום אנטומי:** 5 צון מתחת לאולקרנון (קצה המרפק), בין עצם הרדיוס לאולנה, על הצד הדורסלי של האמה.
 
 **איך למצוא את הנקודה:**
@@ -399,6 +439,10 @@
 #### TE10 — טיאן ג'ינג (天井) — Tiān Jǐng — "באר שמימית"
 
 ![TE10](../../.gitbook/assets/TE10.png)
+
+![TE10 - WHO](../../images/points-who/TE/TE10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te10-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת הא-ים (合穴), נקודת אדמה (土)
 
@@ -437,6 +481,10 @@
 
 ![TE11](../../.gitbook/assets/TE11.png)
 
+![TE11 - WHO](../../images/points-who/TE/TE11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te11-acupuncture-point/)
+
 **מיקום אנטומי:** 1 צון מעל TE10, 2 צון מעל האולקרנון, על הצד הלטרלי של הזרוע.
 
 **איך למצוא את הנקודה:**
@@ -465,6 +513,10 @@
 #### TE12 — שיאו לואו (消泺) — Xiāo Luò — "התכה מתפזרת"
 
 ![TE12](../../.gitbook/assets/TE12.png)
+
+![TE12 - WHO](../../images/points-who/TE/TE12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te12-acupuncture-point/)
 
 **מיקום אנטומי:** 5 צון מעל האולקרנון, באמצע הצד האחורי של הזרוע העליונה, בין ראשי שריר הטריצפס.
 
@@ -497,6 +549,10 @@
 
 ![TE13](../../.gitbook/assets/TE13.png)
 
+![TE13 - WHO](../../images/points-who/TE/TE13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te13-acupuncture-point/)
+
 **מיקום אנטומי:** 3 צון מתחת לאחורי הדלטויד, על הקו שבין האולקרנון לקצה הכתף, על השפה האחורית של שריר הדלטויד.
 
 **איך למצוא את הנקודה:**
@@ -528,6 +584,10 @@
 #### TE14 — ג'יאן ליאו (肩髎) — Jiān Liáo — "שקע הכתף"
 
 ![TE14](../../.gitbook/assets/TE14.png)
+
+![TE14 - WHO](../../images/points-who/TE/TE14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te14-acupuncture-point/)
 
 **מיקום אנטומי:** בשקע שמאחורי ומטה לאקרומיון, כאשר הזרוע מורמת (abducted), בשקע האחורי מבין שני השקעים שנוצרים.
 
@@ -563,6 +623,10 @@
 
 ![TE15](../../.gitbook/assets/TE15.png)
 
+![TE15 - WHO](../../images/points-who/TE/TE15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te15-acupuncture-point/)
+
 **מיקום אנטומי:** באמצע הקו בין GB21 (ג'יאן ג'ינג) ל-SI13 (צ'יו יואן), על שריר הסופרספינטוס, מעל לפוסה הסופרספינטית.
 
 **איך למצוא את הנקודה:**
@@ -594,6 +658,10 @@
 #### TE16 — טיאן יו (天牖) — Tiān Yǒu — "חלון שמיים"
 
 ![TE16](../../.gitbook/assets/TE16.png)
+
+![TE16 - WHO](../../images/points-who/TE/TE16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te16-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת חלון השמיים (天窗穴)
 
@@ -630,6 +698,10 @@
 
 ![TE17](../../.gitbook/assets/TE17.png)
 
+![TE17 - WHO](../../images/points-who/TE/TE17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te17-acupuncture-point/)
+
 **מיקום אנטומי:** בשקע שמאחורי תנוך האוזן (lobule), בין התהליך המסטואידי לענף הלסת התחתונה (ramus of mandible).
 
 **איך למצוא את הנקודה:**
@@ -664,6 +736,10 @@
 
 ![TE18](../../.gitbook/assets/TE18.png)
 
+![TE18 - WHO](../../images/points-who/TE/TE18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te18-acupuncture-point/)
+
 **מיקום אנטומי:** מאחורי האוזן, במרכז התהליך המסטואידי, בגובה פתח האוזן, על הוריד שמאחורי האוזן.
 
 **איך למצוא את הנקודה:**
@@ -696,6 +772,10 @@
 
 ![TE19](../../.gitbook/assets/TE19.png)
 
+![TE19 - WHO](../../images/points-who/TE/TE19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te19-acupuncture-point/)
+
 **מיקום אנטומי:** מאחורי האוזן, בגובה הגבול העליון של האוזן, על התהליך המסטואידי.
 
 **איך למצוא את הנקודה:**
@@ -726,6 +806,10 @@
 #### TE20 — ג'יאו סון (角孙) — Jiǎo Sūn — "זווית האוזן"
 
 ![TE20](../../.gitbook/assets/TE20.png)
+
+![TE20 - WHO](../../images/points-who/TE/TE20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te20-acupuncture-point/)
 
 **מיקום אנטומי:** מעל לקצה העליון של האוזן (apex), כאשר האוזן מקופלת קדימה.
 
@@ -758,6 +842,10 @@
 #### TE21 — אר מן (耳门) — Ěr Mén — "שער האוזן"
 
 ![TE21](../../.gitbook/assets/TE21.png)
+
+![TE21 - WHO](../../images/points-who/TE/TE21.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te21-acupuncture-point/)
 
 **מיקום אנטומי:** בשקע שלפני הטראגוס (הבליטה שמלפני תעלת האוזן), כאשר הפה פתוח, מעל לקונדיל של הלסת התחתונה.
 
@@ -793,6 +881,10 @@
 
 ![TE22](../../.gitbook/assets/TE22.png)
 
+![TE22 - WHO](../../images/points-who/TE/TE22.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te22-acupuncture-point/)
+
 **מיקום אנטומי:** לפני האוזן, אחורית לעורק הטמפורלי השטחי, בגובה שורש הזיגומה (עצם הלחי), בגבול האחורי של קו השיער.
 
 **איך למצוא את הנקודה:**
@@ -824,6 +916,10 @@
 #### TE23 — סי ג'ו קונג (丝竹空) — Sī Zhú Kōng — "חלל משי הבמבוק"
 
 ![TE23](../../.gitbook/assets/TE23.png)
+
+![TE23 - WHO](../../images/points-who/TE/TE23.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/te23-acupuncture-point/)
 
 **מיקום אנטומי:** בשקע שבקצה הלטרלי (חיצוני) של הגבה.
 

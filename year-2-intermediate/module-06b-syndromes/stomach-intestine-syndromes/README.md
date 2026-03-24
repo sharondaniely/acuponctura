@@ -1,2 +1,0 @@
-# stomach-intestine-syndromes
-

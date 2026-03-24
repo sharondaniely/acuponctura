@@ -86,6 +86,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO HT Meridian Chart](../../images/references/who/HT-heart-meridian-who.png)
+
 #### HT1 - ג'י צ'ואן (极泉) - Jí Quán
 
 **משמעות השם**: "מעיין הפסגה" - "ג'י" = קיצוניות/פסגה; "צ'ואן" = מעיין. הנקודה נמצאת בנקודה הגבוהה ביותר של הערוץ (שחי), כמו מעיין שבפסגת ההר שממנו זורם הערוץ כלפי מטה
@@ -120,6 +124,10 @@
 
 ![HT1](../../.gitbook/assets/HT1.png)
 
+![HT1 - WHO](../../images/points-who/HT/HT1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht1-acupuncture-point/)
+
 ***
 
 #### HT2 - צ'ינג לינג (青灵) - Qīng Líng
@@ -153,6 +161,10 @@
 * HT2 + PC3 (צ'ו צה) - כאבי מרפק פנימיים
 
 ![HT2](../../.gitbook/assets/HT2.png)
+
+![HT2 - WHO](../../images/points-who/HT/HT2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht2-acupuncture-point/)
 
 ***
 
@@ -192,6 +204,10 @@
 
 ![HT3](../../.gitbook/assets/HT3.png)
 
+![HT3 - WHO](../../images/points-who/HT/HT3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht3-acupuncture-point/)
+
 ***
 
 #### HT4 - לינג דאו (灵道) - Líng Dào
@@ -227,6 +243,10 @@
 * HT4 + PC6 (ניי גואן) - כאבי חזה, דפיקות לב
 
 ![HT4](../../.gitbook/assets/HT4.png)
+
+![HT4 - WHO](../../images/points-who/HT/HT4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht4-acupuncture-point/)
 
 ***
 
@@ -268,6 +288,10 @@
 
 ![HT5](../../.gitbook/assets/HT5.png)
 
+![HT5 - WHO](../../images/points-who/HT/HT5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht5-acupuncture-point/)
+
 ***
 
 #### HT6 - ין שי (阴郄) - Yīn Xì
@@ -306,6 +330,10 @@
 * HT6 + BL15 (שין שו) - כאבי לב חריפים
 
 ![HT6](../../.gitbook/assets/HT6.png)
+
+![HT6 - WHO](../../images/points-who/HT/HT6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht6-acupuncture-point/)
 
 ***
 
@@ -350,6 +378,10 @@
 
 ![HT7](../../.gitbook/assets/HT7.png)
 
+![HT7 - WHO](../../images/points-who/HT/HT7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht7-acupuncture-point/)
+
 ***
 
 #### HT8 - שאו פו (少府) - Shào Fǔ
@@ -387,6 +419,10 @@
 
 ![HT8](../../.gitbook/assets/HT8.png)
 
+![HT8 - WHO](../../images/points-who/HT/HT8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht8-acupuncture-point/)
+
 ***
 
 #### HT9 - שאו צ'ונג (少冲) - Shào Chōng
@@ -423,6 +459,10 @@
 * HT9 + LU11 (שאו שאנג) - כאב גרון חריף, חום גבוה
 
 ![HT9](../../.gitbook/assets/HT9.png)
+
+![HT9 - WHO](../../images/points-who/HT/HT9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ht9-acupuncture-point/)
 
 ***
 

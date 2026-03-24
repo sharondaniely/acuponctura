@@ -86,6 +86,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO ST Meridian Chart](../../images/references/who/ST-stomach-meridian-who.png)
+
 #### ST1 — צ'נג צ'י (承泣)
 
 **שם סיני**: 承泣 (Cheng Qi) **משמעות השם**: "מקבל דמעות" — הנקודה מתחת לעין, מקום שבו דמעות נאספות **קטגוריה מיוחדת**: נקודת מפגש עם יאנג צ'יאו מאי (阳跷脉) ורן מאי (任脉)
@@ -102,6 +106,10 @@
 4. הנקודה על הגבול העצמי, בין העצם לגלגל העין
 
 ![ST1](../../.gitbook/assets/ST1.png)
+
+![ST1 - WHO](../../images/points-who/ST/ST1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st1-acupuncture-point/)
 
 **דיקור**
 
@@ -135,6 +143,10 @@
 
 ![ST2](../../.gitbook/assets/ST2.png)
 
+![ST2 - WHO](../../images/points-who/ST/ST2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st2-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90° (דקרו ישירות לתוך ה-Foramen)
@@ -165,6 +177,10 @@
 3. בנקודת החיתוך של קו אנכי מהאישון עם קו אופקי מתחתית הנחיר
 
 ![ST3](../../.gitbook/assets/ST3.png)
+
+![ST3 - WHO](../../images/points-who/ST/ST3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st3-acupuncture-point/)
 
 **דיקור**
 
@@ -197,6 +213,10 @@
 
 ![ST4](../../.gitbook/assets/ST4.png)
 
+![ST4 - WHO](../../images/points-who/ST/ST4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st4-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: אלכסונית או מישורית לכיוון ST6
@@ -226,6 +246,10 @@
 3. גששו את הגומה שנוצרת קדמית ל-Masseter — תרגישו דופק (עורק הפנים)
 
 ![ST5](../../.gitbook/assets/ST5.png)
+
+![ST5 - WHO](../../images/points-who/ST/ST5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st5-acupuncture-point/)
 
 **דיקור**
 
@@ -258,6 +282,10 @@
 
 ![ST6](../../.gitbook/assets/ST6.png)
 
+![ST6 - WHO](../../images/points-who/ST/ST6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st6-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90° או מישורית לכיוון ST4
@@ -289,6 +317,10 @@
 
 ![ST7](../../.gitbook/assets/ST7.png)
 
+![ST7 - WHO](../../images/points-who/ST/ST7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st7-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90° (כשהפה סגור)
@@ -318,6 +350,10 @@
 3. הנקודה 4.5 צון לטרלית לקו האמצע של הראש
 
 ![ST8](../../.gitbook/assets/ST8.png)
+
+![ST8 - WHO](../../images/points-who/ST/ST8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st8-acupuncture-point/)
 
 **דיקור**
 
@@ -354,6 +390,10 @@
 
 ![ST9](../../.gitbook/assets/ST9.png)
 
+![ST9 - WHO](../../images/points-who/ST/ST9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st9-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -383,6 +423,10 @@
 2. הנקודה באמצע ביניהם, על הגבול הקדמי של ה-SCM
 
 ![ST10](../../.gitbook/assets/ST10.png)
+
+![ST10 - WHO](../../images/points-who/ST/ST10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st10-acupuncture-point/)
 
 **דיקור**
 
@@ -415,6 +459,10 @@
 
 ![ST11](../../.gitbook/assets/ST11.png)
 
+![ST11 - WHO](../../images/points-who/ST/ST11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st11-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -445,6 +493,10 @@
 3. הנקודה במרכז הגומה
 
 ![ST12](../../.gitbook/assets/ST12.png)
+
+![ST12 - WHO](../../images/points-who/ST/ST12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st12-acupuncture-point/)
 
 **דיקור**
 
@@ -481,6 +533,10 @@
 
 ![ST13](../../.gitbook/assets/ST13.png)
 
+![ST13 - WHO](../../images/points-who/ST/ST13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st13-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: אלכסונית-לטרלית, 45°
@@ -508,6 +564,10 @@
 
 ![ST17](../../.gitbook/assets/ST17.png)
 
+![ST17 - WHO](../../images/points-who/ST/ST17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st17-acupuncture-point/)
+
 ***
 
 #### ST18 — רו גן (乳根)
@@ -525,6 +585,10 @@
 3. הנקודה ישירות מתחת לפטמה, בבסיס השד
 
 ![ST18](../../.gitbook/assets/ST18.png)
+
+![ST18 - WHO](../../images/points-who/ST/ST18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st18-acupuncture-point/)
 
 **דיקור**
 
@@ -561,6 +625,10 @@
 
 ![ST19](../../.gitbook/assets/ST19.png)
 
+![ST19 - WHO](../../images/points-who/ST/ST19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st19-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -582,6 +650,10 @@
 **ST21 — ליאנג מן (梁门)** "שער הגשר" — 4 צון מעל הטבור, 2 צון לטרלית. **נקודה חשובה** — כאב קיבה, חוסר תיאבון, שלשול. שילוב: ST21 + REN12 + ST36 (בעיות קיבה כרוניות).
 
 ![ST21](../../.gitbook/assets/ST21.png)
+
+![ST21 - WHO](../../images/points-who/ST/ST21.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st21-acupuncture-point/)
 
 **ST22 — גואן מן (关门)** "שער הסגירה" — 3 צון מעל הטבור, 2 צון לטרלית. נפיחות בטנית, בצקות, שלשול.
 
@@ -606,6 +678,10 @@
 3. הנקודה ברמת הטבור בדיוק, 2 צון לטרלית
 
 ![ST25](../../.gitbook/assets/ST25.png)
+
+![ST25 - WHO](../../images/points-who/ST/ST25.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st25-acupuncture-point/)
 
 **דיקור**
 
@@ -633,6 +709,10 @@
 
 ![ST28](../../.gitbook/assets/ST28.png)
 
+![ST28 - WHO](../../images/points-who/ST/ST28.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st28-acupuncture-point/)
+
 ***
 
 #### ST29 — גואי לאי (归来)
@@ -649,6 +729,10 @@
 2. מדדו 2 צון לטרלית
 
 ![ST29](../../.gitbook/assets/ST29.png)
+
+![ST29 - WHO](../../images/points-who/ST/ST29.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st29-acupuncture-point/)
 
 **דיקור**
 
@@ -679,6 +763,10 @@
 3. גששו את דופק עורק הפמורלי — הנקודה מדיאלית לעורק
 
 ![ST30](../../.gitbook/assets/ST30.png)
+
+![ST30 - WHO](../../images/points-who/ST/ST30.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st30-acupuncture-point/)
 
 **דיקור**
 
@@ -716,6 +804,10 @@
 
 ![ST31](../../.gitbook/assets/ST31.png)
 
+![ST31 - WHO](../../images/points-who/ST/ST31.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st31-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -747,6 +839,10 @@
 
 ![ST32](../../.gitbook/assets/ST32.png)
 
+![ST32 - WHO](../../images/points-who/ST/ST32.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st32-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -775,6 +871,10 @@
 2. מדדו 3 צון מעלה
 
 ![ST33](../../.gitbook/assets/ST33.png)
+
+![ST33 - WHO](../../images/points-who/ST/ST33.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st33-acupuncture-point/)
 
 **דיקור**
 
@@ -805,6 +905,10 @@
 3. הנקודה בין שני השרירים — גששו את השקע ביניהם
 
 ![ST34](../../.gitbook/assets/ST34.png)
+
+![ST34 - WHO](../../images/points-who/ST/ST34.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st34-acupuncture-point/)
 
 **דיקור**
 
@@ -838,6 +942,10 @@
 5. (הגומה המדיאלית היא נקודת Extra: Medial Xiyan)
 
 ![ST35](../../.gitbook/assets/ST35.png)
+
+![ST35 - WHO](../../images/points-who/ST/ST35.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st35-acupuncture-point/)
 
 **דיקור**
 
@@ -876,6 +984,10 @@
 
 ![ST36](../../.gitbook/assets/ST36.png)
 
+![ST36 - WHO](../../images/points-who/ST/ST36.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st36-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -906,6 +1018,10 @@
 3. הנקודה על אותו קו — 1 צון לטרלית לשוקה, על שריר ה-Tibialis Anterior
 
 ![ST37](../../.gitbook/assets/ST37.png)
+
+![ST37 - WHO](../../images/points-who/ST/ST37.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st37-acupuncture-point/)
 
 **דיקור**
 
@@ -938,6 +1054,10 @@
 
 ![ST38](../../.gitbook/assets/ST38.png)
 
+![ST38 - WHO](../../images/points-who/ST/ST38.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st38-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -967,6 +1087,10 @@
 2. מדדו 1 צון מטה
 
 ![ST39](../../.gitbook/assets/ST39.png)
+
+![ST39 - WHO](../../images/points-who/ST/ST39.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st39-acupuncture-point/)
 
 **דיקור**
 
@@ -999,6 +1123,10 @@
 4. על בליטה שרירית ברורה
 
 ![ST40](../../.gitbook/assets/ST40.png)
+
+![ST40 - WHO](../../images/points-who/ST/ST40.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st40-acupuncture-point/)
 
 **דיקור**
 
@@ -1036,6 +1164,10 @@
 
 ![ST41](../../.gitbook/assets/ST41.png)
 
+![ST41 - WHO](../../images/points-who/ST/ST41.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st41-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -1065,6 +1197,10 @@
 3. 1.5 צון דיסטלית ל-ST41
 
 ![ST42](../../.gitbook/assets/ST42.png)
+
+![ST42 - WHO](../../images/points-who/ST/ST42.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st42-acupuncture-point/)
 
 **דיקור**
 
@@ -1097,6 +1233,10 @@
 
 ![ST43](../../.gitbook/assets/ST43.png)
 
+![ST43 - WHO](../../images/points-who/ST/ST43.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st43-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -1126,6 +1266,10 @@
 3. הנקודה על הגבול בין העור הבהיר (כף) לעור הכהה (גב)
 
 ![ST44](../../.gitbook/assets/ST44.png)
+
+![ST44 - WHO](../../images/points-who/ST/ST44.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st44-acupuncture-point/)
 
 **דיקור**
 
@@ -1157,6 +1301,10 @@
 3. מדדו כ-0.1 צון (2 מ"מ) מפינת הציפורן
 
 ![ST45](../../.gitbook/assets/ST45.png)
+
+![ST45 - WHO](../../images/points-who/ST/ST45.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/st45-acupuncture-point/)
 
 **דיקור**
 

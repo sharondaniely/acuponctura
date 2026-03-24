@@ -81,9 +81,17 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO GB Meridian Chart](../../images/references/who/GB-gallbladder-meridian-who.png)
+
 #### GB1 — טונג צ'י ליאו (瞳子髎) — Tóng Zǐ Liáo — "שקע האישון"
 
 ![GB1](../../.gitbook/assets/GB1.png)
+
+![GB1 - WHO](../../images/points-who/GB/GB1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb1-acupuncture-point/)
 
 **מיקום אנטומי:** 0.5 צון לטרלית מזווית העין החיצונית, בשקע שעל השפה הלטרלית של עצם הארביט.
 
@@ -117,6 +125,10 @@
 
 ![GB2](../../.gitbook/assets/GB2.png)
 
+![GB2 - WHO](../../images/points-who/GB/GB2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb2-acupuncture-point/)
+
 **מיקום אנטומי:** לפני הטראגוס של האוזן, כאשר הפה פתוח, בשקע שמאחורי הקונדיל של הלסת.
 
 **איך למצוא את הנקודה:**
@@ -148,6 +160,10 @@
 #### GB3 — שאנג גואן (上关) — Shàng Guān — "מעבר עליון"
 
 ![GB3](../../.gitbook/assets/GB3.png)
+
+![GB3 - WHO](../../images/points-who/GB/GB3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb3-acupuncture-point/)
 
 **מיקום אנטומי:** לפני האוזן, על השפה העליונה של הזיגומה (עצם הלחי), בשקע שמעל ל-ST7.
 
@@ -181,6 +197,10 @@
 
 ![GB4](../../.gitbook/assets/GB4.png)
 
+![GB4 - WHO](../../images/points-who/GB/GB4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb4-acupuncture-point/)
+
 **מיקום אנטומי:** ברקה, ברבע הנקודה בין ST8 ל-GB7, על קו השיער.
 
 **איך למצוא את הנקודה:**
@@ -213,6 +233,10 @@
 
 ![GB5](../../.gitbook/assets/GB5.png)
 
+![GB5 - WHO](../../images/points-who/GB/GB5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb5-acupuncture-point/)
+
 **מיקום אנטומי:** ברקה, באמצע הקו בין ST8 ל-GB7, מעל קו השיער.
 
 **איך למצוא את הנקודה:**
@@ -243,6 +267,10 @@
 
 ![GB6](../../.gitbook/assets/GB6.png)
 
+![GB6 - WHO](../../images/points-who/GB/GB6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb6-acupuncture-point/)
+
 **מיקום אנטומי:** ברקה, בשלושת הרבעים בין ST8 ל-GB7 (קרוב ל-GB7).
 
 **איך למצוא את הנקודה:**
@@ -271,6 +299,10 @@
 #### GB7 — צ'יו בין (曲鬓) — Qū Bìn — "פיאות מתעקלות"
 
 ![GB7](../../.gitbook/assets/GB7.png)
+
+![GB7 - WHO](../../images/points-who/GB/GB7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb7-acupuncture-point/)
 
 **מיקום אנטומי:** ברקה, בצומת הקו האנכי שעולה מקצה הטראגוס עם קו השיער, מעל האוזן.
 
@@ -302,6 +334,10 @@
 #### GB8 — שואי גו (率谷) — Shuài Gǔ — "עמק מוביל"
 
 ![GB8](../../.gitbook/assets/GB8.png)
+
+![GB8 - WHO](../../images/points-who/GB/GB8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb8-acupuncture-point/)
 
 **מיקום אנטומי:** 1.5 צון ישירות מעל קצה האוזן (apex), בתוך קו השיער.
 
@@ -335,6 +371,10 @@
 
 ![GB9](../../.gitbook/assets/GB9.png)
 
+![GB9 - WHO](../../images/points-who/GB/GB9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb9-acupuncture-point/)
+
 **מיקום אנטומי:** 0.5 צון אחורי (פוסטריורי) ל-GB8, 2 צון מעל קו השיער, מעל האוזן.
 
 **איך למצוא את הנקודה:**
@@ -364,6 +404,10 @@
 #### GB10 — פו באי (浮白) — Fú Bái — "לבן צף"
 
 ![GB10](../../.gitbook/assets/GB10.png)
+
+![GB10 - WHO](../../images/points-who/GB/GB10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb10-acupuncture-point/)
 
 **מיקום אנטומי:** מאחורי ומעל לתהליך המסטואידי, בשליש העליון של הקו בין GB9 ל-GB12.
 
@@ -395,6 +439,10 @@
 
 ![GB11](../../.gitbook/assets/GB11.png)
 
+![GB11 - WHO](../../images/points-who/GB/GB11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb11-acupuncture-point/)
+
 **מיקום אנטומי:** מאחורי ומעל לתהליך המסטואידי, בשני שלישי הקו בין GB9 ל-GB12.
 
 **איך למצוא את הנקודה:**
@@ -423,6 +471,10 @@
 #### GB12 — וואן גו (完骨) — Wán Gǔ — "עצם שלמה"
 
 ![GB12](../../.gitbook/assets/GB12.png)
+
+![GB12 - WHO](../../images/points-who/GB/GB12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb12-acupuncture-point/)
 
 **מיקום אנטומי:** בשקע שמאחורי ומתחת לתהליך המסטואידי.
 
@@ -456,6 +508,10 @@
 
 ![GB13](../../.gitbook/assets/GB13.png)
 
+![GB13 - WHO](../../images/points-who/GB/GB13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb13-acupuncture-point/)
+
 **מיקום אנטומי:** 0.5 צון בתוך קו השיער, 3 צון לטרלית ל-DU24 (שן טינג).
 
 **איך למצוא את הנקודה:**
@@ -486,6 +542,10 @@
 #### GB14 — יאנג באי (阳白) — Yáng Bái — "לובן היאנג"
 
 ![GB14](../../.gitbook/assets/GB14.png)
+
+![GB14 - WHO](../../images/points-who/GB/GB14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb14-acupuncture-point/)
 
 **מיקום אנטומי:** 1 צון מעל אמצע הגבה, ישירות מעל האישון כאשר העין מביטה ישר קדימה.
 
@@ -521,6 +581,10 @@
 
 ![GB15](../../.gitbook/assets/GB15.png)
 
+![GB15 - WHO](../../images/points-who/GB/GB15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb15-acupuncture-point/)
+
 **מיקום אנטומי:** 0.5 צון בתוך קו השיער, ישירות מעל GB14, על הקו שבין DU24 ל-GB15.
 
 **איך למצוא את הנקודה:**
@@ -552,6 +616,10 @@
 
 ![GB16](../../.gitbook/assets/GB16.png)
 
+![GB16 - WHO](../../images/points-who/GB/GB16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb16-acupuncture-point/)
+
 **מיקום אנטומי:** 1.5 צון אחורי ל-GB15, 2 צון בתוך קו השיער.
 
 **איך למצוא את הנקודה:**
@@ -579,6 +647,10 @@
 #### GB17 — ג'נג יינג (正营) — Zhèng Yíng — "מחנה ישר"
 
 ![GB17](../../.gitbook/assets/GB17.png)
+
+![GB17 - WHO](../../images/points-who/GB/GB17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb17-acupuncture-point/)
 
 **מיקום אנטומי:** 1.5 צון אחורי ל-GB16, 3.5 צון בתוך קו השיער.
 
@@ -609,6 +681,10 @@
 
 ![GB18](../../.gitbook/assets/GB18.png)
 
+![GB18 - WHO](../../images/points-who/GB/GB18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb18-acupuncture-point/)
+
 **מיקום אנטומי:** 1.5 צון אחורי ל-GB17, 5 צון בתוך קו השיער.
 
 **איך למצוא את הנקודה:**
@@ -636,6 +712,10 @@
 #### GB19 — נאו קונג (脑空) — Nǎo Kōng — "חלל המוח"
 
 ![GB19](../../.gitbook/assets/GB19.png)
+
+![GB19 - WHO](../../images/points-who/GB/GB19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb19-acupuncture-point/)
 
 **מיקום אנטומי:** ישירות מעל GB20, בגובה השפה העליונה של הבליטה האוקסיפיטלית החיצונית (EOP), 2.5 צון לטרלית ל-DU17.
 
@@ -666,6 +746,10 @@
 #### GB20 — פנג צ'י (风池) — Fēng Chí — "בריכת הרוח"
 
 ![GB20](../../.gitbook/assets/GB20.png)
+
+![GB20 - WHO](../../images/points-who/GB/GB20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb20-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם יאנג ווי מאי (阳维脉), אחת הנקודות החשובות ביותר בגוף
 
@@ -710,6 +794,10 @@
 
 ![GB21](../../.gitbook/assets/GB21.png)
 
+![GB21 - WHO](../../images/points-who/GB/GB21.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb21-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם ערוץ שלוש המבערות (TE), ערוץ הקיבה (ST), ויאנג ווי מאי
 
 **מיקום אנטומי:** באמצע הקו בין תהליך השדרה C7 (DU14) לקצה הלטרלי של האקרומיון, על הנקודה הגבוהה ביותר של שריר הטרפזיוס.
@@ -748,6 +836,10 @@
 
 ![GB22](../../.gitbook/assets/GB22.png)
 
+![GB22 - WHO](../../images/points-who/GB/GB22.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb22-acupuncture-point/)
+
 **מיקום אנטומי:** על קו האמצע של בית השחי, ברווח הבין-צלעי ה-4, 3 צון מתחת לבית השחי.
 
 **איך למצוא את הנקודה:**
@@ -777,6 +869,10 @@
 
 ![GB23](../../.gitbook/assets/GB23.png)
 
+![GB23 - WHO](../../images/points-who/GB/GB23.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb23-acupuncture-point/)
+
 **מיקום אנטומי:** 1 צון קדימה (אנטריורית) ל-GB22, ברווח הבין-צלעי ה-4.
 
 **איך למצוא את הנקודה:**
@@ -805,6 +901,10 @@
 #### GB24 — רי יואה (日月) — Rì Yuè — "שמש וירח"
 
 ![GB24](../../.gitbook/assets/GB24.png)
+
+![GB24 - WHO](../../images/points-who/GB/GB24.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb24-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מו-קדמית (募穴) של כיס המרה
 
@@ -842,6 +942,10 @@
 
 ![GB25](../../.gitbook/assets/GB25.png)
 
+![GB25 - WHO](../../images/points-who/GB/GB25.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb25-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מו-קדמית (募穴) של הכליות
 
 **מיקום אנטומי:** בקצה החופשי של הצלע ה-12 (הצלע הצפה האחרונה), בצד הלטרלי של הבטן.
@@ -875,6 +979,10 @@
 #### GB26 — דאי מאי (带脉) — Dài Mài — "כלי החגורה"
 
 ![GB26](../../.gitbook/assets/GB26.png)
+
+![GB26 - WHO](../../images/points-who/GB/GB26.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb26-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי דאי מאי (带脉)
 
@@ -910,6 +1018,10 @@
 
 ![GB27](../../.gitbook/assets/GB27.png)
 
+![GB27 - WHO](../../images/points-who/GB/GB27.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb27-acupuncture-point/)
+
 **מיקום אנטומי:** באזור הבטן התחתונה, קדמי ומתחת לעמוד השדרה הכסלי העליון (ASIS), 3 צון מתחת לגובה הטבור.
 
 **איך למצוא את הנקודה:**
@@ -940,6 +1052,10 @@
 
 ![GB28](../../.gitbook/assets/GB28.png)
 
+![GB28 - WHO](../../images/points-who/GB/GB28.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb28-acupuncture-point/)
+
 **מיקום אנטומי:** 0.5 צון קדמי ומטה ל-GB27, קדמי-תחתון ל-ASIS.
 
 **איך למצוא את הנקודה:**
@@ -967,6 +1083,10 @@
 #### GB29 — ג'ו ליאו (居髎) — Jū Liáo — "שקע מגורים"
 
 ![GB29](../../.gitbook/assets/GB29.png)
+
+![GB29 - WHO](../../images/points-who/GB/GB29.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb29-acupuncture-point/)
 
 **מיקום אנטומי:** באמצע הקו בין ASIS לנקודת השיא של הטרוכנטר הגדול (הבליטה הגדולה של עצם הירך).
 
@@ -998,6 +1118,10 @@
 #### GB30 — הואן טיאו (环跳) — Huán Tiào — "קפיצה בעיגול"
 
 ![GB30](../../.gitbook/assets/GB30.png)
+
+![GB30 - WHO](../../images/points-who/GB/GB30.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb30-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם ערוץ שלפוחית השתן (BL)
 
@@ -1038,6 +1162,10 @@
 
 ![GB31](../../.gitbook/assets/GB31.png)
 
+![GB31 - WHO](../../images/points-who/GB/GB31.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb31-acupuncture-point/)
+
 **מיקום אנטומי:** על הצד הלטרלי של הירך, 7 צון מעל קפל הברך, בחריץ שבין שרירי הוסטוס לטרליס לביצפס פמוריס.
 
 **איך למצוא את הנקודה:**
@@ -1071,6 +1199,10 @@
 
 ![GB32](../../.gitbook/assets/GB32.png)
 
+![GB32 - WHO](../../images/points-who/GB/GB32.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb32-acupuncture-point/)
+
 **מיקום אנטומי:** 5 צון מעל קפל הברך, על הצד הלטרלי של הירך, בין שרירי הוסטוס לטרליס לביצפס פמוריס.
 
 **איך למצוא את הנקודה:**
@@ -1099,6 +1231,10 @@
 #### GB33 — שי יאנג גואן (膝阳关) — Xī Yáng Guān — "מעבר יאנג של הברך"
 
 ![GB33](../../.gitbook/assets/GB33.png)
+
+![GB33 - WHO](../../images/points-who/GB/GB33.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb33-acupuncture-point/)
 
 **מיקום אנטומי:** 3 צון מעל GB34, בשקע שמעל לאפיקונדיל הלטרלי של הפמור (עצם הירך), כאשר הברך מכופפת.
 
@@ -1131,6 +1267,10 @@
 #### GB34 — יאנג לינג צ'יואן (阳陵泉) — Yáng Líng Quán — "מעיין גבעת היאנג"
 
 ![GB34](../../.gitbook/assets/GB34.png)
+
+![GB34 - WHO](../../images/points-who/GB/GB34.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb34-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת הא-ים (合穴), נקודת אדמה (土), נקודת מפגש (会穴) של הגידים (筋会), נקודת הכוכב השמימי התחתון של הא (下合穴) של כיס המרה
 
@@ -1172,6 +1312,10 @@
 
 ![GB35](../../.gitbook/assets/GB35.png)
 
+![GB35 - WHO](../../images/points-who/GB/GB35.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb35-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי (郄穴) של יאנג ווי מאי (阳维脉)
 
 **מיקום אנטומי:** 7 צון מעל קצה המלאולוס הלטרלי (הקרסול החיצוני), על השפה האחורית של הפיבולה.
@@ -1205,6 +1349,10 @@
 
 ![GB36](../../.gitbook/assets/GB36.png)
 
+![GB36 - WHO](../../images/points-who/GB/GB36.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb36-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי-צבירה (郄穴) של ערוץ כיס המרה
 
 **מיקום אנטומי:** 7 צון מעל קצה המלאולוס הלטרלי, על השפה הקדמית (אנטריורית) של הפיבולה.
@@ -1236,6 +1384,10 @@
 #### GB37 — גואנג מינג (光明) — Guāng Míng — "אור בהיר"
 
 ![GB37](../../.gitbook/assets/GB37.png)
+
+![GB37 - WHO](../../images/points-who/GB/GB37.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb37-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת לואו-מחברת (络穴)
 
@@ -1271,6 +1423,10 @@
 
 ![GB38](../../.gitbook/assets/GB38.png)
 
+![GB38 - WHO](../../images/points-who/GB/GB38.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb38-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת ג'ינג-נהר (经穴), נקודת אש (火), נקודת הרגעה/ניקוז (泻穴 - נקודת הבן)
 
 **מיקום אנטומי:** 4 צון מעל קצה המלאולוס הלטרלי, על השפה הקדמית של הפיבולה.
@@ -1305,6 +1461,10 @@
 #### GB39 — שיואן ג'ונג (悬钟) — Xuán Zhōng — "פעמון תלוי" (גם: 绝骨 Jué Gǔ — "עצם נפרדת")
 
 ![GB39](../../.gitbook/assets/GB39.png)
+
+![GB39 - WHO](../../images/points-who/GB/GB39.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb39-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש (会穴) של המח (髓会), נקודת מפגש של שלושת ערוצי היאנג של הרגל
 
@@ -1343,6 +1503,10 @@
 
 ![GB40](../../.gitbook/assets/GB40.png)
 
+![GB40 - WHO](../../images/points-who/GB/GB40.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb40-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יואן-מקור (原穴)
 
 **מיקום אנטומי:** קדמי ומתחת למלאולוס הלטרלי (הקרסול החיצוני), בשקע שעל הצד הלטרלי של גיד שריר האקסטנסור דיגיטורום לונגוס.
@@ -1377,6 +1541,10 @@
 #### GB41 — צו לין צ'י (足临泣) — Zú Lín Qì — "דמעה יורדת של הרגל"
 
 ![GB41](../../.gitbook/assets/GB41.png)
+
+![GB41 - WHO](../../images/points-who/GB/GB41.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb41-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת שו-זרם (输穴), נקודת עץ (木), אחת מ-8 נקודות המפגש (八脉交会穴) — מחוברת לדאי מאי (带脉)
 
@@ -1415,6 +1583,10 @@
 
 ![GB42](../../.gitbook/assets/GB42.png)
 
+![GB42 - WHO](../../images/points-who/GB/GB42.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb42-acupuncture-point/)
+
 **מיקום אנטומי:** בגב הרגל, בין עצמות המטטרסל ה-4 וה-5, ליד המפרק המטטרסו-פלנגאלי, פרוקסימלית לקרום בין האצבעות.
 
 **איך למצוא את הנקודה:**
@@ -1444,6 +1616,10 @@
 #### GB43 — שיא שי (侠溪) — Xiá Xī — "נחל צר"
 
 ![GB43](../../.gitbook/assets/GB43.png)
+
+![GB43 - WHO](../../images/points-who/GB/GB43.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb43-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת יינג-מעיין (荥穴), נקודת מים (水)
 
@@ -1478,6 +1654,10 @@
 #### GB44 — צו צ'יאו ין (足窍阴) — Zú Qiào Yīn — "חלל ין של הרגל"
 
 ![GB44](../../.gitbook/assets/GB44.png)
+
+![GB44 - WHO](../../images/points-who/GB/GB44.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gb44-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-באר (井穴), נקודת מתכת (金)
 

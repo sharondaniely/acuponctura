@@ -81,6 +81,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO SI Meridian Chart](../../images/references/who/SI-small-intestine-meridian-who.png)
+
 #### SI1 - שאו צה (少泽) - Shào Zé
 
 **משמעות השם**: "ביצה קטנה" - "שאו" = קטן; "צה" = ביצה/אגם רדוד. נקודת הג'ינג שממנה הצ'י מתחילה לזרום כמו מים בביצה קטנה
@@ -114,6 +118,10 @@
 * SI1 + DU26 (שואי גואו) - אובדן הכרה
 
 ![SI1](../../.gitbook/assets/SI1.png)
+
+![SI1 - WHO](../../images/points-who/SI/SI1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si1-acupuncture-point/)
 
 ***
 
@@ -150,6 +158,10 @@
 * SI2 + LI4 (חה גו) - כאב גרון, כאבי שיניים
 
 ![SI2](../../.gitbook/assets/SI2.png)
+
+![SI2 - WHO](../../images/points-who/SI/SI2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si2-acupuncture-point/)
 
 ***
 
@@ -191,6 +203,10 @@
 
 ![SI3](../../.gitbook/assets/SI3.png)
 
+![SI3 - WHO](../../images/points-who/SI/SI3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si3-acupuncture-point/)
+
 ***
 
 #### SI4 - וואן גו (腕骨) - Wàn Gǔ
@@ -229,6 +245,10 @@
 
 ![SI4](../../.gitbook/assets/SI4.png)
 
+![SI4 - WHO](../../images/points-who/SI/SI4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si4-acupuncture-point/)
+
 ***
 
 #### SI5 - יאנג גו (阳谷) - Yáng Gǔ
@@ -263,6 +283,10 @@
 * SI5 + TE5 (וואי גואן) - כאבי שורש כף היד
 
 ![SI5](../../.gitbook/assets/SI5.png)
+
+![SI5 - WHO](../../images/points-who/SI/SI5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si5-acupuncture-point/)
 
 ***
 
@@ -301,6 +325,10 @@
 
 ![SI6](../../.gitbook/assets/SI6.png)
 
+![SI6 - WHO](../../images/points-who/SI/SI6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si6-acupuncture-point/)
+
 ***
 
 #### SI7 - ג'י ג'נג (支正) - Zhī Zhèng
@@ -337,6 +365,10 @@
 * SI7 + SI3 - כאבי צוואר וזרוע
 
 ![SI7](../../.gitbook/assets/SI7.png)
+
+![SI7 - WHO](../../images/points-who/SI/SI7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si7-acupuncture-point/)
 
 ***
 
@@ -376,6 +408,10 @@
 
 ![SI8](../../.gitbook/assets/SI8.png)
 
+![SI8 - WHO](../../images/points-who/SI/SI8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si8-acupuncture-point/)
+
 ***
 
 #### SI9 - ג'יאן ג'ן (肩贞) - Jiān Zhēn
@@ -412,6 +448,10 @@
 
 ![SI9](../../.gitbook/assets/SI9.png)
 
+![SI9 - WHO](../../images/points-who/SI/SI9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si9-acupuncture-point/)
+
 ***
 
 #### SI10 - נאו שו (臑俞) - Nào Shū
@@ -446,6 +486,10 @@
 * SI10 + GB21 (ג'יאן ג'ינג) - כאבי כתף עליונים
 
 ![SI10](../../.gitbook/assets/SI10.png)
+
+![SI10 - WHO](../../images/points-who/SI/SI10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si10-acupuncture-point/)
 
 ***
 
@@ -486,6 +530,10 @@
 
 ![SI11](../../.gitbook/assets/SI11.png)
 
+![SI11 - WHO](../../images/points-who/SI/SI11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si11-acupuncture-point/)
+
 ***
 
 #### SI12 - בינג פנג (秉风) - Bǐng Fēng
@@ -520,6 +568,10 @@
 
 ![SI12](../../.gitbook/assets/SI12.png)
 
+![SI12 - WHO](../../images/points-who/SI/SI12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si12-acupuncture-point/)
+
 ***
 
 #### SI13 - צ'ו יואן (曲垣) - Qū Yuán
@@ -552,6 +604,10 @@
 * SI13 + BL41 (פו פן) - כאבי שכם מדיאליים
 
 ![SI13](../../.gitbook/assets/SI13.png)
+
+![SI13 - WHO](../../images/points-who/SI/SI13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si13-acupuncture-point/)
 
 ***
 
@@ -586,6 +642,10 @@
 
 ![SI14](../../.gitbook/assets/SI14.png)
 
+![SI14 - WHO](../../images/points-who/SI/SI14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si14-acupuncture-point/)
+
 ***
 
 #### SI15 - ג'יאן ג'ונג שו (肩中俞) - Jiān Zhōng Shū
@@ -619,6 +679,10 @@
 * SI15 + DU14 (דא ג'ואי) - כאבי צוואר, חום
 
 ![SI15](../../.gitbook/assets/SI15.png)
+
+![SI15 - WHO](../../images/points-who/SI/SI15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si15-acupuncture-point/)
 
 ***
 
@@ -656,6 +720,10 @@
 
 ![SI16](../../.gitbook/assets/SI16.png)
 
+![SI16 - WHO](../../images/points-who/SI/SI16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si16-acupuncture-point/)
+
 ***
 
 #### SI17 - טיאן רונג (天容) - Tiān Róng
@@ -690,6 +758,10 @@
 * SI17 + LU7 (ליה צ'ואה) - צרידות, אובדן קול
 
 ![SI17](../../.gitbook/assets/SI17.png)
+
+![SI17 - WHO](../../images/points-who/SI/SI17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si17-acupuncture-point/)
 
 ***
 
@@ -728,6 +800,10 @@
 
 ![SI18](../../.gitbook/assets/SI18.png)
 
+![SI18 - WHO](../../images/points-who/SI/SI18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si18-acupuncture-point/)
+
 ***
 
 #### SI19 - טינג גונג (听宫) - Tīng Gōng
@@ -765,6 +841,10 @@
 * SI19 + KI3 (טאי שי) - טינטון מחסר כליות
 
 ![SI19](../../.gitbook/assets/SI19.png)
+
+![SI19 - WHO](../../images/points-who/SI/SI19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/si19-acupuncture-point/)
 
 ***
 

@@ -69,6 +69,7 @@
 2. **הוראה**: כל מודול עומד בפני עצמו כיחידת לימוד עם מטרות, תוכן, ותרגילים
 3. **עיון מהיר**: השתמש ב-[מפת הקורס](CURRICULUM.md) לניווט ישיר לנושא ספציפי
 4. **פרקטיקה קלינית**: השתמש ב[שאלון האבחון](diagnostic-tool/README.md) וב[תיאורי המקרה](case-studies/README.md)
+5. **ייצוא ל-NotebookLM**: ראה [export-for-ai/README.md](export-for-ai/README.md) — קבצים מאוחדים והנחיות מערכת; ליצירה מחדש: `.\scripts\Merge-MarkdownForAI.ps1`
 
 ## מוסכמות
 

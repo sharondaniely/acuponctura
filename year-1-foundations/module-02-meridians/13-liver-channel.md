@@ -85,9 +85,17 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO LR Meridian Chart](../../images/references/who/LR-liver-meridian-who.png)
+
 #### LR1 — דא דון (大敦) — Dà Dūn — "גבעה גדולה"
 
 ![LR1](../../.gitbook/assets/LR1.png)
+
+![LR1 - WHO](../../images/points-who/LR/LR1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lr1-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-באר (井穴), נקודת עץ (木)
 
@@ -126,6 +134,10 @@
 
 ![LR2](../../.gitbook/assets/LR2.png)
 
+![LR2 - WHO](../../images/points-who/LR/LR2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lr2-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יינג-מעיין (荥穴), נקודת אש (火), נקודת הרגעה/ניקוז (泻穴 - נקודת הבן)
 
 **מיקום אנטומי:** בגב הרגל, בשקע הדיסטלי לקצה הקרום שבין אצבע הרגל הגדולה לאצבע השנייה.
@@ -162,6 +174,10 @@
 #### LR3 — טאי צ'ונג (太冲) — Tài Chōng — "שטף גדול"
 
 ![LR3](../../.gitbook/assets/LR3.png)
+
+![LR3 - WHO](../../images/points-who/LR/LR3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lr3-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת שו-זרם (输穴), נקודת יואן-מקור (原穴), נקודת אדמה (土)
 
@@ -206,6 +222,10 @@
 #### LR4 — ג'ונג פנג (中封) — Zhōng Fēng — "חותם מרכזי"
 
 ![LR4](../../.gitbook/assets/LR4.png)
+
+![LR4 - WHO](../../images/points-who/LR/LR4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lr4-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-נהר (经穴), נקודת מתכת (金)
 

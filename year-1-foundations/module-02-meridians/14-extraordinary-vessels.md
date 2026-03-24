@@ -106,6 +106,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO GV Chart](../../images/references/who/GV-governor-vessel-who.png)
+
 #### DU1 — צ'אנג צ'יאנג (长强) — Cháng Qiáng — "חוזק ארוך"
 
 **קטגוריה מיוחדת:** נקודת לואו-מחברת (络穴) של דו מאי, נקודת מפגש עם ערוץ כיס המרה (GB) וערוץ הכליות (KI)
@@ -663,6 +667,10 @@
 
 ![DU20](../../.gitbook/assets/DU20.png)
 
+![DU20 - WHO](../../images/points-who/DU/DU20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/gv20-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש של כל ערוצי היאנג ודו מאי, נקודת מפגש עם ערוץ הכבד (LR), אחת הנקודות החשובות ביותר בגוף
 
 **מיקום אנטומי:** בקודקוד הראש, בקו האמצע, 5 צון מקו השיער הקדמי ו-7 צון מקו השיער האחורי.
@@ -976,6 +984,10 @@
 #### נקודות רן מאי (REN1-REN24)
 
 ***
+
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO CV Chart](../../images/references/who/CV-conception-vessel-who.png)
 
 #### REN1 — הוי ין (会阴) — Huì Yīn — "מפגש הין"
 

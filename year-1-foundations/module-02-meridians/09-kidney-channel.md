@@ -81,9 +81,17 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO KI Meridian Chart](../../images/references/who/KI-kidney-meridian-who.png)
+
 #### KI1 — יונג צ'יואן (涌泉) — Yǒng Quán — "מעיין נובע"
 
 ![KI1](../../.gitbook/assets/KI1.png)
+
+![KI1 - WHO](../../images/points-who/KI/KI1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki1-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-באר (井穴), נקודת עץ (木), נקודת טיפול חירום
 
@@ -121,6 +129,10 @@
 
 ![KI2](../../.gitbook/assets/KI2.png)
 
+![KI2 - WHO](../../images/points-who/KI/KI2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki2-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יינג-מעיין (荥穴), נקודת אש (火)
 
 **מיקום אנטומי:** על הצד המדיאלי של כף הרגל, בשקע שמתחת ולפני (אנטריורי ואינפריורי) לבליטה של עצם הנוויקולרית (הסירה).
@@ -155,6 +167,10 @@
 #### KI3 — טאי שי (太溪) — Tài Xī — "נחל גדול"
 
 ![KI3](../../.gitbook/assets/KI3.png)
+
+![KI3 - WHO](../../images/points-who/KI/KI3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki3-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת שו-זרם (输穴), נקודת יואן-מקור (原穴), נקודת אדמה (土)
 
@@ -194,6 +210,10 @@
 
 ![KI4](../../.gitbook/assets/KI4.png)
 
+![KI4 - WHO](../../images/points-who/KI/KI4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki4-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת לואו-מחברת (络穴)
 
 **מיקום אנטומי:** 0.5 צון מאחורי ומתחת ל-KI3, על המקום שבו גיד אכילס מתחבר לעצם העקב (קלקנאוס), בצד המדיאלי.
@@ -229,6 +249,10 @@
 
 ![KI5](../../.gitbook/assets/KI5.png)
 
+![KI5 - WHO](../../images/points-who/KI/KI5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki5-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי-צבירה (郄穴)
 
 **מיקום אנטומי:** 1 צון ישירות מתחת ל-KI3, בשקע המדיאלי-קדמי של עצם העקב (tuberosity of calcaneus).
@@ -263,6 +287,10 @@
 #### KI6 — ג'או האי (照海) — Zhào Hǎi — "ים זוהר"
 
 ![KI6](../../.gitbook/assets/KI6.png)
+
+![KI6 - WHO](../../images/points-who/KI/KI6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki6-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם ין צ'יאו מאי (阴跷脉), אחת מ-8 נקודות המפגש (八脉交会穴)
 
@@ -300,6 +328,10 @@
 #### KI7 — פו ליו (复溜) — Fù Liū — "זרם חוזר"
 
 ![KI7](../../.gitbook/assets/KI7.png)
+
+![KI7 - WHO](../../images/points-who/KI/KI7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki7-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-נהר (经穴), נקודת מתכת (金), נקודת חיזוק (补穴 - נקודת האם)
 
@@ -339,6 +371,10 @@
 
 ![KI8](../../.gitbook/assets/KI8.png)
 
+![KI8 - WHO](../../images/points-who/KI/KI8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki8-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי (郄穴) של ין צ'יאו מאי (阴跷脉)
 
 **מיקום אנטומי:** 2 צון מעל קצה המלאולוס המדיאלי, 0.5 צון קדימה (אנטריורית) ל-KI7, על השפה המדיאלית-אחורית של הטיביה.
@@ -374,6 +410,10 @@
 
 ![KI9](../../.gitbook/assets/KI9.png)
 
+![KI9 - WHO](../../images/points-who/KI/KI9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki9-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי (郄穴) של ין ווי מאי (阴维脉)
 
 **מיקום אנטומי:** 5 צון מעל KI3, על השפה המדיאלית של שריר הגסטרוקנמיוס (שריר השוק), בקו שבין KI3 ל-KI10.
@@ -408,6 +448,10 @@
 #### KI10 — ין גו (阴谷) — Yīn Gǔ — "עמק הין"
 
 ![KI10](../../.gitbook/assets/KI10.png)
+
+![KI10 - WHO](../../images/points-who/KI/KI10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki10-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת הא-ים (合穴), נקודת מים (水)
 
@@ -446,6 +490,10 @@
 
 ![KI11](../../.gitbook/assets/KI11.png)
 
+![KI11 - WHO](../../images/points-who/KI/KI11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki11-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 5 צון מתחת לטבור, 0.5 צון לטרלית לקו האמצע, על השפה העליונה של עצם ה-Pubis (ערווה).
@@ -479,6 +527,10 @@
 #### KI12 — דא הא (大赫) — Dà Hè — "זוהר גדול"
 
 ![KI12](../../.gitbook/assets/KI12.png)
+
+![KI12 - WHO](../../images/points-who/KI/KI12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki12-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
@@ -514,6 +566,10 @@
 
 ![KI13](../../.gitbook/assets/KI13.png)
 
+![KI13 - WHO](../../images/points-who/KI/KI13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki13-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 3 צון מתחת לטבור, 0.5 צון לטרלית לקו האמצע.
@@ -547,6 +603,10 @@
 #### KI14 — סי מאן (四满) — Sì Mǎn — "ארבע מלאויות"
 
 ![KI14](../../.gitbook/assets/KI14.png)
+
+![KI14 - WHO](../../images/points-who/KI/KI14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki14-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
@@ -582,6 +642,10 @@
 
 ![KI15](../../.gitbook/assets/KI15.png)
 
+![KI15 - WHO](../../images/points-who/KI/KI15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki15-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 1 צון מתחת לטבור, 0.5 צון לטרלית לקו האמצע.
@@ -615,6 +679,10 @@
 #### KI16 — הואנג שו (肓俞) — Huāng Shū — "נקודת ממברנה חיונית"
 
 ![KI16](../../.gitbook/assets/KI16.png)
+
+![KI16 - WHO](../../images/points-who/KI/KI16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki16-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
@@ -650,6 +718,10 @@
 
 ![KI17](../../.gitbook/assets/KI17.png)
 
+![KI17 - WHO](../../images/points-who/KI/KI17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki17-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 2 צון מעל הטבור, 0.5 צון לטרלית לקו האמצע.
@@ -683,6 +755,10 @@
 #### KI18 — שי גואן (石关) — Shí Guān — "שער האבן"
 
 ![KI18](../../.gitbook/assets/KI18.png)
+
+![KI18 - WHO](../../images/points-who/KI/KI18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki18-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
@@ -718,6 +794,10 @@
 
 ![KI19](../../.gitbook/assets/KI19.png)
 
+![KI19 - WHO](../../images/points-who/KI/KI19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki19-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 4 צון מעל הטבור, 0.5 צון לטרלית לקו האמצע.
@@ -751,6 +831,10 @@
 #### KI20 — פו טונג גו (腹通谷) — Fù Tōng Gǔ — "עמק התקשורת של הבטן"
 
 ![KI20](../../.gitbook/assets/KI20.png)
+
+![KI20 - WHO](../../images/points-who/KI/KI20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki20-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
@@ -786,6 +870,10 @@
 
 ![KI21](../../.gitbook/assets/KI21.png)
 
+![KI21 - WHO](../../images/points-who/KI/KI21.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki21-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת מפגש עם כלי חונג מאי (冲脉)
 
 **מיקום אנטומי:** 6 צון מעל הטבור, 0.5 צון לטרלית לקו האמצע, ממש מתחת לתהליך הכיפויידי (Xiphoid process).
@@ -820,6 +908,10 @@
 
 ![KI22](../../.gitbook/assets/KI22.png)
 
+![KI22 - WHO](../../images/points-who/KI/KI22.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki22-acupuncture-point/)
+
 **מיקום אנטומי:** ברווח הבין-צלעי ה-5, 2 צון לטרלית לקו האמצע של החזה.
 
 **איך למצוא את הנקודה:**
@@ -852,6 +944,10 @@
 
 ![KI23](../../.gitbook/assets/KI23.png)
 
+![KI23 - WHO](../../images/points-who/KI/KI23.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki23-acupuncture-point/)
+
 **מיקום אנטומי:** ברווח הבין-צלעי ה-4, 2 צון לטרלית לקו האמצע של החזה.
 
 **איך למצוא את הנקודה:**
@@ -883,6 +979,10 @@
 #### KI24 — לינג שו (灵墟) — Líng Xū — "שממה רוחנית"
 
 ![KI24](../../.gitbook/assets/KI24.png)
+
+![KI24 - WHO](../../images/points-who/KI/KI24.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki24-acupuncture-point/)
 
 **מיקום אנטומי:** ברווח הבין-צלעי ה-3, 2 צון לטרלית לקו האמצע של החזה.
 
@@ -917,6 +1017,10 @@
 
 ![KI25](../../.gitbook/assets/KI25.png)
 
+![KI25 - WHO](../../images/points-who/KI/KI25.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki25-acupuncture-point/)
+
 **מיקום אנטומי:** ברווח הבין-צלעי ה-2, 2 צון לטרלית לקו האמצע של החזה.
 
 **איך למצוא את הנקודה:**
@@ -950,6 +1054,10 @@
 
 ![KI26](../../.gitbook/assets/KI26.png)
 
+![KI26 - WHO](../../images/points-who/KI/KI26.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki26-acupuncture-point/)
+
 **מיקום אנטומי:** ברווח הבין-צלעי ה-1, 2 צון לטרלית לקו האמצע של החזה.
 
 **איך למצוא את הנקודה:**
@@ -981,6 +1089,10 @@
 #### KI27 — שו פו (俞府) — Shū Fǔ — "ארמון ההעברה"
 
 ![KI27](../../.gitbook/assets/KI27.png)
+
+![KI27 - WHO](../../images/points-who/KI/KI27.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/ki27-acupuncture-point/)
 
 **מיקום אנטומי:** בשקע שעל השפה התחתונה של עצם הבריח (קלביקולה), 2 צון לטרלית לקו האמצע של החזה.
 

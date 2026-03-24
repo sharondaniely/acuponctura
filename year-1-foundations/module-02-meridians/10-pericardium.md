@@ -77,9 +77,17 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO PC Meridian Chart](../../images/references/who/PC-pericardium-meridian-who.png)
+
 #### PC1 — טיאן צ'י (天池) — Tiān Chí — "בריכה שמימית"
 
 ![PC1](../../.gitbook/assets/PC1.png)
+
+![PC1 - WHO](../../images/points-who/PC/PC1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc1-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת מפגש עם ערוץ כיס המרה (GB)
 
@@ -116,6 +124,10 @@
 
 ![PC2](../../.gitbook/assets/PC2.png)
 
+![PC2 - WHO](../../images/points-who/PC/PC2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc2-acupuncture-point/)
+
 **מיקום אנטומי:** 2 צון מתחת לקצה הקדמי של קפל בית השחי, בין שני ראשי שריר הביצפס.
 
 **איך למצוא את הנקודה:**
@@ -147,6 +159,10 @@
 #### PC3 — צ'יו צה (曲泽) — Qū Zé — "ביצה מתעקלת"
 
 ![PC3](../../.gitbook/assets/PC3.png)
+
+![PC3 - WHO](../../images/points-who/PC/PC3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc3-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת הא-ים (合穴), נקודת מים (水)
 
@@ -186,6 +202,10 @@
 
 ![PC4](../../.gitbook/assets/PC4.png)
 
+![PC4 - WHO](../../images/points-who/PC/PC4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc4-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שי-צבירה (郄穴)
 
 **מיקום אנטומי:** 5 צון מעל קפל שורש כף היד, בין גידי הפלמריס לונגוס לפלקסור קרפי רדיאליס.
@@ -223,6 +243,10 @@
 
 ![PC5](../../.gitbook/assets/PC5.png)
 
+![PC5 - WHO](../../images/points-who/PC/PC5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc5-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת ג'ינג-נהר (经穴), נקודת מתכת (金)
 
 **מיקום אנטומי:** 3 צון מעל קפל שורש כף היד, בין גידי הפלמריס לונגוס לפלקסור קרפי רדיאליס.
@@ -259,6 +283,10 @@
 #### PC6 — ניי גואן (内关) — Nèi Guān — "מעבר פנימי"
 
 ![PC6](../../.gitbook/assets/PC6.png)
+
+![PC6 - WHO](../../images/points-who/PC/PC6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc6-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת לואו-מחברת (络穴), אחת מ-8 נקודות המפגש (八脉交会穴) — מחוברת לין ווי מאי (阴维脉), נקודת פיקוד על החזה (שיטת מאסטר טונג)
 
@@ -301,6 +329,10 @@
 
 ![PC7](../../.gitbook/assets/PC7.png)
 
+![PC7 - WHO](../../images/points-who/PC/PC7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc7-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת שו-זרם (输穴), נקודת יואן-מקור (原穴), נקודת אדמה (土), נקודת הרגעה (镇定穴)
 
 **מיקום אנטומי:** באמצע קפל שורש כף היד, בין גידי הפלמריס לונגוס לפלקסור קרפי רדיאליס.
@@ -338,6 +370,10 @@
 
 ![PC8](../../.gitbook/assets/PC8.png)
 
+![PC8 - WHO](../../images/points-who/PC/PC8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc8-acupuncture-point/)
+
 **קטגוריה מיוחדת:** נקודת יינג-מעיין (荥穴), נקודת אש (火)
 
 **מיקום אנטומי:** באמצע כף היד, בין עצמות המטקרפל ה-2 וה-3, פרוקסימלית למפרק המטקרפו-פלנגאלי.
@@ -374,6 +410,10 @@
 #### PC9 — ג'ונג צ'ונג (中冲) — Zhōng Chōng — "פגיעה מרכזית"
 
 ![PC9](../../.gitbook/assets/PC9.png)
+
+![PC9 - WHO](../../images/points-who/PC/PC9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/pc9-acupuncture-point/)
 
 **קטגוריה מיוחדת:** נקודת ג'ינג-באר (井穴), נקודת עץ (木)
 

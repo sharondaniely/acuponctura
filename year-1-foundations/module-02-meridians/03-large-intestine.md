@@ -85,6 +85,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO LI Meridian Chart](../../images/references/who/LI-large-intestine-meridian-who.png)
+
 #### LI1 — שאנג יאנג (商阳)
 
 **שם סיני**: 商阳 (Shang Yang) **משמעות השם**: "יאנג של המתכת" — שאנג = צליל המתכת; יאנג = ערוץ יאנג **קטגוריה מיוחדת**: נקודת ג'ינג-באר (井穴 Jing Xue) — אלמנט מתכת (金 Jin)
@@ -101,6 +105,10 @@
 4. מדדו כ-0.1 צון (2 מ"מ) מפינת הציפורן, באלכסון
 
 ![LI1](../../.gitbook/assets/LI1.png)
+
+![LI1 - WHO](../../images/points-who/LI/LI1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li1-acupuncture-point/)
 
 **דיקור**
 
@@ -133,6 +141,10 @@
 
 ![LI2](../../.gitbook/assets/LI2.png)
 
+![LI2 - WHO](../../images/points-who/LI/LI2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li2-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -163,6 +175,10 @@
 4. הנקודה בצד הרדיאלי (צד האגודל), על הגבול בין עור בהיר לכהה
 
 ![LI3](../../.gitbook/assets/LI3.png)
+
+![LI3 - WHO](../../images/points-who/LI/LI3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li3-acupuncture-point/)
 
 **דיקור**
 
@@ -195,6 +211,10 @@
 5. לחצו כלפי עצם המטקרפל השנייה — כאב ברור וחד
 
 ![LI4](../../.gitbook/assets/LI4.png)
+
+![LI4 - WHO](../../images/points-who/LI/LI4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li4-acupuncture-point/)
 
 **דיקור**
 
@@ -229,6 +249,10 @@
 
 ![LI5](../../.gitbook/assets/LI5.png)
 
+![LI5 - WHO](../../images/points-who/LI/LI5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li5-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -260,6 +284,10 @@
 
 ![LI6](../../.gitbook/assets/LI6.png)
 
+![LI6 - WHO](../../images/points-who/LI/LI6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li6-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת או אלכסונית, 90-45°
@@ -289,6 +317,10 @@
 3. הנקודה על הצד הרדיאלי של האמה, על שריר ה-Extensor Carpi Radialis
 
 ![LI7](../../.gitbook/assets/LI7.png)
+
+![LI7 - WHO](../../images/points-who/LI/LI7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li7-acupuncture-point/)
 
 **דיקור**
 
@@ -320,6 +352,10 @@
 
 ![LI8](../../.gitbook/assets/LI8.png)
 
+![LI8 - WHO](../../images/points-who/LI/LI8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li8-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -349,6 +385,10 @@
 3. הנקודה 1 צון מעל LI8
 
 ![LI9](../../.gitbook/assets/LI9.png)
+
+![LI9 - WHO](../../images/points-who/LI/LI9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li9-acupuncture-point/)
 
 **דיקור**
 
@@ -380,6 +420,10 @@
 4. לחצו — רגישות ברורה
 
 ![LI10](../../.gitbook/assets/LI10.png)
+
+![LI10 - WHO](../../images/points-who/LI/LI10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li10-acupuncture-point/)
 
 **דיקור**
 
@@ -413,6 +457,10 @@
 
 ![LI11](../../.gitbook/assets/LI11.png)
 
+![LI11 - WHO](../../images/points-who/LI/LI11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li11-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90° (כשהמרפק מכופף)
@@ -444,6 +492,10 @@
 
 ![LI12](../../.gitbook/assets/LI12.png)
 
+![LI12 - WHO](../../images/points-who/LI/LI12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li12-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -474,6 +526,10 @@
 
 ![LI13](../../.gitbook/assets/LI13.png)
 
+![LI13 - WHO](../../images/points-who/LI/LI13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li13-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -503,6 +559,10 @@
 3. הנקודה נמצאת על קצה ה-Deltoid Insertion, בגבול בין הדלתואיד לביצפס
 
 ![LI14](../../.gitbook/assets/LI14.png)
+
+![LI14 - WHO](../../images/points-who/LI/LI14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li14-acupuncture-point/)
 
 **דיקור**
 
@@ -535,6 +595,10 @@
 
 ![LI15](../../.gitbook/assets/LI15.png)
 
+![LI15 - WHO](../../images/points-who/LI/LI15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li15-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת או אלכסונית כלפי מטה, 90-60°
@@ -565,6 +629,10 @@
 4. בקשו מהמטופל להצמיד את היד לכתף הנגדית — הגומה תתגלה
 
 ![LI16](../../.gitbook/assets/LI16.png)
+
+![LI16 - WHO](../../images/points-who/LI/LI16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li16-acupuncture-point/)
 
 **דיקור**
 
@@ -598,6 +666,10 @@
 
 ![LI17](../../.gitbook/assets/LI17.png)
 
+![LI17 - WHO](../../images/points-who/LI/LI17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li17-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -630,6 +702,10 @@
 
 ![LI18](../../.gitbook/assets/LI18.png)
 
+![LI18 - WHO](../../images/points-who/LI/LI18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li18-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת, 90°
@@ -661,6 +737,10 @@
 
 ![LI19](../../.gitbook/assets/LI19.png)
 
+![LI19 - WHO](../../images/points-who/LI/LI19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li19-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: אלכסונית או מישורית (Transverse), 15-30°
@@ -691,6 +771,10 @@
 4. לחצו — רגישות ותחושה של "פתיחת האף"
 
 ![LI20](../../.gitbook/assets/LI20.png)
+
+![LI20 - WHO](../../images/points-who/LI/LI20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/li20-acupuncture-point/)
 
 **דיקור**
 

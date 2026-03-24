@@ -82,6 +82,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO LU Meridian Chart](../../images/references/who/LU-lung-meridian-who.png)
+
 #### LU1 — צ'ונג פו (中府)
 
 **שם סיני**: 中府 (Zhong Fu) **משמעות השם**: "ארמון האמצע" — נקודת המפגש של צ'י הריאות עם ג'יאו האמצעי **קטגוריה מיוחדת**: נקודת מו קדמית (募穴 Mu Xue) של הריאות; נקודת מפגש עם ערוץ הטחול
@@ -100,6 +104,10 @@
 6. לחצו — הנקודה רגישה במיוחד בקרב מטופלים עם בעיות ריאה
 
 ![LU1](../../.gitbook/assets/LU1.png)
+
+![LU1 - WHO](../../images/points-who/LU/LU1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu1-acupuncture-point/)
 
 **דיקור**
 
@@ -134,6 +142,10 @@
 
 ![LU2](../../.gitbook/assets/LU2.png)
 
+![LU2 - WHO](../../images/points-who/LU/LU2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu2-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: אלכסונית-לטרלית, 45°
@@ -167,6 +179,10 @@
 
 ![LU3](../../.gitbook/assets/LU3.png)
 
+![LU3 - WHO](../../images/points-who/LU/LU3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu3-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת (Perpendicular), 90°
@@ -197,6 +213,10 @@
 4. גששו — הנקודה ברצועת השריר
 
 ![LU4](../../.gitbook/assets/LU4.png)
+
+![LU4 - WHO](../../images/points-who/LU/LU4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu4-acupuncture-point/)
 
 **דיקור**
 
@@ -229,6 +249,10 @@
 5. לחצו בגומה שלצד הגיד — אמורה להיות רגישות ברורה
 
 ![LU5](../../.gitbook/assets/LU5.png)
+
+![LU5 - WHO](../../images/points-who/LU/LU5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu5-acupuncture-point/)
 
 **דיקור**
 
@@ -264,6 +288,10 @@
 
 ![LU6](../../.gitbook/assets/LU6.png)
 
+![LU6 - WHO](../../images/points-who/LU/LU6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu6-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת (Perpendicular), 90°
@@ -296,6 +324,10 @@
 5. הזיזו את האגודל קדימה ואחורה — תרגישו את הגידים נעים; הנקודה בשקע ביניהם
 
 ![LU7](../../.gitbook/assets/LU7.png)
+
+![LU7 - WHO](../../images/points-who/LU/LU7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu7-acupuncture-point/)
 
 **דיקור**
 
@@ -330,6 +362,10 @@
 
 ![LU8](../../.gitbook/assets/LU8.png)
 
+![LU8 - WHO](../../images/points-who/LU/LU8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu8-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת (Perpendicular), 90°
@@ -363,6 +399,10 @@
 6. **⚠️** העורק נמצא ממש ליד הנקודה
 
 ![LU9](../../.gitbook/assets/LU9.png)
+
+![LU9 - WHO](../../images/points-who/LU/LU9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu9-acupuncture-point/)
 
 **דיקור**
 
@@ -399,6 +439,10 @@
 
 ![LU10](../../.gitbook/assets/LU10.png)
 
+![LU10 - WHO](../../images/points-who/LU/LU10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu10-acupuncture-point/)
+
 **דיקור**
 
 * **זווית**: ניצבת (Perpendicular), 90°
@@ -430,6 +474,10 @@
 5. הנקודה קטנה מאוד ורגישה ביותר
 
 ![LU11](../../.gitbook/assets/LU11.png)
+
+![LU11 - WHO](../../images/points-who/LU/LU11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/lu11-acupuncture-point/)
 
 **דיקור**
 

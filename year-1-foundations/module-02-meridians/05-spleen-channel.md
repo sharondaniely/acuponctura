@@ -81,6 +81,10 @@
 
 ***
 
+> **WHO Standard Acupuncture Point Locations** (WHO, CC BY-NC-SA 3.0 IGO):
+>
+> ![WHO SP Meridian Chart](../../images/references/who/SP-spleen-meridian-who.png)
+
 #### SP1 - ין באי (隐白) - Yǐn Bái
 
 **משמעות השם**: "לבן נסתר" - הנקודה נמצאת בפינה הנסתרת של ציפורן הבוהן, כאשר הציפורן מכסה חלקית את הבשר הלבן
@@ -113,6 +117,10 @@
 * SP1 + HT7 (שן מן) - נדודי שינה עם חלומות מטרידים
 
 ![SP1](../../.gitbook/assets/SP1.png)
+
+![SP1 - WHO](../../images/points-who/SP/SP1.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp1-acupuncture-point/)
 
 ***
 
@@ -147,6 +155,10 @@
 * SP2 + ST44 (ניי טינג) - חום בקיבה
 
 ![SP2](../../.gitbook/assets/SP2.png)
+
+![SP2 - WHO](../../images/points-who/SP/SP2.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp2-acupuncture-point/)
 
 ***
 
@@ -183,6 +195,10 @@
 * SP3 + LU9 (טאי יואן) - חיזוק צ'י של ריאות וטחול (אדמה מזינה מתכת)
 
 ![SP3](../../.gitbook/assets/SP3.png)
+
+![SP3 - WHO](../../images/points-who/SP/SP3.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp3-acupuncture-point/)
 
 ***
 
@@ -221,6 +237,10 @@
 
 ![SP4](../../.gitbook/assets/SP4.png)
 
+![SP4 - WHO](../../images/points-who/SP/SP4.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp4-acupuncture-point/)
+
 ***
 
 #### SP5 - שאנג צ'יו (商丘) - Shāng Qiū
@@ -256,6 +276,10 @@
 * SP5 + BL20 (פי שו) - חולשת טחול עם רטיבות
 
 ![SP5](../../.gitbook/assets/SP5.png)
+
+![SP5 - WHO](../../images/points-who/SP/SP5.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp5-acupuncture-point/)
 
 ***
 
@@ -300,6 +324,10 @@
 
 ![SP6](../../.gitbook/assets/SP6.png)
 
+![SP6 - WHO](../../images/points-who/SP/SP6.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp6-acupuncture-point/)
+
 ***
 
 #### SP7 - לואו גו (漏谷) - Lòu Gǔ
@@ -334,6 +362,10 @@
 * SP7 + REN9 (שואי פן) - הצטברות נוזלים, בצקת
 
 ![SP7](../../.gitbook/assets/SP7.png)
+
+![SP7 - WHO](../../images/points-who/SP/SP7.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp7-acupuncture-point/)
 
 ***
 
@@ -371,6 +403,10 @@
 * SP8 + ST36 - כאבי בטן חריפים
 
 ![SP8](../../.gitbook/assets/SP8.png)
+
+![SP8 - WHO](../../images/points-who/SP/SP8.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp8-acupuncture-point/)
 
 ***
 
@@ -413,6 +449,10 @@
 
 ![SP9](../../.gitbook/assets/SP9.png)
 
+![SP9 - WHO](../../images/points-who/SP/SP9.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp9-acupuncture-point/)
+
 ***
 
 #### SP10 - שיואה האי (血海) - Xuè Hǎi
@@ -452,6 +492,10 @@
 
 ![SP10](../../.gitbook/assets/SP10.png)
 
+![SP10 - WHO](../../images/points-who/SP/SP10.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp10-acupuncture-point/)
+
 ***
 
 #### SP11 - ג'י מן (箕门) - Jī Mén
@@ -486,6 +530,10 @@
 * SP11 + REN3 (ג'ונג ג'י) - קושי בהשתנה
 
 ![SP11](../../.gitbook/assets/SP11.png)
+
+![SP11 - WHO](../../images/points-who/SP/SP11.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp11-acupuncture-point/)
 
 ***
 
@@ -523,6 +571,10 @@
 
 ![SP12](../../.gitbook/assets/SP12.png)
 
+![SP12 - WHO](../../images/points-who/SP/SP12.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp12-acupuncture-point/)
+
 ***
 
 #### SP13 - פו שה (府舍) - Fǔ Shè
@@ -557,6 +609,10 @@
 
 ![SP13](../../.gitbook/assets/SP13.png)
 
+![SP13 - WHO](../../images/points-who/SP/SP13.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp13-acupuncture-point/)
+
 ***
 
 #### SP14 - פו ג'יה (腹结) - Fù Jié
@@ -590,6 +646,10 @@
 * SP14 + REN6 (צ'י האי) - כאבי בטן תחתונה
 
 ![SP14](../../.gitbook/assets/SP14.png)
+
+![SP14 - WHO](../../images/points-who/SP/SP14.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp14-acupuncture-point/)
 
 ***
 
@@ -626,6 +686,10 @@
 
 ![SP15](../../.gitbook/assets/SP15.png)
 
+![SP15 - WHO](../../images/points-who/SP/SP15.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp15-acupuncture-point/)
+
 ***
 
 #### SP16 - פו אי (腹哀) - Fù Āi
@@ -659,6 +723,10 @@
 * SP16 + ST21 (ליאנג מן) - כאבי קיבה לטרליים
 
 ![SP16](../../.gitbook/assets/SP16.png)
+
+![SP16 - WHO](../../images/points-who/SP/SP16.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp16-acupuncture-point/)
 
 ***
 
@@ -694,6 +762,10 @@
 * SP17 + PC6 (ניי גואן) - שיהוקים, בחילות
 
 ![SP17](../../.gitbook/assets/SP17.png)
+
+![SP17 - WHO](../../images/points-who/SP/SP17.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp17-acupuncture-point/)
 
 ***
 
@@ -731,6 +803,10 @@
 
 ![SP18](../../.gitbook/assets/SP18.png)
 
+![SP18 - WHO](../../images/points-who/SP/SP18.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp18-acupuncture-point/)
+
 ***
 
 #### SP19 - שיונג שיאנג (胸乡) - Xiōng Xiāng
@@ -763,6 +839,10 @@
 * SP19 + PC6 (ניי גואן) - לחץ בחזה עם בחילות
 
 ![SP19](../../.gitbook/assets/SP19.png)
+
+![SP19 - WHO](../../images/points-who/SP/SP19.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp19-acupuncture-point/)
 
 ***
 
@@ -797,6 +877,10 @@
 * SP20 + REN17 - לחץ וכאבים בחזה
 
 ![SP20](../../.gitbook/assets/SP20.png)
+
+![SP20 - WHO](../../images/points-who/SP/SP20.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp20-acupuncture-point/)
 
 ***
 
@@ -834,6 +918,10 @@
 * SP21 + ST36 (צו סאן לי) - חולשה כללית עם כאבי גוף
 
 ![SP21](../../.gitbook/assets/SP21.png)
+
+![SP21 - WHO](../../images/points-who/SP/SP21.png)
+
+> **External References:** [AcuPoints](https://www.acupoints.org/sp21-acupuncture-point/)
 
 ***
 
