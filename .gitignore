@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.cursor/
+
+# All images excluded from repo (too large for GitBook sync)
+# Images kept locally, referenced via external URLs in GitBook
+images/
