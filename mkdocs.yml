@@ -51,14 +51,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-exclude_docs: |
-  export-for-ai/
-  bin/
-  scripts/
-  .github/
-  .cursor/
-  site/
-
 nav:
   - דף הבית: README.md
   - מפת הקורס: CURRICULUM.md
