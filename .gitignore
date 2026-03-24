@@ -4,9 +4,8 @@ Thumbs.db
 *.bak
 .cursor/
 
-# AI-generated point illustrations (large)
+# Local-only directories
 images/points/
-docs/images/points/
 
 # MkDocs build output
 site/
