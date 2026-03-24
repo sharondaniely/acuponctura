@@ -2,8 +2,6 @@ site_name: קורס אקופונקטורה
 site_description: קורס מקיף בן 5 שנים באקופונקטורה ורפואה סינית מסורתית
 site_url: https://sharondaniely.github.io/acuponctura/
 
-docs_dir: .
-
 theme:
   name: material
   direction: rtl

@@ -6,6 +6,7 @@ Thumbs.db
 
 # AI-generated point illustrations (large)
 images/points/
+docs/images/points/
 
 # MkDocs build output
 site/
