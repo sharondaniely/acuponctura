@@ -3,3 +3,6 @@ Thumbs.db
 *.tmp
 *.bak
 .cursor/
+
+# AI-generated point illustrations (too large for GitBook sync)
+images/points/
