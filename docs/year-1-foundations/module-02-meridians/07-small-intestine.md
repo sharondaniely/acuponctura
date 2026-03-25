@@ -117,7 +117,7 @@
 * SI1 + LU11 (שאו שאנג) - כאב גרון חריף
 * SI1 + DU26 (שואי גואו) - אובדן הכרה
 
-![SI1](../../.gitbook/assets/SI1.png)
+![SI1](../../images/points/SI/SI1.png)
 
 ![SI1 - WHO](../../images/points-who/SI/SI1.png)
 
@@ -157,7 +157,7 @@
 * SI2 + HT8 (שאו פו) - חום בלב עם כיבים בפה
 * SI2 + LI4 (חה גו) - כאב גרון, כאבי שיניים
 
-![SI2](../../.gitbook/assets/SI2.png)
+![SI2](../../images/points/SI/SI2.png)
 
 ![SI2 - WHO](../../images/points-who/SI/SI2.png)
 
@@ -201,7 +201,7 @@
 * SI3 + BL40 (ווי ג'ונג) - כאבי גב תחתון חריפים
 * SI3 + LU7 (ליה צ'ואה) - כאבי ראש, נוקשות צוואר
 
-![SI3](../../.gitbook/assets/SI3.png)
+![SI3](../../images/points/SI/SI3.png)
 
 ![SI3 - WHO](../../images/points-who/SI/SI3.png)
 
@@ -243,7 +243,7 @@
 * SI4 + HT5 (טונג לי) - חיבור יואן-לואו בין מעי דק ולב
 * SI4 + TE4 (יאנג צ'י) - כאבי שורש כף היד
 
-![SI4](../../.gitbook/assets/SI4.png)
+![SI4](../../images/points/SI/SI4.png)
 
 ![SI4 - WHO](../../images/points-who/SI/SI4.png)
 
@@ -282,7 +282,7 @@
 * SI5 + SI3 - כאבי שורש כף היד עם נוקשות צוואר
 * SI5 + TE5 (וואי גואן) - כאבי שורש כף היד
 
-![SI5](../../.gitbook/assets/SI5.png)
+![SI5](../../images/points/SI/SI5.png)
 
 ![SI5 - WHO](../../images/points-who/SI/SI5.png)
 
@@ -323,7 +323,7 @@
 * SI6 + SI3 (הואו שי) - כאבי צוואר חריפים עם הגבלת תנועה
 * SI6 + DU26 (שואי גואו) - כאבי גב תחתון חריפים
 
-![SI6](../../.gitbook/assets/SI6.png)
+![SI6](../../images/points/SI/SI6.png)
 
 ![SI6 - WHO](../../images/points-who/SI/SI6.png)
 
@@ -364,7 +364,7 @@
 * SI7 + HT7 (שן מן) - מאניה, חרדה
 * SI7 + SI3 - כאבי צוואר וזרוע
 
-![SI7](../../.gitbook/assets/SI7.png)
+![SI7](../../images/points/SI/SI7.png)
 
 ![SI7 - WHO](../../images/points-who/SI/SI7.png)
 
@@ -406,7 +406,7 @@
 * SI8 + SI3 - כאבי מרפק עם נוקשות צוואר
 * SI8 + DU26 (שואי גואו) - אפילפסיה
 
-![SI8](../../.gitbook/assets/SI8.png)
+![SI8](../../images/points/SI/SI8.png)
 
 ![SI8 - WHO](../../images/points-who/SI/SI8.png)
 
@@ -446,7 +446,7 @@
 * SI9 + LI15 (ג'יאן יו) - כאבי כתף כלליים
 * SI9 + TE14 (ג'יאן ליאו) - הגבלת תנועה בכתף
 
-![SI9](../../.gitbook/assets/SI9.png)
+![SI9](../../images/points/SI/SI9.png)
 
 ![SI9 - WHO](../../images/points-who/SI/SI9.png)
 
@@ -485,7 +485,7 @@
 * SI10 + TE14 (ג'יאן ליאו) - כאבי כתף עם הגבלת תנועה
 * SI10 + GB21 (ג'יאן ג'ינג) - כאבי כתף עליונים
 
-![SI10](../../.gitbook/assets/SI10.png)
+![SI10](../../images/points/SI/SI10.png)
 
 ![SI10 - WHO](../../images/points-who/SI/SI10.png)
 
@@ -528,7 +528,7 @@
 * SI11 + BL43 (גאו הואנג שו) - כאבי גב עליון כרוניים
 * SI11 + REN17 (שאן ג'ונג) - מחסור בחלב אם
 
-![SI11](../../.gitbook/assets/SI11.png)
+![SI11](../../images/points/SI/SI11.png)
 
 ![SI11 - WHO](../../images/points-who/SI/SI11.png)
 
@@ -566,7 +566,7 @@
 * SI12 + SI11 - כאבי כתף אחוריים
 * SI12 + GB21 (ג'יאן ג'ינג) - כאבי כתף עליונים ונוקשות
 
-![SI12](../../.gitbook/assets/SI12.png)
+![SI12](../../images/points/SI/SI12.png)
 
 ![SI12 - WHO](../../images/points-who/SI/SI12.png)
 
@@ -603,7 +603,7 @@
 * SI13 + SI14 + SI15 - כאבי גב עליון ושכם
 * SI13 + BL41 (פו פן) - כאבי שכם מדיאליים
 
-![SI13](../../.gitbook/assets/SI13.png)
+![SI13](../../images/points/SI/SI13.png)
 
 ![SI13 - WHO](../../images/points-who/SI/SI13.png)
 
@@ -640,7 +640,7 @@
 * SI14 + SI15 - כאבי שכם וצוואר
 * SI14 + GB21 (ג'יאן ג'ינג) - נוקשות כתפיים
 
-![SI14](../../.gitbook/assets/SI14.png)
+![SI14](../../images/points/SI/SI14.png)
 
 ![SI14 - WHO](../../images/points-who/SI/SI14.png)
 
@@ -678,7 +678,7 @@
 * SI15 + BL13 (פיי שו) - שיעול, אסטמה
 * SI15 + DU14 (דא ג'ואי) - כאבי צוואר, חום
 
-![SI15](../../.gitbook/assets/SI15.png)
+![SI15](../../images/points/SI/SI15.png)
 
 ![SI15 - WHO](../../images/points-who/SI/SI15.png)
 
@@ -718,7 +718,7 @@
 * SI16 + SI19 (טינג גונג) - בעיות שמיעה
 * SI16 + LI18 (פו טו) - כאבי גרון, נפיחות צוואר
 
-![SI16](../../.gitbook/assets/SI16.png)
+![SI16](../../images/points/SI/SI16.png)
 
 ![SI16 - WHO](../../images/points-who/SI/SI16.png)
 
@@ -757,7 +757,7 @@
 * SI17 + LI4 (חה גו) - כאבי גרון, נפיחות בצוואר
 * SI17 + LU7 (ליה צ'ואה) - צרידות, אובדן קול
 
-![SI17](../../.gitbook/assets/SI17.png)
+![SI17](../../images/points/SI/SI17.png)
 
 ![SI17 - WHO](../../images/points-who/SI/SI17.png)
 
@@ -798,7 +798,7 @@
 * SI18 + LI4 (חה גו) - כאבי שיניים עליונות
 * SI18 + GB14 (יאנג באי) - נוירלגיה טריגמינלית
 
-![SI18](../../.gitbook/assets/SI18.png)
+![SI18](../../images/points/SI/SI18.png)
 
 ![SI18 - WHO](../../images/points-who/SI/SI18.png)
 
@@ -840,7 +840,7 @@
 * SI19 + ST7 (שיא גואן) - כאבי TMJ
 * SI19 + KI3 (טאי שי) - טינטון מחסר כליות
 
-![SI19](../../.gitbook/assets/SI19.png)
+![SI19](../../images/points/SI/SI19.png)
 
 ![SI19 - WHO](../../images/points-who/SI/SI19.png)
 

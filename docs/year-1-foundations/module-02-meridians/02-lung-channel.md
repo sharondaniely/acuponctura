@@ -103,7 +103,7 @@
 5. הנקודה נמצאת ברווח הבין-צלעי הראשון, כ-6 צון מקו האמצע
 6. לחצו — הנקודה רגישה במיוחד בקרב מטופלים עם בעיות ריאה
 
-![LU1](../../.gitbook/assets/LU1.png)
+![LU1](../../images/points/LU/LU1.png)
 
 ![LU1 - WHO](../../images/points-who/LU/LU1.png)
 
@@ -140,7 +140,7 @@
 4. הגומה נמצאת מדיאלית (פנימית) לתהליך הקורקואידי של עצם השכם
 5. לחצו בעדינות — אמורה להיות רגישות קלה
 
-![LU2](../../.gitbook/assets/LU2.png)
+![LU2](../../images/points/LU/LU2.png)
 
 ![LU2 - WHO](../../images/points-who/LU/LU2.png)
 
@@ -177,7 +177,7 @@
 4. הנקודה נמצאת על הגבול הרדיאלי (צד חיצוני) של שריר הביצפס
 5. גששו את השריר — הנקודה ברצועת השריר עצמה
 
-![LU3](../../.gitbook/assets/LU3.png)
+![LU3](../../images/points/LU/LU3.png)
 
 ![LU3 - WHO](../../images/points-who/LU/LU3.png)
 
@@ -212,7 +212,7 @@
 3. הנקודה נמצאת על אותו קו — הגבול הרדיאלי של שריר הביצפס
 4. גששו — הנקודה ברצועת השריר
 
-![LU4](../../.gitbook/assets/LU4.png)
+![LU4](../../images/points/LU/LU4.png)
 
 ![LU4 - WHO](../../images/points-who/LU/LU4.png)
 
@@ -248,7 +248,7 @@
 4. הנקודה נמצאת מיד לטרלית (צד האגודל) לגיד
 5. לחצו בגומה שלצד הגיד — אמורה להיות רגישות ברורה
 
-![LU5](../../.gitbook/assets/LU5.png)
+![LU5](../../images/points/LU/LU5.png)
 
 ![LU5 - WHO](../../images/points-who/LU/LU5.png)
 
@@ -286,7 +286,7 @@
 5. בין שריר ה-Brachioradialis לבין גיד ה-Flexor Carpi Radialis
 6. לחצו עמוק — נקודה זו עשויה להיות רגישה מאוד
 
-![LU6](../../.gitbook/assets/LU6.png)
+![LU6](../../images/points/LU/LU6.png)
 
 ![LU6 - WHO](../../images/points-who/LU/LU6.png)
 
@@ -323,7 +323,7 @@
 4. גששו את השקע/גומה שבין שני הגידים
 5. הזיזו את האגודל קדימה ואחורה — תרגישו את הגידים נעים; הנקודה בשקע ביניהם
 
-![LU7](../../.gitbook/assets/LU7.png)
+![LU7](../../images/points/LU/LU7.png)
 
 ![LU7 - WHO](../../images/points-who/LU/LU7.png)
 
@@ -360,7 +360,7 @@
 4. הנקודה נמצאת על הצד הרדיאלי (צד האגודל) של עורק הרדיאלי
 5. **⚠️** הנקודה ממש ליד העורק — היזהרו לא לדקור את העורק
 
-![LU8](../../.gitbook/assets/LU8.png)
+![LU8](../../images/points/LU/LU8.png)
 
 ![LU8 - WHO](../../images/points-who/LU/LU8.png)
 
@@ -398,7 +398,7 @@
 5. גששו את הגומה בין הבליטה העצמית (Styloid) ועצמות שורש כף היד
 6. **⚠️** העורק נמצא ממש ליד הנקודה
 
-![LU9](../../.gitbook/assets/LU9.png)
+![LU9](../../images/points/LU/LU9.png)
 
 ![LU9 - WHO](../../images/points-who/LU/LU9.png)
 
@@ -437,7 +437,7 @@
 4. הנקודה נמצאת על הגבול בין העור הבהיר של כף היד לעור הכהה של גב היד
 5. לחצו — אמורה להיות רגישות ברורה בתוך השריר
 
-![LU10](../../.gitbook/assets/LU10.png)
+![LU10](../../images/points/LU/LU10.png)
 
 ![LU10 - WHO](../../images/points-who/LU/LU10.png)
 
@@ -473,7 +473,7 @@
 4. מדדו כ-0.1 צון (כ-2 מ"מ) מפינת הציפורן, באלכסון
 5. הנקודה קטנה מאוד ורגישה ביותר
 
-![LU11](../../.gitbook/assets/LU11.png)
+![LU11](../../images/points/LU/LU11.png)
 
 ![LU11 - WHO](../../images/points-who/LU/LU11.png)
 

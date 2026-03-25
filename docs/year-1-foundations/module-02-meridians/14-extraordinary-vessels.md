@@ -665,7 +665,7 @@
 
 #### DU20 — באי הוי (百会) — Bǎi Huì — "מפגש המאה"
 
-![DU20](../../.gitbook/assets/DU20.png)
+![DU20](../../images/points/DU/DU20.png)
 
 ![DU20 - WHO](../../images/points-who/DU/DU20.png)
 

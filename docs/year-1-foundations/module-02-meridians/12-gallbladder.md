@@ -87,7 +87,7 @@
 
 #### GB1 — טונג צ'י ליאו (瞳子髎) — Tóng Zǐ Liáo — "שקע האישון"
 
-![GB1](../../.gitbook/assets/GB1.png)
+![GB1](../../images/points/GB/GB1.png)
 
 ![GB1 - WHO](../../images/points-who/GB/GB1.png)
 
@@ -123,7 +123,7 @@
 
 #### GB2 — טינג הוי (听会) — Tīng Huì — "מפגש השמיעה"
 
-![GB2](../../.gitbook/assets/GB2.png)
+![GB2](../../images/points/GB/GB2.png)
 
 ![GB2 - WHO](../../images/points-who/GB/GB2.png)
 
@@ -159,7 +159,7 @@
 
 #### GB3 — שאנג גואן (上关) — Shàng Guān — "מעבר עליון"
 
-![GB3](../../.gitbook/assets/GB3.png)
+![GB3](../../images/points/GB/GB3.png)
 
 ![GB3 - WHO](../../images/points-who/GB/GB3.png)
 
@@ -195,7 +195,7 @@
 
 #### GB4 — האן יאן (颔厌) — Hàn Yàn — "לסת מלאה"
 
-![GB4](../../.gitbook/assets/GB4.png)
+![GB4](../../images/points/GB/GB4.png)
 
 ![GB4 - WHO](../../images/points-who/GB/GB4.png)
 
@@ -231,7 +231,7 @@
 
 #### GB5 — שיואן לו (悬颅) — Xuán Lú — "גולגולת תלויה"
 
-![GB5](../../.gitbook/assets/GB5.png)
+![GB5](../../images/points/GB/GB5.png)
 
 ![GB5 - WHO](../../images/points-who/GB/GB5.png)
 
@@ -265,7 +265,7 @@
 
 #### GB6 — שיואן לי (悬厘) — Xuán Lí — "מרווח תלוי"
 
-![GB6](../../.gitbook/assets/GB6.png)
+![GB6](../../images/points/GB/GB6.png)
 
 ![GB6 - WHO](../../images/points-who/GB/GB6.png)
 
@@ -298,7 +298,7 @@
 
 #### GB7 — צ'יו בין (曲鬓) — Qū Bìn — "פיאות מתעקלות"
 
-![GB7](../../.gitbook/assets/GB7.png)
+![GB7](../../images/points/GB/GB7.png)
 
 ![GB7 - WHO](../../images/points-who/GB/GB7.png)
 
@@ -333,7 +333,7 @@
 
 #### GB8 — שואי גו (率谷) — Shuài Gǔ — "עמק מוביל"
 
-![GB8](../../.gitbook/assets/GB8.png)
+![GB8](../../images/points/GB/GB8.png)
 
 ![GB8 - WHO](../../images/points-who/GB/GB8.png)
 
@@ -369,7 +369,7 @@
 
 #### GB9 — טיאן צ'ונג (天冲) — Tiān Chōng — "דחיפה שמימית"
 
-![GB9](../../.gitbook/assets/GB9.png)
+![GB9](../../images/points/GB/GB9.png)
 
 ![GB9 - WHO](../../images/points-who/GB/GB9.png)
 
@@ -403,7 +403,7 @@
 
 #### GB10 — פו באי (浮白) — Fú Bái — "לבן צף"
 
-![GB10](../../.gitbook/assets/GB10.png)
+![GB10](../../images/points/GB/GB10.png)
 
 ![GB10 - WHO](../../images/points-who/GB/GB10.png)
 
@@ -437,7 +437,7 @@
 
 #### GB11 — טאו צ'יאו ין (头窍阴) — Tóu Qiào Yīn — "חלל ין של הראש"
 
-![GB11](../../.gitbook/assets/GB11.png)
+![GB11](../../images/points/GB/GB11.png)
 
 ![GB11 - WHO](../../images/points-who/GB/GB11.png)
 
@@ -470,7 +470,7 @@
 
 #### GB12 — וואן גו (完骨) — Wán Gǔ — "עצם שלמה"
 
-![GB12](../../.gitbook/assets/GB12.png)
+![GB12](../../images/points/GB/GB12.png)
 
 ![GB12 - WHO](../../images/points-who/GB/GB12.png)
 
@@ -506,7 +506,7 @@
 
 #### GB13 — בן שן (本神) — Běn Shén — "שורש הרוח"
 
-![GB13](../../.gitbook/assets/GB13.png)
+![GB13](../../images/points/GB/GB13.png)
 
 ![GB13 - WHO](../../images/points-who/GB/GB13.png)
 
@@ -541,7 +541,7 @@
 
 #### GB14 — יאנג באי (阳白) — Yáng Bái — "לובן היאנג"
 
-![GB14](../../.gitbook/assets/GB14.png)
+![GB14](../../images/points/GB/GB14.png)
 
 ![GB14 - WHO](../../images/points-who/GB/GB14.png)
 
@@ -579,7 +579,7 @@
 
 #### GB15 — טאו לין צ'י (头临泣) — Tóu Lín Qì — "דמעה יורדת של הראש"
 
-![GB15](../../.gitbook/assets/GB15.png)
+![GB15](../../images/points/GB/GB15.png)
 
 ![GB15 - WHO](../../images/points-who/GB/GB15.png)
 
@@ -614,7 +614,7 @@
 
 #### GB16 — מו צ'ואנג (目窗) — Mù Chuāng — "חלון העין"
 
-![GB16](../../.gitbook/assets/GB16.png)
+![GB16](../../images/points/GB/GB16.png)
 
 ![GB16 - WHO](../../images/points-who/GB/GB16.png)
 
@@ -646,7 +646,7 @@
 
 #### GB17 — ג'נג יינג (正营) — Zhèng Yíng — "מחנה ישר"
 
-![GB17](../../.gitbook/assets/GB17.png)
+![GB17](../../images/points/GB/GB17.png)
 
 ![GB17 - WHO](../../images/points-who/GB/GB17.png)
 
@@ -679,7 +679,7 @@
 
 #### GB18 — צ'נג לינג (承灵) — Chéng Líng — "קבלת רוח"
 
-![GB18](../../.gitbook/assets/GB18.png)
+![GB18](../../images/points/GB/GB18.png)
 
 ![GB18 - WHO](../../images/points-who/GB/GB18.png)
 
@@ -711,7 +711,7 @@
 
 #### GB19 — נאו קונג (脑空) — Nǎo Kōng — "חלל המוח"
 
-![GB19](../../.gitbook/assets/GB19.png)
+![GB19](../../images/points/GB/GB19.png)
 
 ![GB19 - WHO](../../images/points-who/GB/GB19.png)
 
@@ -745,7 +745,7 @@
 
 #### GB20 — פנג צ'י (风池) — Fēng Chí — "בריכת הרוח"
 
-![GB20](../../.gitbook/assets/GB20.png)
+![GB20](../../images/points/GB/GB20.png)
 
 ![GB20 - WHO](../../images/points-who/GB/GB20.png)
 
@@ -792,7 +792,7 @@
 
 #### GB21 — ג'יאן ג'ינג (肩井) — Jiān Jǐng — "באר הכתף"
 
-![GB21](../../.gitbook/assets/GB21.png)
+![GB21](../../images/points/GB/GB21.png)
 
 ![GB21 - WHO](../../images/points-who/GB/GB21.png)
 
@@ -834,7 +834,7 @@
 
 #### GB22 — יואן יה (渊腋) — Yuān Yè — "בית שחי עמוק"
 
-![GB22](../../.gitbook/assets/GB22.png)
+![GB22](../../images/points/GB/GB22.png)
 
 ![GB22 - WHO](../../images/points-who/GB/GB22.png)
 
@@ -867,7 +867,7 @@
 
 #### GB23 — ג'ה ג'ין (辄筋) — Zhé Jīn — "גיד נבחר"
 
-![GB23](../../.gitbook/assets/GB23.png)
+![GB23](../../images/points/GB/GB23.png)
 
 ![GB23 - WHO](../../images/points-who/GB/GB23.png)
 
@@ -900,7 +900,7 @@
 
 #### GB24 — רי יואה (日月) — Rì Yuè — "שמש וירח"
 
-![GB24](../../.gitbook/assets/GB24.png)
+![GB24](../../images/points/GB/GB24.png)
 
 ![GB24 - WHO](../../images/points-who/GB/GB24.png)
 
@@ -940,7 +940,7 @@
 
 #### GB25 — ג'ינג מן (京门) — Jīng Mén — "שער הבירה"
 
-![GB25](../../.gitbook/assets/GB25.png)
+![GB25](../../images/points/GB/GB25.png)
 
 ![GB25 - WHO](../../images/points-who/GB/GB25.png)
 
@@ -978,7 +978,7 @@
 
 #### GB26 — דאי מאי (带脉) — Dài Mài — "כלי החגורה"
 
-![GB26](../../.gitbook/assets/GB26.png)
+![GB26](../../images/points/GB/GB26.png)
 
 ![GB26 - WHO](../../images/points-who/GB/GB26.png)
 
@@ -1016,7 +1016,7 @@
 
 #### GB27 — וו שו (五枢) — Wǔ Shū — "ציר חמישי"
 
-![GB27](../../.gitbook/assets/GB27.png)
+![GB27](../../images/points/GB/GB27.png)
 
 ![GB27 - WHO](../../images/points-who/GB/GB27.png)
 
@@ -1050,7 +1050,7 @@
 
 #### GB28 — ווי דאו (维道) — Wéi Dào — "דרך המחבר"
 
-![GB28](../../.gitbook/assets/GB28.png)
+![GB28](../../images/points/GB/GB28.png)
 
 ![GB28 - WHO](../../images/points-who/GB/GB28.png)
 
@@ -1082,7 +1082,7 @@
 
 #### GB29 — ג'ו ליאו (居髎) — Jū Liáo — "שקע מגורים"
 
-![GB29](../../.gitbook/assets/GB29.png)
+![GB29](../../images/points/GB/GB29.png)
 
 ![GB29 - WHO](../../images/points-who/GB/GB29.png)
 
@@ -1117,7 +1117,7 @@
 
 #### GB30 — הואן טיאו (环跳) — Huán Tiào — "קפיצה בעיגול"
 
-![GB30](../../.gitbook/assets/GB30.png)
+![GB30](../../images/points/GB/GB30.png)
 
 ![GB30 - WHO](../../images/points-who/GB/GB30.png)
 
@@ -1160,7 +1160,7 @@
 
 #### GB31 — פנג שי (风市) — Fēng Shì — "שוק הרוח"
 
-![GB31](../../.gitbook/assets/GB31.png)
+![GB31](../../images/points/GB/GB31.png)
 
 ![GB31 - WHO](../../images/points-who/GB/GB31.png)
 
@@ -1197,7 +1197,7 @@
 
 #### GB32 — ג'ונג דו (中渎) — Zhōng Dú — "תעלה מרכזית"
 
-![GB32](../../.gitbook/assets/GB32.png)
+![GB32](../../images/points/GB/GB32.png)
 
 ![GB32 - WHO](../../images/points-who/GB/GB32.png)
 
@@ -1230,7 +1230,7 @@
 
 #### GB33 — שי יאנג גואן (膝阳关) — Xī Yáng Guān — "מעבר יאנג של הברך"
 
-![GB33](../../.gitbook/assets/GB33.png)
+![GB33](../../images/points/GB/GB33.png)
 
 ![GB33 - WHO](../../images/points-who/GB/GB33.png)
 
@@ -1266,7 +1266,7 @@
 
 #### GB34 — יאנג לינג צ'יואן (阳陵泉) — Yáng Líng Quán — "מעיין גבעת היאנג"
 
-![GB34](../../.gitbook/assets/GB34.png)
+![GB34](../../images/points/GB/GB34.png)
 
 ![GB34 - WHO](../../images/points-who/GB/GB34.png)
 
@@ -1310,7 +1310,7 @@
 
 #### GB35 — יאנג ג'יאו (阳交) — Yáng Jiāo — "הצטלבות היאנג"
 
-![GB35](../../.gitbook/assets/GB35.png)
+![GB35](../../images/points/GB/GB35.png)
 
 ![GB35 - WHO](../../images/points-who/GB/GB35.png)
 
@@ -1347,7 +1347,7 @@
 
 #### GB36 — וואי צ'יו (外丘) — Wài Qiū — "גבעה חיצונית"
 
-![GB36](../../.gitbook/assets/GB36.png)
+![GB36](../../images/points/GB/GB36.png)
 
 ![GB36 - WHO](../../images/points-who/GB/GB36.png)
 
@@ -1383,7 +1383,7 @@
 
 #### GB37 — גואנג מינג (光明) — Guāng Míng — "אור בהיר"
 
-![GB37](../../.gitbook/assets/GB37.png)
+![GB37](../../images/points/GB/GB37.png)
 
 ![GB37 - WHO](../../images/points-who/GB/GB37.png)
 
@@ -1421,7 +1421,7 @@
 
 #### GB38 — יאנג פו (阳辅) — Yáng Fǔ — "עזר היאנג"
 
-![GB38](../../.gitbook/assets/GB38.png)
+![GB38](../../images/points/GB/GB38.png)
 
 ![GB38 - WHO](../../images/points-who/GB/GB38.png)
 
@@ -1460,7 +1460,7 @@
 
 #### GB39 — שיואן ג'ונג (悬钟) — Xuán Zhōng — "פעמון תלוי" (גם: 绝骨 Jué Gǔ — "עצם נפרדת")
 
-![GB39](../../.gitbook/assets/GB39.png)
+![GB39](../../images/points/GB/GB39.png)
 
 ![GB39 - WHO](../../images/points-who/GB/GB39.png)
 
@@ -1501,7 +1501,7 @@
 
 #### GB40 — צ'יו שו (丘墟) — Qiū Xū — "גבעות וחורבות"
 
-![GB40](../../.gitbook/assets/GB40.png)
+![GB40](../../images/points/GB/GB40.png)
 
 ![GB40 - WHO](../../images/points-who/GB/GB40.png)
 
@@ -1540,7 +1540,7 @@
 
 #### GB41 — צו לין צ'י (足临泣) — Zú Lín Qì — "דמעה יורדת של הרגל"
 
-![GB41](../../.gitbook/assets/GB41.png)
+![GB41](../../images/points/GB/GB41.png)
 
 ![GB41 - WHO](../../images/points-who/GB/GB41.png)
 
@@ -1581,7 +1581,7 @@
 
 #### GB42 — די וו הוי (地五会) — Dì Wǔ Huì — "מפגש חמש הארצות"
 
-![GB42](../../.gitbook/assets/GB42.png)
+![GB42](../../images/points/GB/GB42.png)
 
 ![GB42 - WHO](../../images/points-who/GB/GB42.png)
 
@@ -1615,7 +1615,7 @@
 
 #### GB43 — שיא שי (侠溪) — Xiá Xī — "נחל צר"
 
-![GB43](../../.gitbook/assets/GB43.png)
+![GB43](../../images/points/GB/GB43.png)
 
 ![GB43 - WHO](../../images/points-who/GB/GB43.png)
 
@@ -1653,7 +1653,7 @@
 
 #### GB44 — צו צ'יאו ין (足窍阴) — Zú Qiào Yīn — "חלל ין של הרגל"
 
-![GB44](../../.gitbook/assets/GB44.png)
+![GB44](../../images/points/GB/GB44.png)
 
 ![GB44 - WHO](../../images/points-who/GB/GB44.png)
 

@@ -87,7 +87,7 @@
 
 #### KI1 — יונג צ'יואן (涌泉) — Yǒng Quán — "מעיין נובע"
 
-![KI1](../../.gitbook/assets/KI1.png)
+![KI1](../../images/points/KI/KI1.png)
 
 ![KI1 - WHO](../../images/points-who/KI/KI1.png)
 
@@ -127,7 +127,7 @@
 
 #### KI2 — ראן גו (然谷) — Rán Gǔ — "עמק הלהבה"
 
-![KI2](../../.gitbook/assets/KI2.png)
+![KI2](../../images/points/KI/KI2.png)
 
 ![KI2 - WHO](../../images/points-who/KI/KI2.png)
 
@@ -166,7 +166,7 @@
 
 #### KI3 — טאי שי (太溪) — Tài Xī — "נחל גדול"
 
-![KI3](../../.gitbook/assets/KI3.png)
+![KI3](../../images/points/KI/KI3.png)
 
 ![KI3 - WHO](../../images/points-who/KI/KI3.png)
 
@@ -208,7 +208,7 @@
 
 #### KI4 — דא ג'ונג (大钟) — Dà Zhōng — "פעמון גדול"
 
-![KI4](../../.gitbook/assets/KI4.png)
+![KI4](../../images/points/KI/KI4.png)
 
 ![KI4 - WHO](../../images/points-who/KI/KI4.png)
 
@@ -247,7 +247,7 @@
 
 #### KI5 — שוי צ'יואן (水泉) — Shuǐ Quán — "מעיין מים"
 
-![KI5](../../.gitbook/assets/KI5.png)
+![KI5](../../images/points/KI/KI5.png)
 
 ![KI5 - WHO](../../images/points-who/KI/KI5.png)
 
@@ -286,7 +286,7 @@
 
 #### KI6 — ג'או האי (照海) — Zhào Hǎi — "ים זוהר"
 
-![KI6](../../.gitbook/assets/KI6.png)
+![KI6](../../images/points/KI/KI6.png)
 
 ![KI6 - WHO](../../images/points-who/KI/KI6.png)
 
@@ -327,7 +327,7 @@
 
 #### KI7 — פו ליו (复溜) — Fù Liū — "זרם חוזר"
 
-![KI7](../../.gitbook/assets/KI7.png)
+![KI7](../../images/points/KI/KI7.png)
 
 ![KI7 - WHO](../../images/points-who/KI/KI7.png)
 
@@ -369,7 +369,7 @@
 
 #### KI8 — ג'יאו שין (交信) — Jiāo Xìn — "הצטלבות אמינה"
 
-![KI8](../../.gitbook/assets/KI8.png)
+![KI8](../../images/points/KI/KI8.png)
 
 ![KI8 - WHO](../../images/points-who/KI/KI8.png)
 
@@ -408,7 +408,7 @@
 
 #### KI9 — ג'ו בין (筑宾) — Zhù Bīn — "בניין אורח"
 
-![KI9](../../.gitbook/assets/KI9.png)
+![KI9](../../images/points/KI/KI9.png)
 
 ![KI9 - WHO](../../images/points-who/KI/KI9.png)
 
@@ -447,7 +447,7 @@
 
 #### KI10 — ין גו (阴谷) — Yīn Gǔ — "עמק הין"
 
-![KI10](../../.gitbook/assets/KI10.png)
+![KI10](../../images/points/KI/KI10.png)
 
 ![KI10 - WHO](../../images/points-who/KI/KI10.png)
 
@@ -488,7 +488,7 @@
 
 #### KI11 — הנג גו (横骨) — Héng Gǔ — "עצם רוחבית"
 
-![KI11](../../.gitbook/assets/KI11.png)
+![KI11](../../images/points/KI/KI11.png)
 
 ![KI11 - WHO](../../images/points-who/KI/KI11.png)
 
@@ -526,7 +526,7 @@
 
 #### KI12 — דא הא (大赫) — Dà Hè — "זוהר גדול"
 
-![KI12](../../.gitbook/assets/KI12.png)
+![KI12](../../images/points/KI/KI12.png)
 
 ![KI12 - WHO](../../images/points-who/KI/KI12.png)
 
@@ -564,7 +564,7 @@
 
 #### KI13 — צ'י שיואה (气穴) — Qì Xué — "חור הצ'י"
 
-![KI13](../../.gitbook/assets/KI13.png)
+![KI13](../../images/points/KI/KI13.png)
 
 ![KI13 - WHO](../../images/points-who/KI/KI13.png)
 
@@ -602,7 +602,7 @@
 
 #### KI14 — סי מאן (四满) — Sì Mǎn — "ארבע מלאויות"
 
-![KI14](../../.gitbook/assets/KI14.png)
+![KI14](../../images/points/KI/KI14.png)
 
 ![KI14 - WHO](../../images/points-who/KI/KI14.png)
 
@@ -640,7 +640,7 @@
 
 #### KI15 — ג'ונג ג'ו (中注) — Zhōng Zhù — "יציקה מרכזית"
 
-![KI15](../../.gitbook/assets/KI15.png)
+![KI15](../../images/points/KI/KI15.png)
 
 ![KI15 - WHO](../../images/points-who/KI/KI15.png)
 
@@ -678,7 +678,7 @@
 
 #### KI16 — הואנג שו (肓俞) — Huāng Shū — "נקודת ממברנה חיונית"
 
-![KI16](../../.gitbook/assets/KI16.png)
+![KI16](../../images/points/KI/KI16.png)
 
 ![KI16 - WHO](../../images/points-who/KI/KI16.png)
 
@@ -716,7 +716,7 @@
 
 #### KI17 — שאנג צ'יו (商曲) — Shāng Qū — "עיקול המסחר"
 
-![KI17](../../.gitbook/assets/KI17.png)
+![KI17](../../images/points/KI/KI17.png)
 
 ![KI17 - WHO](../../images/points-who/KI/KI17.png)
 
@@ -754,7 +754,7 @@
 
 #### KI18 — שי גואן (石关) — Shí Guān — "שער האבן"
 
-![KI18](../../.gitbook/assets/KI18.png)
+![KI18](../../images/points/KI/KI18.png)
 
 ![KI18 - WHO](../../images/points-who/KI/KI18.png)
 
@@ -792,7 +792,7 @@
 
 #### KI19 — ין דו (阴都) — Yīn Dū — "בירת הין"
 
-![KI19](../../.gitbook/assets/KI19.png)
+![KI19](../../images/points/KI/KI19.png)
 
 ![KI19 - WHO](../../images/points-who/KI/KI19.png)
 
@@ -830,7 +830,7 @@
 
 #### KI20 — פו טונג גו (腹通谷) — Fù Tōng Gǔ — "עמק התקשורת של הבטן"
 
-![KI20](../../.gitbook/assets/KI20.png)
+![KI20](../../images/points/KI/KI20.png)
 
 ![KI20 - WHO](../../images/points-who/KI/KI20.png)
 
@@ -868,7 +868,7 @@
 
 #### KI21 — יו מן (幽门) — Yōu Mén — "שער החושך"
 
-![KI21](../../.gitbook/assets/KI21.png)
+![KI21](../../images/points/KI/KI21.png)
 
 ![KI21 - WHO](../../images/points-who/KI/KI21.png)
 
@@ -906,7 +906,7 @@
 
 #### KI22 — בו לאנג (步廊) — Bù Láng — "מסדרון צעדים"
 
-![KI22](../../.gitbook/assets/KI22.png)
+![KI22](../../images/points/KI/KI22.png)
 
 ![KI22 - WHO](../../images/points-who/KI/KI22.png)
 
@@ -942,7 +942,7 @@
 
 #### KI23 — שן פנג (神封) — Shén Fēng — "חותם הרוח"
 
-![KI23](../../.gitbook/assets/KI23.png)
+![KI23](../../images/points/KI/KI23.png)
 
 ![KI23 - WHO](../../images/points-who/KI/KI23.png)
 
@@ -978,7 +978,7 @@
 
 #### KI24 — לינג שו (灵墟) — Líng Xū — "שממה רוחנית"
 
-![KI24](../../.gitbook/assets/KI24.png)
+![KI24](../../images/points/KI/KI24.png)
 
 ![KI24 - WHO](../../images/points-who/KI/KI24.png)
 
@@ -1015,7 +1015,7 @@
 
 #### KI25 — שן צאנג (神藏) — Shén Cáng — "אוצר הרוח"
 
-![KI25](../../.gitbook/assets/KI25.png)
+![KI25](../../images/points/KI/KI25.png)
 
 ![KI25 - WHO](../../images/points-who/KI/KI25.png)
 
@@ -1052,7 +1052,7 @@
 
 #### KI26 — יו ג'ונג (彧中) — Yù Zhōng — "מרכז מבריק"
 
-![KI26](../../.gitbook/assets/KI26.png)
+![KI26](../../images/points/KI/KI26.png)
 
 ![KI26 - WHO](../../images/points-who/KI/KI26.png)
 
@@ -1088,7 +1088,7 @@
 
 #### KI27 — שו פו (俞府) — Shū Fǔ — "ארמון ההעברה"
 
-![KI27](../../.gitbook/assets/KI27.png)
+![KI27](../../images/points/KI/KI27.png)
 
 ![KI27 - WHO](../../images/points-who/KI/KI27.png)
 

@@ -4,8 +4,6 @@ Thumbs.db
 *.bak
 .cursor/
 
-# Local-only directories
-images/points/
 
 # MkDocs build output
 site/

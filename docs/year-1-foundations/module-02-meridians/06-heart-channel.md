@@ -122,7 +122,7 @@
 * HT1 + PC1 (טיאן צ'י) - כאבי חזה, לחץ בבית השחי
 * HT1 + LI15 (ג'יאן יו) - כאבי כתף עם הגבלת תנועה
 
-![HT1](../../.gitbook/assets/HT1.png)
+![HT1](../../images/points/HT/HT1.png)
 
 ![HT1 - WHO](../../images/points-who/HT/HT1.png)
 
@@ -160,7 +160,7 @@
 * HT2 + HT3 - כאבי זרוע מדיאליים
 * HT2 + PC3 (צ'ו צה) - כאבי מרפק פנימיים
 
-![HT2](../../.gitbook/assets/HT2.png)
+![HT2](../../images/points/HT/HT2.png)
 
 ![HT2 - WHO](../../images/points-who/HT/HT2.png)
 
@@ -202,7 +202,7 @@
 * HT3 + PC3 (צ'ו צה) - כאבי מרפק מדיאליים ("מרפק גולף")
 * HT3 + DU26 (שואי גואו) - אפילפסיה, אובדן הכרה
 
-![HT3](../../.gitbook/assets/HT3.png)
+![HT3](../../images/points/HT/HT3.png)
 
 ![HT3 - WHO](../../images/points-who/HT/HT3.png)
 
@@ -242,7 +242,7 @@
 * HT4 + REN23 (ליאן צ'ואן) - אובדן קול, קושי בדיבור
 * HT4 + PC6 (ניי גואן) - כאבי חזה, דפיקות לב
 
-![HT4](../../.gitbook/assets/HT4.png)
+![HT4](../../images/points/HT/HT4.png)
 
 ![HT4 - WHO](../../images/points-who/HT/HT4.png)
 
@@ -286,7 +286,7 @@
 * HT5 + BL15 (שין שו) - דפיקות לב, אריתמיה
 * HT5 + SP6 (סאן ין ג'יאו) - דימום רחמי
 
-![HT5](../../.gitbook/assets/HT5.png)
+![HT5](../../images/points/HT/HT5.png)
 
 ![HT5 - WHO](../../images/points-who/HT/HT5.png)
 
@@ -329,7 +329,7 @@
 * HT6 + HT7 (שן מן) - חרדת לילה, פחד פתאומי
 * HT6 + BL15 (שין שו) - כאבי לב חריפים
 
-![HT6](../../.gitbook/assets/HT6.png)
+![HT6](../../images/points/HT/HT6.png)
 
 ![HT6 - WHO](../../images/points-who/HT/HT6.png)
 
@@ -376,7 +376,7 @@
 * HT7 + LR3 (טאי צ'ונג) - דיכאון, אי-שקט רגשי
 * HT7 + REN14 (ג'ו צ'ואה) - בעיות לב עם חרדה
 
-![HT7](../../.gitbook/assets/HT7.png)
+![HT7](../../images/points/HT/HT7.png)
 
 ![HT7 - WHO](../../images/points-who/HT/HT7.png)
 
@@ -417,7 +417,7 @@
 * HT8 + SI2 (צ'יאן גו) - כיבים בפה, חום לב שיורד למעי דק
 * HT8 + REN15 (ג'יו ווי) - מאניה, חום בלב
 
-![HT8](../../.gitbook/assets/HT8.png)
+![HT8](../../images/points/HT/HT8.png)
 
 ![HT8 - WHO](../../images/points-who/HT/HT8.png)
 
@@ -458,7 +458,7 @@
 * HT9 + PC8 (לאו גונג) - חום בלב עם דליריום
 * HT9 + LU11 (שאו שאנג) - כאב גרון חריף, חום גבוה
 
-![HT9](../../.gitbook/assets/HT9.png)
+![HT9](../../images/points/HT/HT9.png)
 
 ![HT9 - WHO](../../images/points-who/HT/HT9.png)
 

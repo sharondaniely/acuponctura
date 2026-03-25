@@ -83,7 +83,7 @@
 
 #### PC1 — טיאן צ'י (天池) — Tiān Chí — "בריכה שמימית"
 
-![PC1](../../.gitbook/assets/PC1.png)
+![PC1](../../images/points/PC/PC1.png)
 
 ![PC1 - WHO](../../images/points-who/PC/PC1.png)
 
@@ -122,7 +122,7 @@
 
 #### PC2 — טיאן צ'יואן (天泉) — Tiān Quán — "מעיין שמימי"
 
-![PC2](../../.gitbook/assets/PC2.png)
+![PC2](../../images/points/PC/PC2.png)
 
 ![PC2 - WHO](../../images/points-who/PC/PC2.png)
 
@@ -158,7 +158,7 @@
 
 #### PC3 — צ'יו צה (曲泽) — Qū Zé — "ביצה מתעקלת"
 
-![PC3](../../.gitbook/assets/PC3.png)
+![PC3](../../images/points/PC/PC3.png)
 
 ![PC3 - WHO](../../images/points-who/PC/PC3.png)
 
@@ -200,7 +200,7 @@
 
 #### PC4 — שי מן (郄门) — Xì Mén — "שער הסדק"
 
-![PC4](../../.gitbook/assets/PC4.png)
+![PC4](../../images/points/PC/PC4.png)
 
 ![PC4 - WHO](../../images/points-who/PC/PC4.png)
 
@@ -241,7 +241,7 @@
 
 #### PC5 — ג'יאן שי (间使) — Jiān Shǐ — "שליח מתווך"
 
-![PC5](../../.gitbook/assets/PC5.png)
+![PC5](../../images/points/PC/PC5.png)
 
 ![PC5 - WHO](../../images/points-who/PC/PC5.png)
 
@@ -282,7 +282,7 @@
 
 #### PC6 — ניי גואן (内关) — Nèi Guān — "מעבר פנימי"
 
-![PC6](../../.gitbook/assets/PC6.png)
+![PC6](../../images/points/PC/PC6.png)
 
 ![PC6 - WHO](../../images/points-who/PC/PC6.png)
 
@@ -327,7 +327,7 @@
 
 #### PC7 — דא לינג (大陵) — Dà Líng — "גבעה גדולה"
 
-![PC7](../../.gitbook/assets/PC7.png)
+![PC7](../../images/points/PC/PC7.png)
 
 ![PC7 - WHO](../../images/points-who/PC/PC7.png)
 
@@ -368,7 +368,7 @@
 
 #### PC8 — לאו גונג (劳宫) — Láo Gōng — "ארמון העמל"
 
-![PC8](../../.gitbook/assets/PC8.png)
+![PC8](../../images/points/PC/PC8.png)
 
 ![PC8 - WHO](../../images/points-who/PC/PC8.png)
 
@@ -409,7 +409,7 @@
 
 #### PC9 — ג'ונג צ'ונג (中冲) — Zhōng Chōng — "פגיעה מרכזית"
 
-![PC9](../../.gitbook/assets/PC9.png)
+![PC9](../../images/points/PC/PC9.png)
 
 ![PC9 - WHO](../../images/points-who/PC/PC9.png)
 

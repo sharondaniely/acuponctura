@@ -105,7 +105,7 @@
 3. גששו את הגבול התחתון של ארובת העין (הקצה העצמי) — ישירות מתחת לאישון
 4. הנקודה על הגבול העצמי, בין העצם לגלגל העין
 
-![ST1](../../.gitbook/assets/ST1.png)
+![ST1](../../images/points/ST/ST1.png)
 
 ![ST1 - WHO](../../images/points-who/ST/ST1.png)
 
@@ -141,7 +141,7 @@
 3. ירדו כ-1 צון — גששו את הגומה (Infraorbital Foramen)
 4. לחצו — תחושת כאב/חשמל שמקרין ללחי ולשפה העליונה
 
-![ST2](../../.gitbook/assets/ST2.png)
+![ST2](../../images/points/ST/ST2.png)
 
 ![ST2 - WHO](../../images/points-who/ST/ST2.png)
 
@@ -176,7 +176,7 @@
 2. ברמת הגבול התחתון של הנחיר
 3. בנקודת החיתוך של קו אנכי מהאישון עם קו אופקי מתחתית הנחיר
 
-![ST3](../../.gitbook/assets/ST3.png)
+![ST3](../../images/points/ST/ST3.png)
 
 ![ST3 - WHO](../../images/points-who/ST/ST3.png)
 
@@ -211,7 +211,7 @@
 3. מדדו 0.4 צון (כחצי ס"מ) הצידה מזווית הפה
 4. הנקודה על קו אנכי ישירות מתחת לאישון
 
-![ST4](../../.gitbook/assets/ST4.png)
+![ST4](../../images/points/ST/ST4.png)
 
 ![ST4 - WHO](../../images/points-who/ST/ST4.png)
 
@@ -245,7 +245,7 @@
 2. הזיזו את האצבע כ-1.3 צון קדימה לאורך הגבול התחתון של המנדיבולה
 3. גששו את הגומה שנוצרת קדמית ל-Masseter — תרגישו דופק (עורק הפנים)
 
-![ST5](../../.gitbook/assets/ST5.png)
+![ST5](../../images/points/ST/ST5.png)
 
 ![ST5 - WHO](../../images/points-who/ST/ST5.png)
 
@@ -280,7 +280,7 @@
 3. כשהשיניים רפויות, נוצרת גומה קלה באותו מקום
 4. רוחב אצבע אחד קדמי ומעל לזווית הלחי
 
-![ST6](../../.gitbook/assets/ST6.png)
+![ST6](../../images/points/ST/ST6.png)
 
 ![ST6 - WHO](../../images/points-who/ST/ST6.png)
 
@@ -315,7 +315,7 @@
 3. בקשו מהמטופל לפתוח את הפה — הגומה נעלמת (ה-Condyle עולה)
 4. בקשו מהמטופל לסגור — הגומה חוזרת
 
-![ST7](../../.gitbook/assets/ST7.png)
+![ST7](../../images/points/ST/ST7.png)
 
 ![ST7 - WHO](../../images/points-who/ST/ST7.png)
 
@@ -349,7 +349,7 @@
 2. מדדו 0.5 צון מעל קו השיער באותה פינה
 3. הנקודה 4.5 צון לטרלית לקו האמצע של הראש
 
-![ST8](../../.gitbook/assets/ST8.png)
+![ST8](../../images/points/ST/ST8.png)
 
 ![ST8 - WHO](../../images/points-who/ST/ST8.png)
 
@@ -388,7 +388,7 @@
 3. גששו את דופק עורק הקרוטיד — הנקודה על העורק
 4. הנקודה על הגבול הקדמי של ה-SCM
 
-![ST9](../../.gitbook/assets/ST9.png)
+![ST9](../../images/points/ST/ST9.png)
 
 ![ST9 - WHO](../../images/points-who/ST/ST9.png)
 
@@ -422,7 +422,7 @@
 1. אתרו את ST9 (ברמת תפוח האדם) ואת ST11 (מעל הבריח)
 2. הנקודה באמצע ביניהם, על הגבול הקדמי של ה-SCM
 
-![ST10](../../.gitbook/assets/ST10.png)
+![ST10](../../images/points/ST/ST10.png)
 
 ![ST10 - WHO](../../images/points-who/ST/ST10.png)
 
@@ -457,7 +457,7 @@
 2. גששו את ה-SCM ואת שני ראשיו — הסטרנלי והקלביקולרי
 3. הנקודה בגומה שביניהם, על הגבול העליון של הבריח
 
-![ST11](../../.gitbook/assets/ST11.png)
+![ST11](../../images/points/ST/ST11.png)
 
 ![ST11 - WHO](../../images/points-who/ST/ST11.png)
 
@@ -492,7 +492,7 @@
 2. מדדו 4 צון לטרלית לקו האמצע (או על קו אנכי מהפטמה)
 3. הנקודה במרכז הגומה
 
-![ST12](../../.gitbook/assets/ST12.png)
+![ST12](../../images/points/ST/ST12.png)
 
 ![ST12 - WHO](../../images/points-who/ST/ST12.png)
 
@@ -531,7 +531,7 @@
 2. מדדו 4 צון לטרלית לקו האמצע
 3. הנקודה ישירות מתחת ל-ST12
 
-![ST13](../../.gitbook/assets/ST13.png)
+![ST13](../../images/points/ST/ST13.png)
 
 ![ST13 - WHO](../../images/points-who/ST/ST13.png)
 
@@ -562,7 +562,7 @@
 
 **ST17 — רו ג'ונג (乳中)** "מרכז השד" — על הפטמה. **אסור לדקור** — נקודת ציון בלבד לצורך מדידה. הפטמה נמצאת ברווח הבין-צלעי הרביעי, 4 צון לטרלית.
 
-![ST17](../../.gitbook/assets/ST17.png)
+![ST17](../../images/points/ST/ST17.png)
 
 ![ST17 - WHO](../../images/points-who/ST/ST17.png)
 
@@ -584,7 +584,7 @@
 2. ירדו רווח בין-צלעי אחד — לרווח החמישי
 3. הנקודה ישירות מתחת לפטמה, בבסיס השד
 
-![ST18](../../.gitbook/assets/ST18.png)
+![ST18](../../images/points/ST/ST18.png)
 
 ![ST18 - WHO](../../images/points-who/ST/ST18.png)
 
@@ -623,7 +623,7 @@
 2. REN14 נמצא 6 צון מעל הטבור על קו האמצע
 3. מדדו 2 צון לטרלית — זו ST19
 
-![ST19](../../.gitbook/assets/ST19.png)
+![ST19](../../images/points/ST/ST19.png)
 
 ![ST19 - WHO](../../images/points-who/ST/ST19.png)
 
@@ -649,7 +649,7 @@
 
 **ST21 — ליאנג מן (梁门)** "שער הגשר" — 4 צון מעל הטבור, 2 צון לטרלית. **נקודה חשובה** — כאב קיבה, חוסר תיאבון, שלשול. שילוב: ST21 + REN12 + ST36 (בעיות קיבה כרוניות).
 
-![ST21](../../.gitbook/assets/ST21.png)
+![ST21](../../images/points/ST/ST21.png)
 
 ![ST21 - WHO](../../images/points-who/ST/ST21.png)
 
@@ -677,7 +677,7 @@
 2. מדדו 2 צון (רוחב 3 אצבעות) הצידה
 3. הנקודה ברמת הטבור בדיוק, 2 צון לטרלית
 
-![ST25](../../.gitbook/assets/ST25.png)
+![ST25](../../images/points/ST/ST25.png)
 
 ![ST25 - WHO](../../images/points-who/ST/ST25.png)
 
@@ -707,7 +707,7 @@
 
 **ST28 — שואי דאו (水道)** "מסלול המים" — 3 צון מתחת לטבור, 2 צון לטרלית. **נקודה חשובה למים** — בצקות, עצירת שתן, כאב מחזור, כאב בטן תחתון. שילוב: ST28 + REN3 + SP9 (בעיות שתן, בצקות).
 
-![ST28](../../.gitbook/assets/ST28.png)
+![ST28](../../images/points/ST/ST28.png)
 
 ![ST28 - WHO](../../images/points-who/ST/ST28.png)
 
@@ -728,7 +728,7 @@
 1. מדדו 4 צון מתחת לטבור (ברמת REN3)
 2. מדדו 2 צון לטרלית
 
-![ST29](../../.gitbook/assets/ST29.png)
+![ST29](../../images/points/ST/ST29.png)
 
 ![ST29 - WHO](../../images/points-who/ST/ST29.png)
 
@@ -762,7 +762,7 @@
 2. מדדו 2 צון לטרלית לקו האמצע
 3. גששו את דופק עורק הפמורלי — הנקודה מדיאלית לעורק
 
-![ST30](../../.gitbook/assets/ST30.png)
+![ST30](../../images/points/ST/ST30.png)
 
 ![ST30 - WHO](../../images/points-who/ST/ST30.png)
 
@@ -802,7 +802,7 @@
 3. הנקודה ישירות מתחת ל-ASIS, בפגישת שרירי Sartorius ו-Tensor Fasciae Latae
 4. גששו את הגומה שנוצרת — לחצו
 
-![ST31](../../.gitbook/assets/ST31.png)
+![ST31](../../images/points/ST/ST31.png)
 
 ![ST31 - WHO](../../images/points-who/ST/ST31.png)
 
@@ -837,7 +837,7 @@
 3. מדדו 6 צון מעלה
 4. הנקודה על בליטת שריר ה-Rectus Femoris — בקשו מהמטופל לכווץ את השריר
 
-![ST32](../../.gitbook/assets/ST32.png)
+![ST32](../../images/points/ST/ST32.png)
 
 ![ST32 - WHO](../../images/points-who/ST/ST32.png)
 
@@ -870,7 +870,7 @@
 1. אתרו את הגבול העליון-לטרלי של הפטלה
 2. מדדו 3 צון מעלה
 
-![ST33](../../.gitbook/assets/ST33.png)
+![ST33](../../images/points/ST/ST33.png)
 
 ![ST33 - WHO](../../images/points-who/ST/ST33.png)
 
@@ -904,7 +904,7 @@
 2. מדדו 2 צון מעלה
 3. הנקודה בין שני השרירים — גששו את השקע ביניהם
 
-![ST34](../../.gitbook/assets/ST34.png)
+![ST34](../../images/points/ST/ST34.png)
 
 ![ST34 - WHO](../../images/points-who/ST/ST34.png)
 
@@ -941,7 +941,7 @@
 4. ST35 בגומה **הלטרלית** (חיצונית) — "העין הלטרלית של הברך"
 5. (הגומה המדיאלית היא נקודת Extra: Medial Xiyan)
 
-![ST35](../../.gitbook/assets/ST35.png)
+![ST35](../../images/points/ST/ST35.png)
 
 ![ST35 - WHO](../../images/points-who/ST/ST35.png)
 
@@ -982,7 +982,7 @@
 5. הנקודה בשריר ה-Tibialis Anterior — לחצו ותרגישו את השריר
 6. **שיטה חלופית**: הניחו כף יד על הפיקה, אצבעות למטה — קצה האצבע הרביעית (Ring Finger) נוגע ב-ST36
 
-![ST36](../../.gitbook/assets/ST36.png)
+![ST36](../../images/points/ST/ST36.png)
 
 ![ST36 - WHO](../../images/points-who/ST/ST36.png)
 
@@ -1017,7 +1017,7 @@
 2. מדדו 3 צון ישירות מטה — זו ST37
 3. הנקודה על אותו קו — 1 צון לטרלית לשוקה, על שריר ה-Tibialis Anterior
 
-![ST37](../../.gitbook/assets/ST37.png)
+![ST37](../../images/points/ST/ST37.png)
 
 ![ST37 - WHO](../../images/points-who/ST/ST37.png)
 
@@ -1052,7 +1052,7 @@
 2. מצאו את נקודת האמצע — 8 צון מכל צד
 3. 2 צון מתחת ל-ST37
 
-![ST38](../../.gitbook/assets/ST38.png)
+![ST38](../../images/points/ST/ST38.png)
 
 ![ST38 - WHO](../../images/points-who/ST/ST38.png)
 
@@ -1086,7 +1086,7 @@
 1. אתרו את ST38
 2. מדדו 1 צון מטה
 
-![ST39](../../.gitbook/assets/ST39.png)
+![ST39](../../images/points/ST/ST39.png)
 
 ![ST39 - WHO](../../images/points-who/ST/ST39.png)
 
@@ -1122,7 +1122,7 @@
 3. הנקודה 2 צון לטרלית לקצה השוקה — צעד אחד לטרלית מקו ST38
 4. על בליטה שרירית ברורה
 
-![ST40](../../.gitbook/assets/ST40.png)
+![ST40](../../images/points/ST/ST40.png)
 
 ![ST40 - WHO](../../images/points-who/ST/ST40.png)
 
@@ -1162,7 +1162,7 @@
 3. הנקודה בגומה שבין שני הגידים, באמצע קפל הקרסול הקדמי
 4. ברמת קודקוד הקרסוליים (Malleoli)
 
-![ST41](../../.gitbook/assets/ST41.png)
+![ST41](../../images/points/ST/ST41.png)
 
 ![ST41 - WHO](../../images/points-who/ST/ST41.png)
 
@@ -1196,7 +1196,7 @@
 2. גששו את דופק עורק ה-Dorsalis Pedis — הנקודה לטרלית לעורק
 3. 1.5 צון דיסטלית ל-ST41
 
-![ST42](../../.gitbook/assets/ST42.png)
+![ST42](../../images/points/ST/ST42.png)
 
 ![ST42 - WHO](../../images/points-who/ST/ST42.png)
 
@@ -1231,7 +1231,7 @@
 2. גששו לכיוון הקרסול עד שתגיעו למפגש העצמות
 3. הנקודה בגומה שמיד דיסטלית למפגש
 
-![ST43](../../.gitbook/assets/ST43.png)
+![ST43](../../images/points/ST/ST43.png)
 
 ![ST43 - WHO](../../images/points-who/ST/ST43.png)
 
@@ -1265,7 +1265,7 @@
 2. גששו את הגבול הפרוקסימלי של הקרום — מאחורי הקפל
 3. הנקודה על הגבול בין העור הבהיר (כף) לעור הכהה (גב)
 
-![ST44](../../.gitbook/assets/ST44.png)
+![ST44](../../images/points/ST/ST44.png)
 
 ![ST44 - WHO](../../images/points-who/ST/ST44.png)
 
@@ -1300,7 +1300,7 @@
 2. הנקודה בפינה הלטרלית (צד חיצוני) של בסיס הציפורן
 3. מדדו כ-0.1 צון (2 מ"מ) מפינת הציפורן
 
-![ST45](../../.gitbook/assets/ST45.png)
+![ST45](../../images/points/ST/ST45.png)
 
 ![ST45 - WHO](../../images/points-who/ST/ST45.png)
 

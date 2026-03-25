@@ -91,7 +91,7 @@
 
 #### LR1 — דא דון (大敦) — Dà Dūn — "גבעה גדולה"
 
-![LR1](../../.gitbook/assets/LR1.png)
+![LR1](../../images/points/LR/LR1.png)
 
 ![LR1 - WHO](../../images/points-who/LR/LR1.png)
 
@@ -132,7 +132,7 @@
 
 #### LR2 — שינג ג'יאן (行间) — Xíng Jiān — "מרווח הליכה"
 
-![LR2](../../.gitbook/assets/LR2.png)
+![LR2](../../images/points/LR/LR2.png)
 
 ![LR2 - WHO](../../images/points-who/LR/LR2.png)
 
@@ -173,7 +173,7 @@
 
 #### LR3 — טאי צ'ונג (太冲) — Tài Chōng — "שטף גדול"
 
-![LR3](../../.gitbook/assets/LR3.png)
+![LR3](../../images/points/LR/LR3.png)
 
 ![LR3 - WHO](../../images/points-who/LR/LR3.png)
 
@@ -221,7 +221,7 @@
 
 #### LR4 — ג'ונג פנג (中封) — Zhōng Fēng — "חותם מרכזי"
 
-![LR4](../../.gitbook/assets/LR4.png)
+![LR4](../../images/points/LR/LR4.png)
 
 ![LR4 - WHO](../../images/points-who/LR/LR4.png)
 

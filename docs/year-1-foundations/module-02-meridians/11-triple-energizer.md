@@ -87,7 +87,7 @@
 
 #### TE1 — גואן צ'ונג (关冲) — Guān Chōng — "מעבר פגיעה"
 
-![TE1](../../.gitbook/assets/TE1.png)
+![TE1](../../images/points/TE/TE1.png)
 
 ![TE1 - WHO](../../images/points-who/TE/TE1.png)
 
@@ -126,7 +126,7 @@
 
 #### TE2 — יה מן (液门) — Yè Mén — "שער הנוזלים"
 
-![TE2](../../.gitbook/assets/TE2.png)
+![TE2](../../images/points/TE/TE2.png)
 
 ![TE2 - WHO](../../images/points-who/TE/TE2.png)
 
@@ -164,7 +164,7 @@
 
 #### TE3 — ג'ונג ג'ו (中渚) — Zhōng Zhǔ — "אי מרכזי"
 
-![TE3](../../.gitbook/assets/TE3.png)
+![TE3](../../images/points/TE/TE3.png)
 
 ![TE3 - WHO](../../images/points-who/TE/TE3.png)
 
@@ -204,7 +204,7 @@
 
 #### TE4 — יאנג צ'י (阳池) — Yáng Chí — "בריכת היאנג"
 
-![TE4](../../.gitbook/assets/TE4.png)
+![TE4](../../images/points/TE/TE4.png)
 
 ![TE4 - WHO](../../images/points-who/TE/TE4.png)
 
@@ -244,7 +244,7 @@
 
 #### TE5 — וואי גואן (外关) — Wài Guān — "מעבר חיצוני"
 
-![TE5](../../.gitbook/assets/TE5.png)
+![TE5](../../images/points/TE/TE5.png)
 
 ![TE5 - WHO](../../images/points-who/TE/TE5.png)
 
@@ -287,7 +287,7 @@
 
 #### TE6 — ג'י גו (支沟) — Zhī Gōu — "חפיר ענפים"
 
-![TE6](../../.gitbook/assets/TE6.png)
+![TE6](../../images/points/TE/TE6.png)
 
 ![TE6 - WHO](../../images/points-who/TE/TE6.png)
 
@@ -328,7 +328,7 @@
 
 #### TE7 — הוי צונג (会宗) — Huì Zōng — "מפגש שושלות"
 
-![TE7](../../.gitbook/assets/TE7.png)
+![TE7](../../images/points/TE/TE7.png)
 
 ![TE7 - WHO](../../images/points-who/TE/TE7.png)
 
@@ -366,7 +366,7 @@
 
 #### TE8 — סאן יאנג לואו (三阳络) — Sān Yáng Luò — "חיבור שלושת היאנג"
 
-![TE8](../../.gitbook/assets/TE8.png)
+![TE8](../../images/points/TE/TE8.png)
 
 ![TE8 - WHO](../../images/points-who/TE/TE8.png)
 
@@ -402,7 +402,7 @@
 
 #### TE9 — סי דו (四渎) — Sì Dú — "ארבע תעלות"
 
-![TE9](../../.gitbook/assets/TE9.png)
+![TE9](../../images/points/TE/TE9.png)
 
 ![TE9 - WHO](../../images/points-who/TE/TE9.png)
 
@@ -438,7 +438,7 @@
 
 #### TE10 — טיאן ג'ינג (天井) — Tiān Jǐng — "באר שמימית"
 
-![TE10](../../.gitbook/assets/TE10.png)
+![TE10](../../images/points/TE/TE10.png)
 
 ![TE10 - WHO](../../images/points-who/TE/TE10.png)
 
@@ -479,7 +479,7 @@
 
 #### TE11 — צ'ינג לנג יואן (清冷渊) — Qīng Lěng Yuān — "תהום צלולה וקרה"
 
-![TE11](../../.gitbook/assets/TE11.png)
+![TE11](../../images/points/TE/TE11.png)
 
 ![TE11 - WHO](../../images/points-who/TE/TE11.png)
 
@@ -512,7 +512,7 @@
 
 #### TE12 — שיאו לואו (消泺) — Xiāo Luò — "התכה מתפזרת"
 
-![TE12](../../.gitbook/assets/TE12.png)
+![TE12](../../images/points/TE/TE12.png)
 
 ![TE12 - WHO](../../images/points-who/TE/TE12.png)
 
@@ -547,7 +547,7 @@
 
 #### TE13 — נאו הוי (臑会) — Nào Huì — "מפגש הזרוע"
 
-![TE13](../../.gitbook/assets/TE13.png)
+![TE13](../../images/points/TE/TE13.png)
 
 ![TE13 - WHO](../../images/points-who/TE/TE13.png)
 
@@ -583,7 +583,7 @@
 
 #### TE14 — ג'יאן ליאו (肩髎) — Jiān Liáo — "שקע הכתף"
 
-![TE14](../../.gitbook/assets/TE14.png)
+![TE14](../../images/points/TE/TE14.png)
 
 ![TE14 - WHO](../../images/points-who/TE/TE14.png)
 
@@ -621,7 +621,7 @@
 
 #### TE15 — טיאן ליאו (天髎) — Tiān Liáo — "שקע שמימי"
 
-![TE15](../../.gitbook/assets/TE15.png)
+![TE15](../../images/points/TE/TE15.png)
 
 ![TE15 - WHO](../../images/points-who/TE/TE15.png)
 
@@ -657,7 +657,7 @@
 
 #### TE16 — טיאן יו (天牖) — Tiān Yǒu — "חלון שמיים"
 
-![TE16](../../.gitbook/assets/TE16.png)
+![TE16](../../images/points/TE/TE16.png)
 
 ![TE16 - WHO](../../images/points-who/TE/TE16.png)
 
@@ -696,7 +696,7 @@
 
 #### TE17 — יי פנג (翳风) — Yì Fēng — "מגן רוח"
 
-![TE17](../../.gitbook/assets/TE17.png)
+![TE17](../../images/points/TE/TE17.png)
 
 ![TE17 - WHO](../../images/points-who/TE/TE17.png)
 
@@ -734,7 +734,7 @@
 
 #### TE18 — צ'י מאי (瘈脉) — Chì Mài — "כלי העווית"
 
-![TE18](../../.gitbook/assets/TE18.png)
+![TE18](../../images/points/TE/TE18.png)
 
 ![TE18 - WHO](../../images/points-who/TE/TE18.png)
 
@@ -770,7 +770,7 @@
 
 #### TE19 — לו שי (颅息) — Lú Xī — "מנוחת הגולגולת"
 
-![TE19](../../.gitbook/assets/TE19.png)
+![TE19](../../images/points/TE/TE19.png)
 
 ![TE19 - WHO](../../images/points-who/TE/TE19.png)
 
@@ -805,7 +805,7 @@
 
 #### TE20 — ג'יאו סון (角孙) — Jiǎo Sūn — "זווית האוזן"
 
-![TE20](../../.gitbook/assets/TE20.png)
+![TE20](../../images/points/TE/TE20.png)
 
 ![TE20 - WHO](../../images/points-who/TE/TE20.png)
 
@@ -841,7 +841,7 @@
 
 #### TE21 — אר מן (耳门) — Ěr Mén — "שער האוזן"
 
-![TE21](../../.gitbook/assets/TE21.png)
+![TE21](../../images/points/TE/TE21.png)
 
 ![TE21 - WHO](../../images/points-who/TE/TE21.png)
 
@@ -879,7 +879,7 @@
 
 #### TE22 — הא ליאו (和髎) — Hé Liáo — "שקע הרמוניה"
 
-![TE22](../../.gitbook/assets/TE22.png)
+![TE22](../../images/points/TE/TE22.png)
 
 ![TE22 - WHO](../../images/points-who/TE/TE22.png)
 
@@ -915,7 +915,7 @@
 
 #### TE23 — סי ג'ו קונג (丝竹空) — Sī Zhú Kōng — "חלל משי הבמבוק"
 
-![TE23](../../.gitbook/assets/TE23.png)
+![TE23](../../images/points/TE/TE23.png)
 
 ![TE23 - WHO](../../images/points-who/TE/TE23.png)
 

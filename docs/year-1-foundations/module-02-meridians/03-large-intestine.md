@@ -104,7 +104,7 @@
 3. הנקודה בפינה של בסיס הציפורן — בצד שפונה לאגודל (צד רדיאלי)
 4. מדדו כ-0.1 צון (2 מ"מ) מפינת הציפורן, באלכסון
 
-![LI1](../../.gitbook/assets/LI1.png)
+![LI1](../../images/points/LI/LI1.png)
 
 ![LI1 - WHO](../../images/points-who/LI/LI1.png)
 
@@ -139,7 +139,7 @@
 3. הנקודה נמצאת דיסטלית (לכיוון קצה האצבע) למפרק, בצד הרדיאלי
 4. על הגבול בין העור הבהיר (כף) לעור הכהה (גב)
 
-![LI2](../../.gitbook/assets/LI2.png)
+![LI2](../../images/points/LI/LI2.png)
 
 ![LI2 - WHO](../../images/points-who/LI/LI2.png)
 
@@ -174,7 +174,7 @@
 3. גששו את הגומה שמאחורי ראש עצם המטקרפל — פרוקסימלית למפרק
 4. הנקודה בצד הרדיאלי (צד האגודל), על הגבול בין עור בהיר לכהה
 
-![LI3](../../.gitbook/assets/LI3.png)
+![LI3](../../images/points/LI/LI3.png)
 
 ![LI3 - WHO](../../images/points-who/LI/LI3.png)
 
@@ -210,7 +210,7 @@
 4. הנקודה נמצאת בבשר השרירי (First Dorsal Interosseous) שבין האגודל לאצבע המורה
 5. לחצו כלפי עצם המטקרפל השנייה — כאב ברור וחד
 
-![LI4](../../.gitbook/assets/LI4.png)
+![LI4](../../images/points/LI/LI4.png)
 
 ![LI4 - WHO](../../images/points-who/LI/LI4.png)
 
@@ -247,7 +247,7 @@
 3. זו ה-"Anatomical Snuffbox" — תיבת הטבק האנטומית
 4. הנקודה במרכז הגומה, ברמת קפל שורש כף היד
 
-![LI5](../../.gitbook/assets/LI5.png)
+![LI5](../../images/points/LI/LI5.png)
 
 ![LI5 - WHO](../../images/points-who/LI/LI5.png)
 
@@ -282,7 +282,7 @@
 3. הנקודה נמצאת על הצד הרדיאלי (צד האגודל) של האמה
 4. בין שרירי ה-Extensor Carpi Radialis ו-Abductor Pollicis Longus
 
-![LI6](../../.gitbook/assets/LI6.png)
+![LI6](../../images/points/LI/LI6.png)
 
 ![LI6 - WHO](../../images/points-who/LI/LI6.png)
 
@@ -316,7 +316,7 @@
 2. מדדו 5 צון מעל LI5 (או 7 צון מתחת ל-LI11)
 3. הנקודה על הצד הרדיאלי של האמה, על שריר ה-Extensor Carpi Radialis
 
-![LI7](../../.gitbook/assets/LI7.png)
+![LI7](../../images/points/LI/LI7.png)
 
 ![LI7 - WHO](../../images/points-who/LI/LI7.png)
 
@@ -350,7 +350,7 @@
 2. מדדו 4 צון ישירות מטה לכיוון שורש כף היד
 3. הנקודה על שריר ה-Extensor Carpi Radialis
 
-![LI8](../../.gitbook/assets/LI8.png)
+![LI8](../../images/points/LI/LI8.png)
 
 ![LI8 - WHO](../../images/points-who/LI/LI8.png)
 
@@ -384,7 +384,7 @@
 2. מדדו 3 צון ישירות מטה
 3. הנקודה 1 צון מעל LI8
 
-![LI9](../../.gitbook/assets/LI9.png)
+![LI9](../../images/points/LI/LI9.png)
 
 ![LI9 - WHO](../../images/points-who/LI/LI9.png)
 
@@ -419,7 +419,7 @@
 3. הנקודה על הגוש השרירי הבולט בצד החיצוני של האמה
 4. לחצו — רגישות ברורה
 
-![LI10](../../.gitbook/assets/LI10.png)
+![LI10](../../images/points/LI/LI10.png)
 
 ![LI10 - WHO](../../images/points-who/LI/LI10.png)
 
@@ -455,7 +455,7 @@
 4. גששו את הגומה שנוצרת בין ה-Lateral Epicondyle לבין גיד ה-Biceps
 5. לחצו בגומה — רגישות ברורה
 
-![LI11](../../.gitbook/assets/LI11.png)
+![LI11](../../images/points/LI/LI11.png)
 
 ![LI11 - WHO](../../images/points-who/LI/LI11.png)
 
@@ -490,7 +490,7 @@
 3. מדדו 1 צון מעלה ולטרלית, על שפת עצם ה-Humerus
 4. הנקודה על הגבול של ה-Lateral Supracondylar Ridge
 
-![LI12](../../.gitbook/assets/LI12.png)
+![LI12](../../images/points/LI/LI12.png)
 
 ![LI12 - WHO](../../images/points-who/LI/LI12.png)
 
@@ -524,7 +524,7 @@
 2. מדדו 3 צון מעלה לכיוון הכתף
 3. הנקודה על הצד הלטרלי-קדמי של הזרוע, על שריר ה-Brachioradialis/Brachialis
 
-![LI13](../../.gitbook/assets/LI13.png)
+![LI13](../../images/points/LI/LI13.png)
 
 ![LI13 - WHO](../../images/points-who/LI/LI13.png)
 
@@ -558,7 +558,7 @@
 2. מדדו 7 צון מעל LI11, על הקו המחבר ביניהם
 3. הנקודה נמצאת על קצה ה-Deltoid Insertion, בגבול בין הדלתואיד לביצפס
 
-![LI14](../../.gitbook/assets/LI14.png)
+![LI14](../../images/points/LI/LI14.png)
 
 ![LI14 - WHO](../../images/points-who/LI/LI14.png)
 
@@ -593,7 +593,7 @@
 3. LI15 נמצאת בגומה **הקדמית** (Anterior Depression)
 4. כאשר הזרוע מורדת, הנקודה מכוסה על ידי שריר ה-Deltoid
 
-![LI15](../../.gitbook/assets/LI15.png)
+![LI15](../../images/points/LI/LI15.png)
 
 ![LI15 - WHO](../../images/points-who/LI/LI15.png)
 
@@ -628,7 +628,7 @@
 3. הנקודה בגומה שאחורית ותחתית למפרק זה
 4. בקשו מהמטופל להצמיד את היד לכתף הנגדית — הגומה תתגלה
 
-![LI16](../../.gitbook/assets/LI16.png)
+![LI16](../../images/points/LI/LI16.png)
 
 ![LI16 - WHO](../../images/points-who/LI/LI16.png)
 
@@ -664,7 +664,7 @@
 3. הנקודה ברמת ה-Cricoid, על הגבול האחורי של ה-SCM
 4. 1 צון מתחת ל-LI18
 
-![LI17](../../.gitbook/assets/LI17.png)
+![LI17](../../images/points/LI/LI17.png)
 
 ![LI17 - WHO](../../images/points-who/LI/LI17.png)
 
@@ -700,7 +700,7 @@
 3. הנקודה ברמת תפוח האדם, בין הראש הסטרנלי והקלביקולרי של ה-SCM
 4. 1 צון מעל LI17
 
-![LI18](../../.gitbook/assets/LI18.png)
+![LI18](../../images/points/LI/LI18.png)
 
 ![LI18 - WHO](../../images/points-who/LI/LI18.png)
 
@@ -735,7 +735,7 @@
 2. מדדו 0.5 צון הצידה מ-DU26
 3. הנקודה ישירות מתחת לנחיר, ברמת הגבול של השפה העליונה
 
-![LI19](../../.gitbook/assets/LI19.png)
+![LI19](../../images/points/LI/LI19.png)
 
 ![LI19 - WHO](../../images/points-who/LI/LI19.png)
 
@@ -770,7 +770,7 @@
 3. הנקודה בקפל שנוצר בין הלחי לאף (Nasolabial Fold)
 4. לחצו — רגישות ותחושה של "פתיחת האף"
 
-![LI20](../../.gitbook/assets/LI20.png)
+![LI20](../../images/points/LI/LI20.png)
 
 ![LI20 - WHO](../../images/points-who/LI/LI20.png)
 
