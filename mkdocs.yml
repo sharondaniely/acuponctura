@@ -6,28 +6,39 @@ theme:
   name: material
   direction: rtl
   language: he
+  icon:
+    logo: material/needle
+    repo: fontawesome/brands/github
   palette:
-    - scheme: default
-      primary: teal
-      accent: amber
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: מצב לילה
-    - scheme: slate
-      primary: teal
-      accent: amber
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: מצב יום
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
     - navigation.indexes
     - search.highlight
     - search.suggest
+    - search.share
     - content.tabs.link
     - toc.integrate
+    - header.autohide
   font:
     text: Noto Sans Hebrew
     code: Roboto Mono
@@ -42,12 +53,23 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sharondaniely/acuponctura
+  generator: false
 
 nav:
   - דף הבית: README.md
