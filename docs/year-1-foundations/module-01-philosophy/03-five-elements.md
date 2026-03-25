@@ -43,7 +43,13 @@
 
 ## 2. מחזורי האינטראקציה בין האלמנטים
 
-![מחזורי חמשת האלמנטים](../../../images/theory/five-elements-cycle.png)
+![מחזורי חמשת האלמנטים](../../images/theory/five-elements-cycle.png)
+
+![חמשת האלמנטים — דיאגרמה בעברית](../../images/philosophy/wuxing-five-elements-he.png)
+
+![מחזורי יצירה ושליטה](../../images/philosophy/wu-xing-cycles.png)
+
+![איזון וחוסר איזון בחמשת האלמנטים](../../images/philosophy/five-elements-balance-imbalance.png)
 
 ### 2.1 מחזור היצירה - שנג (生 Sheng Cycle / Generation Cycle)
 

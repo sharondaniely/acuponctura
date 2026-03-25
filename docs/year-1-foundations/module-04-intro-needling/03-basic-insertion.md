@@ -20,7 +20,7 @@
 
 ### 1.1 החדרה ניצבת (直刺 Zhi Ci) — 90°
 
-![זוויות החדרה](../../../images/techniques/needle-angles.png)
+![זוויות החדרה](../../images/techniques/needle-angles.png)
 
 - **זווית**: 90° ביחס לפני העור
 - **שימוש**: אזורים עם שכבת שריר עבה
