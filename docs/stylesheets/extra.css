@@ -260,10 +260,19 @@ body, .md-typeset {
   line-height: 1.6;
 }
 
-.card .card-emoji {
-  font-size: 1.8rem;
-  margin-bottom: 0.5rem;
+.card .card-icon {
+  font-size: 2rem;
   display: block;
+  margin-bottom: 0.3rem;
+}
+
+.card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  text-decoration: underline;
 }
 
 /* ========== Hero Section ========== */

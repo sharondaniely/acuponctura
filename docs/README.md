@@ -42,69 +42,69 @@ hide:
 
 <div class="grid-cards" markdown>
 
-<a class="card" href="year-1-foundations/" markdown>
-<span class="card-emoji">:material-school:</span>
+<div class="card" markdown>
+:material-school:{ .card-icon }
 
-### שנה 1 — יסודות
+### [שנה 1 — יסודות](year-1-foundations/)
 
 פילוסופיה של הרפואה הסינית, תורת ין-יאנג, חמשת האלמנטים, מערכת המרידיאנים, אנטומיה, ויסודות הדיקור
-</a>
+</div>
 
-<a class="card" href="year-2-intermediate/" markdown>
-<span class="card-emoji">:material-layers-triple:</span>
+<div class="card" markdown>
+:material-layers-triple:{ .card-icon }
 
-### שנה 2 — רמת ביניים
+### [שנה 2 — רמת ביניים](year-2-intermediate/)
 
 זאנג-פו, פתולוגיה, קומפנדיום סינדרומים, אבחון מתקדם, חשיבה קלינית, קטגוריות נקודות, וטכניקות מתקדמות
-</a>
+</div>
 
-<a class="card" href="year-3-clinical/" markdown>
-<span class="card-emoji">:material-hospital-box:</span>
+<div class="card" markdown>
+:material-hospital-box:{ .card-icon }
 
-### שנה 3 — יישום קליני
+### [שנה 3 — יישום קליני](year-3-clinical/)
 
 רפואה פנימית, שריר-שלד, גינקולוגיה, מצבים נפשיים-רגשיים, דרמטולוגיה, ושילוב צמחי מרפא
-</a>
+</div>
 
-<a class="card" href="year-4-advanced/" markdown>
-<span class="card-emoji">:material-star-shooting:</span>
+<div class="card" markdown>
+:material-star-shooting:{ .card-icon }
 
-### שנה 4 — מתקדם
+### [שנה 4 — מתקדם](year-4-advanced/)
 
 מיקרוסיסטמס, סגנונות קלאסיים, מקרים מורכבים, ומחקר מבוסס ראיות
-</a>
+</div>
 
-<a class="card" href="year-5-mastery/" markdown>
-<span class="card-emoji">:material-trophy:</span>
+<div class="card" markdown>
+:material-trophy:{ .card-icon }
 
-### שנה 5 — מומחיות
+### [שנה 5 — מומחיות](year-5-mastery/)
 
 אינטגרציה מתקדמת, ניהול קליניקה, ומתודולוגיית הוראה
-</a>
+</div>
 
-<a class="card" href="case-studies/" markdown>
-<span class="card-emoji">:material-book-open-variant:</span>
+<div class="card" markdown>
+:material-book-open-variant:{ .card-icon }
 
-### תיאורי מקרה
+### [תיאורי מקרה](case-studies/)
 
 6 חוברות עם 29 תיאורי מקרה מפורטים — מהצגת מטופל, דרך אבחון, ועד טיפול ופתרון
-</a>
+</div>
 
-<a class="card" href="diagnostic-tool/" markdown>
-<span class="card-emoji">:material-stethoscope:</span>
+<div class="card" markdown>
+:material-stethoscope:{ .card-icon }
 
-### כלי אבחון
+### [כלי אבחון](diagnostic-tool/)
 
 כלי מקיף שמוביל שלב-שלב מקליטת המטופל, דרך זיהוי הסינדרום, ועד בחירת נקודות ותוכנית טיפול
-</a>
+</div>
 
-<a class="card" href="CURRICULUM/" markdown>
-<span class="card-emoji">:material-map:</span>
+<div class="card" markdown>
+:material-map:{ .card-icon }
 
-### מפת הקורס
+### [מפת הקורס](CURRICULUM/)
 
 סקירה מלאה של כל המודולים, הנושאים והשיעורים בקורס
-</a>
+</div>
 
 </div>
 
