@@ -1,5 +1,5 @@
 
-# מודול 6ב: קומפנדיום סינדרומים (辨证纲要)
+# מודול 6ב: קומפנדיום סינדרומים
 
 ## תיאור כללי
 
@@ -44,40 +44,40 @@
 
 ## טבלת סינדרומים לפי מערכת איברים
 
-### סינדרומי כבד (肝 Gan)
+### סינדרומי כבד (Gan)
 
 | # | סינדרום | פיניין | סיני | סוג | קובץ |
 |---|---------|--------|------|------|------|
-| 1 | אגירת צ'י הכבד | Gan Qi Yu Jie | 肝气郁结 | עודף | [01-liver-qi-stagnation.md](liver-syndromes/01-liver-qi-stagnation.md) |
-| 2 | אש כבד עולה | Gan Huo Shang Yan | 肝火上炎 | עודף-חום | [02-liver-fire.md](liver-syndromes/02-liver-fire.md) |
-| 3 | חוסר דם כבד | Gan Xue Xu | 肝血虚 | חוסר | [03-liver-blood-deficiency.md](liver-syndromes/03-liver-blood-deficiency.md) |
-| 4 | חוסר ין כבד | Gan Yin Xu | 肝阴虚 | חוסר | [04-liver-yin-deficiency.md](liver-syndromes/04-liver-yin-deficiency.md) |
-| 5 | רוח כבד פנימית | Gan Feng Nei Dong | 肝风内动 | מעורב | [05-liver-wind.md](liver-syndromes/05-liver-wind.md) |
-| 6 | עליית יאנג כבד | Gan Yang Shang Kang | 肝阳上亢 | מעורב | [06-liver-yang-rising.md](liver-syndromes/06-liver-yang-rising.md) |
-| 7 | קיפאון קור בערוץ הכבד | Han Zhi Gan Mai | 寒滞肝脉 | עודף-קור | [07-cold-stagnation-liver.md](liver-syndromes/07-cold-stagnation-liver.md) |
-| 8 | לחות-חום בכבד ומרה | Gan Dan Shi Re | 肝胆湿热 | עודף-לחות-חום | [08-liver-gallbladder-damp-heat.md](liver-syndromes/08-liver-gallbladder-damp-heat.md) |
+| 1 | אגירת צ'י הכבד | Gan Qi Yu Jie | | עודף | [01-liver-qi-stagnation.md](liver-syndromes/01-liver-qi-stagnation.md) |
+| 2 | אש כבד עולה | Gan Huo Shang Yan | | עודף-חום | [02-liver-fire.md](liver-syndromes/02-liver-fire.md) |
+| 3 | חוסר דם כבד | Gan Xue Xu | | חוסר | [03-liver-blood-deficiency.md](liver-syndromes/03-liver-blood-deficiency.md) |
+| 4 | חוסר ין כבד | Gan Yin Xu | | חוסר | [04-liver-yin-deficiency.md](liver-syndromes/04-liver-yin-deficiency.md) |
+| 5 | רוח כבד פנימית | Gan Feng Nei Dong | | מעורב | [05-liver-wind.md](liver-syndromes/05-liver-wind.md) |
+| 6 | עליית יאנג כבד | Gan Yang Shang Kang | | מעורב | [06-liver-yang-rising.md](liver-syndromes/06-liver-yang-rising.md) |
+| 7 | קיפאון קור בערוץ הכבד | Han Zhi Gan Mai | | עודף-קור | [07-cold-stagnation-liver.md](liver-syndromes/07-cold-stagnation-liver.md) |
+| 8 | לחות-חום בכבד ומרה | Gan Dan Shi Re | | עודף-לחות-חום | [08-liver-gallbladder-damp-heat.md](liver-syndromes/08-liver-gallbladder-damp-heat.md) |
 
-### סינדרומי לב (心 Xin)
+### סינדרומי לב (Xin)
 
 | # | סינדרום | פיניין | סיני | סוג | קובץ |
 |---|---------|--------|------|------|------|
-| 1 | חוסר צ'י לב | Xin Qi Xu | 心气虚 | חוסר | [01-heart-qi-deficiency.md](heart-syndromes/01-heart-qi-deficiency.md) |
-| 2 | חוסר יאנג לב | Xin Yang Xu | 心阳虚 | חוסר-קור | [02-heart-yang-deficiency.md](heart-syndromes/02-heart-yang-deficiency.md) |
-| 3 | חוסר ין לב | Xin Yin Xu | 心阴虚 | חוסר-חום ריק | [03-heart-yin-deficiency.md](heart-syndromes/03-heart-yin-deficiency.md) |
-| 4 | חוסר דם לב | Xin Xue Xu | 心血虚 | חוסר | [04-heart-blood-deficiency.md](heart-syndromes/04-heart-blood-deficiency.md) |
-| 5 | אש לב | Xin Huo Kang Sheng | 心火亢盛 | עודף-חום | [05-heart-fire.md](heart-syndromes/05-heart-fire.md) |
-| 6 | קיפאון דם לב | Xin Xue Yu Zu | 心血瘀阻 | עודף-קיפאון | [06-heart-blood-stasis.md](heart-syndromes/06-heart-blood-stasis.md) |
-| 7 | ליחה מעממת את הלב | Tan Meng Xin Qiao | 痰蒙心窍 | עודף-ליחה | [07-phlegm-misting-heart.md](heart-syndromes/07-phlegm-misting-heart.md) |
+| 1 | חוסר צ'י לב | Xin Qi Xu | | חוסר | [01-heart-qi-deficiency.md](heart-syndromes/01-heart-qi-deficiency.md) |
+| 2 | חוסר יאנג לב | Xin Yang Xu | | חוסר-קור | [02-heart-yang-deficiency.md](heart-syndromes/02-heart-yang-deficiency.md) |
+| 3 | חוסר ין לב | Xin Yin Xu | | חוסר-חום ריק | [03-heart-yin-deficiency.md](heart-syndromes/03-heart-yin-deficiency.md) |
+| 4 | חוסר דם לב | Xin Xue Xu | | חוסר | [04-heart-blood-deficiency.md](heart-syndromes/04-heart-blood-deficiency.md) |
+| 5 | אש לב | Xin Huo Kang Sheng | | עודף-חום | [05-heart-fire.md](heart-syndromes/05-heart-fire.md) |
+| 6 | קיפאון דם לב | Xin Xue Yu Zu | | עודף-קיפאון | [06-heart-blood-stasis.md](heart-syndromes/06-heart-blood-stasis.md) |
+| 7 | ליחה מעממת את הלב | Tan Meng Xin Qiao | | עודף-ליחה | [07-phlegm-misting-heart.md](heart-syndromes/07-phlegm-misting-heart.md) |
 
-### סינדרומי טחול (脾 Pi) — *יתווסף*
+### סינדרומי טחול (Pi) — *יתווסף*
 
-### סינדרומי ריאות (肺 Fei) — *יתווסף*
+### סינדרומי ריאות (Fei) — *יתווסף*
 
-### סינדרומי כליות (肾 Shen) — *יתווסף*
+### סינדרומי כליות (Shen) — *יתווסף*
 
-### סינדרומי קיבה (胃 Wei) — *יתווסף*
+### סינדרומי קיבה (Wei) — *יתווסף*
 
-### סינדרומים משולבים (复合证) — *יתווסף*
+### סינדרומים משולבים — *יתווסף*
 
 ---
 
@@ -94,37 +94,37 @@
 ## מפת קשרים בין סינדרומי כבד
 
 ```
-אגירת צ'י כבד (肝气郁结)
-├── → אש כבד (肝火上炎) ← [אגירה הופכת לחום]
-│     └── → חוסר ין כבד (肝阴虚) ← [אש שורפת ין]
-│           └── → עליית יאנג כבד (肝阳上亢) ← [ין לא מעגן יאנג]
-│                 └── → רוח כבד (肝风内动) ← [יאנג קיצוני הופך לרוח]
+אגירת צ'י כבד
+├── → אש כבד ← [אגירה הופכת לחום]
+│ └── → חוסר ין כבד ← [אש שורפת ין]
+│ └── → עליית יאנג כבד ← [ין לא מעגן יאנג]
+│ └── → רוח כבד ← [יאנג קיצוני הופך לרוח]
 ├── → קיפאון דם ← [אגירת צ'י ממושכת מעכבת דם]
 ├── → התקפת כבד על טחול/קיבה ← [כבד תוקף עיכול]
 └── → ליחה/שקעים ← [אגירה פוגעת בחילוף נוזלים]
 
-חוסר דם כבד (肝血虚)
-├── → חוסר ין כבד (肝阴虚) ← [דם הוא חלק מהין]
-├── → רוח מחוסר (血虚生风) ← [דם לא מזין גידים]
-└── → חוסר דם לב (心血虚) ← [כבד ולב חולקים דם]
+חוסר דם כבד
+├── → חוסר ין כבד ← [דם הוא חלק מהין]
+├── → רוח מחוסר ← [דם לא מזין גידים]
+└── → חוסר דם לב ← [כבד ולב חולקים דם]
 ```
 
 ## מפת קשרים בין סינדרומי לב
 
 ```
-חוסר צ'י לב (心气虚)
-└── → חוסר יאנג לב (心阳虚) ← [צ'י חלש → יאנג חלש]
-      └── → קריסת יאנג (亡阳) ← [מצב חירום!]
+חוסר צ'י לב
+└── → חוסר יאנג לב ← [צ'י חלש → יאנג חלש]
+      └── → קריסת יאנג ← [מצב חירום!]
 
-חוסר דם לב (心血虚)
-└── → חוסר ין לב (心阴虚) ← [דם הוא חלק מהין]
-      └── → אש ריקה (虚火) ← [ין לא מאזן אש]
+חוסר דם לב
+└── → חוסר ין לב ← [דם הוא חלק מהין]
+      └── → אש ריקה ← [ין לא מאזן אש]
 
-אש לב (心火亢盛) → שורפת ין → חוסר ין לב
+אש לב → שורפת ין → חוסר ין לב
 
-חוסר צ'י/יאנג → דם לא זורם → קיפאון דם לב (心血瘀阻)
+חוסר צ'י/יאנג → דם לא זורם → קיפאון דם לב
 
-חולשת טחול → ליחה → ליחה מעממת לב (痰蒙心窍)
+חולשת טחול → ליחה → ליחה מעממת לב
 ```
 
 ## סיכום מהיר: לשון ודופק
@@ -133,7 +133,7 @@
 
 | סינדרום | לשון | דופק |
 |---------|------|------|
-| אגירת צ'י כבד | רגילה/אדמדמה בצדדים | חוטי (弦) |
+| אגירת צ'י כבד | רגילה/אדמדמה בצדדים | חוטי |
 | אש כבד | אדומה, ציפוי צהוב יבש | חוטי + מהיר |
 | חוסר דם כבד | חיוורת בצדדים | דק + חוטי |
 | חוסר ין כבד | אדומה, ללא ציפוי | דק + מהיר |

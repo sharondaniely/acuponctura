@@ -11,11 +11,11 @@
 
 | # | נושא | קובץ |
 |---|------|------|
-| 1 | חמש נקודות שו (וו שו שיואה — 五输穴) | [01-five-shu-points.md](01-five-shu-points.md) |
+| 1 | חמש נקודות שו (וו שו שיואה) | [01-five-shu-points.md](01-five-shu-points.md) |
 | 2 | נקודות יואן, לואו ושי | [02-yuan-luo-xi.md](02-yuan-luo-xi.md) |
 | 3 | שו-גב ומו-קדמי | [03-back-shu-front-mu.md](03-back-shu-front-mu.md) |
 | 4 | שמונה נקודות המפגש | [04-eight-confluent.md](04-eight-confluent.md) |
-| 5 | נקודות ההשפעה (הוי — 会穴) | [05-hui-meeting-points.md](05-hui-meeting-points.md) |
+| 5 | נקודות ההשפעה (הוי) | [05-hui-meeting-points.md](05-hui-meeting-points.md) |
 | 6 | נקודות נוספות חשובות | [06-extra-points.md](06-extra-points.md) |
 
 ## חומר מעשי

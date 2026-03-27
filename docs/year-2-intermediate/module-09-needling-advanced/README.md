@@ -11,10 +11,10 @@
 
 | # | נושא | קובץ |
 |---|------|------|
-| 1 | חיזוק וניקוז — בו שיה (补泻) | [01-reinforcing-reducing.md](01-reinforcing-reducing.md) |
-| 2 | מוקסיבוסציה (灸) | [02-moxibustion.md](02-moxibustion.md) |
+| 1 | חיזוק וניקוז — בו שיה | [01-reinforcing-reducing.md](01-reinforcing-reducing.md) |
+| 2 | מוקסיבוסציה | [02-moxibustion.md](02-moxibustion.md) |
 | 3 | כוסות רוח | [03-cupping.md](03-cupping.md) |
-| 4 | גואה שא (刮痧) | [04-gua-sha.md](04-gua-sha.md) |
+| 4 | גואה שא | [04-gua-sha.md](04-gua-sha.md) |
 | 5 | אלקטרואקופונקטורה | [05-electroacupuncture.md](05-electroacupuncture.md) |
 
 ## חומר מעשי

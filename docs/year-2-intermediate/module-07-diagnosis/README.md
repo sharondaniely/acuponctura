@@ -11,9 +11,9 @@
 
 | # | נושא | קובץ |
 |---|------|------|
-| 1 | התבוננות (וואנג — 望) | [01-inspection.md](01-inspection.md) |
+| 1 | התבוננות (וואנג) | [01-inspection.md](01-inspection.md) |
 | 2 | אבחון לשון | [02-tongue-diagnosis.md](02-tongue-diagnosis.md) |
-| 3 | האזנה והרחה (וון — 闻) | [03-listening-smelling.md](03-listening-smelling.md) |
+| 3 | האזנה והרחה (וון) | [03-listening-smelling.md](03-listening-smelling.md) |
 | 4 | שאילה — עשר השאלות | [04-inquiry.md](04-inquiry.md) |
 | 5 | אבחון דופק | [05-pulse-diagnosis.md](05-pulse-diagnosis.md) |
 | 6 | אבחון בטני | [06-abdominal-diagnosis.md](06-abdominal-diagnosis.md) |
